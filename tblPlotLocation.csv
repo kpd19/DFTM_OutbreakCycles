@@ -1,0 +1,1704 @@
+Region,PlotID,NearestForest,Nearest District,PlotNo,PlotName,Type,State,StateDistrict,Township,Mod_Town,Range,Mod_Range,Section,Latitude,Longitude,Notes/Remarks
+1,1,Nez_Perce_NF,Supervisors_Office,3-1,Keuterville,usfs,ID,,31,N,1,W,9,,,
+1,2,Clearwater_NF,North_Fork,5-1,Johnson,usfs,ID,,37,N,3,E,9,,,
+1,3,Clearwater_NF,North_Fork,5-6,Summit_Landing,usfs,ID,,38,N,5,E,35,,,
+1,4,Nez_Perce_NF,Supervisors_Office,3-2,Cottonwood_Butte,usfs,ID,,32,N,1,W,33,,,
+1,5,Clearwater_NF,North_Fork,5-7,Shin_Pt,usfs,ID,,39,N,7,E,16,,,
+1,6,Clearwater_NF,North_Fork,5-10,Cooper,usfs,ID,,36,N,3,E,12,,,
+1,7,ID_Dept._of_Lands,Craig_Mtn._Area,4-1,Lake_Waha,usfs,ID,,33,N,4,W,23,,,
+1,8,Clearwater_NF,North_Fork,5-9,Skull_Cr,usfs,ID,,41,N,9,E,30,,,
+1,9,Clearwater_NF,Lochsa,6-1,Canyon_Jct,usfs,ID,,34,N,7,E,5,,,
+1,10,ID_Dept._of_Lands,Craig_Mtn._Area,4-6,Forest,usfs,ID,,32,N,3,W,1,,,
+1,11,Clearwater_NF,North_Fork,5-8,Swanson_Cr,usfs,ID,,39,N,7,E,5,,,
+1,12,Clearwater_NF,Lochsa,6-2,Fan_Cr_Saddle,usfs,ID,,34,N,6,E,36,,,
+1,13,ID_Dept._of_Lands,Craig_Mtn._Area,4-5,Webb_Cr,usfs,ID,,33,N,3,W,36,,,
+1,14,Clearwater_NF,North_Fork,5-2,Angle_Butte,usfs,ID,,37,N,3,E,10,,,
+1,15,Nez_Perce_NF,Moose_Creek,1-1,Lodge_Pt,usfs,ID,,32,N,6,E,13,,,
+1,16,ID_Dept._of_Lands,Craig_Mtn._Area,4-2,Black_Pine,usfs,ID,,33,N,4,W,35,,,
+1,17,Clearwater_NF,North_Fork,5-5,Bald_Mtn,usfs,ID,,37,N,5,E,5,,,
+1,18,Clearwater_NF,Kooskia,1-5,Big_Tinker,usfs,ID,,32,N,5,E,25,,,
+1,19,ID_Dept._of_Lands,Craig_Mtn._Area,4-3,Junction,usfs,ID,,32,N,4,W,22,,,
+1,20,Clearwater_NF,North_Fork,5-4,Bargamin_Cr,usfs,ID,,37,N,4,E,23,,,
+1,21,Clearwater_NF,Kooskia,1-4,Potatoe_Hill,usfs,ID,,32,N,6,E,29,,,
+1,22,ID_Dept._of_Lands,Craig_Mtn._Area,4-4,Captain_John,usfs,ID,,32,N,4,W,21,,,
+1,23,Clearwater_NF,North_Fork,5-3,Grangemont,usfs,ID,,37,N,3,E,24,,,
+1,24,Nez_Perce_NF,Moose_Creek,1-3,Pine_Knob,usfs,ID,,32,N,6,E,26,,,
+1,25,Nez_Perce_NF,Salmon_River,2-2,Christie_Ck,usfs,ID,,26,N,1,E,6,,,
+1,26,Nez_Perce_NF,Salmon_River,2-5,S_Fk_Cow_Cr,usfs,ID,,25,N,1,E,8,,,
+1,27,Nez_Perce_NF,Salmon_River,2-3,Cow_Ck_Saddle,usfs,ID,,25,N,1,W,2,,,
+1,28,Nez_Perce_NF,Salmon_River,2-1,Rhett_Ck,usfs,ID,,27,N,1,E,33,,,
+1,29,Nez_Perce_NF,Salmon_River,2-4,Low_Saddle,usfs,ID,,25,N,1,W,10,,,
+1,30,Nez_Perce_NF,Moose_Creek,1-2,Goddard,usfs,ID,,31,N,6,E,10,,,
+1,31,Nez_Perce_NF,Salmon_River,,Wickiup_B,usfs,ID,,26,N,1,E,6,,,
+1,32,ID_Dept._of_Lands,Craig_Mtn._Area,,Craigmont,usfs,ID,,32,N,3,W,1,,,
+1,33,Clearwater_NF,Palouse,7-1,Laird_Park,usfs,ID,,42,N,3,S,36,,,
+1,34,Clearwater_NF,Palouse,7-2,Little_Bald_Mtn.,usfs,ID,,42,N,2,W,4,,,
+1,35,Clearwater_NF,Palouse,7-3,Little_Boulder_Cr.,usfs,ID,,40,N,1,W,28,,,
+1,36,Clearwater_NF,Palouse,7-4,W.Fork_Potlatch_R.,usfs,ID,,41,N,1,W,2,,,
+1,37,Clearwater_NF,Palouse,7-5,Elk_Creek_Falls,usfs,ID,,39,N,2,E,11,,,
+1,38,Clearwater_NF,Palouse,7-6,Morris_Creek,usfs,ID,,40,N,2,E,3,,,
+1,39,Nez_Perce_NF,Salmon_River,2-6,Springs Mtns,usfs,ID,Idaho,25,N,1,W,11,,,
+1,40,Cottonwood_BLM,Cottonwood_BLM,4-7,No_Name,blm,ID,,33,N,4,W,36,,,
+1,41,Clearwater_NF,Lochsa,6-3,Mud_Creek,usfs,ID,,33,N,6,E,2,,,
+1,42,Clearwater_NF,North_Fork,5-11,Cook_Creek,usfs,ID,,36,N,3,E,14,,,
+1,43,Clearwater_NF,North_Fork,5-12,Whiskey_Creek,usfs,ID,,36,N,3,E,17,,,
+1,44,Nez_Perce_NF,Salmon_River,2-7,Crooks_Corral,usfs,ID,,26,N,1,W,25,,,
+1,45,CDA_Indian_Reservation,CDA_Indian_Reservation,8-1,Rose_Creek,bia,ID,,46,N,5,W,9,,,
+1,46,CDA_Indian_Reservation,CDA_Indian_Reservation,8-2,Wise_Lane,bia,ID,,45,N,5,W,9,,,
+1,47,CDA_Indian_Reservation,CDA_Indian_Reservation,8-3,Old_Tensed_Road,bia,ID,,44,N,4,W,6,,,
+2,1,Pike_NF,South_Platte,01,Buffalo_Creek,usfs,CO,,8,S,71,W,22,,,Not trapped since 1990
+2,2,Pike_NF,South_Platte,02,Estabrook,usfs,CO,,8,S,72,W,2,,,Not trapped since 1990
+2,3,Pike_NF,South_Platte,03,Wellington_Lake,usfs,CO,,8,S,71,W,30,,,Not trapped since 1990
+2,4,Pike_NF,South_Platte,04,Stoney_Pass,usfs,CO,,9,S,71,W,3,,,Not trapped since 1990
+2,5,Pike_NF,South_Platte,05,Sugarloaf_Peak,usfs,CO,,9,S,71,W,21,,,Not trapped since 1990
+2,6,Pike_NF,South_Platte,06,Molly_Gulch_CG,usfs,CO,,9,S,71,W,33,,,Discontinued site in 2014
+2,7,Pike_NF,South_Platte,07,Goose_Creek,usfs,CO,,10,S,71,W,29,,,Not trapped since 1990
+2,8,Pike_NF,South_Platte,08,Wigwam,usfs,CO,,9,S,70,W,30,,,Not trapped since 1995
+2,9,Pike_NF,South_Platte,09,Sixmile_Creek,usfs,CO,,9,S,70,W,6,,,Not trapped since 1990
+2,10,Pike_NF,South_Platte,10,Road_550_Creek,usfs,CO,,8,S,71,W,24,,,Not trapped since 1990
+2,11,Pike_NF,South_Platte,11,Spring Creek,usfs,CO,,8,S,70,W,17,,,Not trapped since 1990
+2,12,Pike_NF,South_Platte,12,Spring Gulch,usfs,CO,,7,S,70,W,32,,,Not trapped since 1990
+2,13,Pike_NF,South_Platte,13,Platte Canyon,usfs,CO,,8,S,70,W,1,,,Not trapped since 1990
+2,14,Pike_NF,South_Platte,14,Raleigh Peak,usfs,CO,,7,S,70,W,34,,,Not trapped since 1990
+2,15,Pike_NF,South_Platte,15,Night Hawk Hill,usfs,CO,,8,S,69,W,18,,,Not trapped since 1990
+2,16,Pike_NF,South_Platte,16,Scraggy View PG,usfs,CO,,8,S,70,W,25,,,Not trapped since 1990
+2,17,Pike_NF,South_Platte,17,Sugar Creek 17,usfs,CO,,8,S,70,W,36,,,Not trapped since 1990
+2,18,Pike_NF,South_Platte,18,Sugar Creek 18,usfs,CO,,9,S,69,W,6,,,Not trapped since 1990
+2,19,Pike_NF,South_Platte,19,West Creek,usfs,CO,,10,S,70,W,13,,,Not trapped since 1995
+2,20,Pike_NF,South_Platte,20,East Cheesman,usfs,CO,,10,S,70,W,28,,,Not trapped since 1990
+2,21,Pike_NF,South_Platte,21,Fourmile Creek,usfs,CO,,10,S,70,W,16,,,Not trapped since 1990
+2,22,Pike_NF,South_Platte,22,Big Turkey CG,usfs,CO,,11,S,70,W,4,,,Discontinued site in 2014
+2,23,Pike_NF,South_Platte,23,Indian Creek CG,usfs,CO,,8,S,69,W,10,,,
+2,24,Pike_NF,South_Platte,24,Flat Rocks CG,usfs,CO,,8,S,69,W,26,39.325734,-105.085117,
+2,25,Pike_NF,South_Platte,25,Rampart-507 Rd,usfs,CO,,9,S,69,W,2,,,Not trapped since 1990
+2,26,Pike_NF,South_Platte,26,Topaz Point CG/Virgins Bath,usfs,CO,,9,S,69,W,21,39.252865,-105.118068,
+2,27,Pike_NF,South_Platte,27,Dakan Mtn,usfs,CO,,9,S,69,W,25,,,Not trapped since 1990
+2,28,Pike_NF,South_Platte,28,Quartz Rd Mine,usfs,CO,,10,S,69,W,1,,,Not trapped since 1990
+2,29,Pike_NF,South_Platte,29,Illinois Gulch,usfs,CO,,10,S,69,W,27,,,Not trapped since 1990
+2,30,Pike_NF,South_Platte,30,Rocky,usfs,CO,,10,S,69,W,20,,,Not trapped since 1990
+2,31,Pike_NF,South_Platte,31,Fern Creek,usfs,CO,,10,S,69,W,27,,,Not trapped since 1990
+2,32,Pike_NF,South_Platte,32,Rainbow Falls,usfs,CO,,10,S,69,W,29,,,Not trapped since 1990
+2,33,Pike_NF,South_Platte,33,Devil's Head CG,usfs,CO,,9,S,69,W,10,39.27552,-105.106767,
+2,34,Pike_NF,South_Platte,34,Horse Creek,usfs,CO,,9,S,70,W,35,,,Not trapped since 1995
+2,35,Pike_NF,South_Platte,35,Sheep Nose,usfs,CO,,10,S,70,W,34,,,Not trapped since 1990
+2,36,Pike_NF,South_Platte,36,Turkey Creek,usfs,CO,,10,S,70,W,31,,,Not trapped since 1990
+2,37,Pike_NF,South_Platte,37,Northrup Gulch,usfs,CO,,11,S,71,W,1,,,Not trapped since 1990
+2,38,Pike_NF,South_Platte,38,Cedar Mtn,usfs,CO,,11,S,71,W,12,,,Not trapped since 1990
+2,39,Pike_NF,South_Platte,39,Hackett Gulch,usfs,CO,,11,S,71,W,25,,,Not trapped since 1990
+2,40,Pike_NF,South_Platte,40,Top-of-the-World,usfs,CO,,8,S,70,W,4,,,Not trapped since 1995
+2,41,Pike_NF,South_Platte,41,Redskin Mtn,usfs,CO,,8,S,71,W,7,,,Not trapped since 1990
+2,42,Pike_NF,South_Platte,42,Dell Gulch,usfs,CO,,8,S,70,W,28,,,Not trapped since 1990
+2,43,Pike_NF,South_Platte,43,South Garber Creek,usfs,CO,,8,S,69,W,25,,,Not trapped since 1990
+2,44,Pike_NF,South_Platte,44,Bergen Rock,usfs,CO,,9,S,69,W,13,,,Not trapped since 1990
+2,45,Pike_NF,South_Platte,45,Dry Gulch,usfs,CO,,9,S,69,W,13,,,Not trapped since 1990
+2,46,Pike_NF,South_Platte,46,Jackson Creek,usfs,CO,,9,S,69,W,27,,,Not trapped since 1990
+2,47,Pike_NF,South_Platte,47,Upper Trail Creek,usfs,CO,,12,S,70,W,7,,,Not trapped since 1990
+2,48,Pike_NF,South_Platte,48,Wildhorn,usfs,CO,,11,S,70,W,29,,,Not trapped since 1990
+2,49,Pike_NF,South_Platte,49,Saloon Gulch,usfs,CO,,9,S,70,W,4,,,Not trapped since 1990
+2,50,Pike_NF,South_Platte,50,Brush Creek,usfs,CO,,9,S,70,W,5,,,Discontinued site in 2014
+2,51,Pike_NF,South_Platte,51,Eagle Rock,usfs,CO,,8,S,69,W,6,,,Not trapped since 1990
+2,52,Pike_NF,South_Platte,52,Pine Creek,usfs,CO,,8,S,69,W,18,,,Not trapped since 1990
+2,53,Pike_NF,South_Platte,53,Willow Bend PA,usfs,CO,,8,S,70,W,24,,,Not trapped since 1990
+2,54,Pike_NF,South_Platte,54,Sugar Creek-54,usfs,CO,,9,S,70,W,1,,,Not trapped since 1990
+2,55,Pike_NF,South_Platte,55,Sugar Creek-55,usfs,CO,,9,S,69,W,6,,,Not trapped since 1990
+2,56,Pike_NF,South_Platte,56,Chair Rocks,usfs,CO,,7,S,70,W,33,,,Not trapped since 1990
+2,57,Pike_NF,South_Platte,57,Sand Draw,usfs,CO,,8,S,70,W,9,,,Not trapped since 1990
+2,58,Pike_NF,South_Platte,58,Sixmile Creek-South,usfs,CO,,9,S,70,W,19,,,Not trapped since 1990
+2,59,Pike_NF,South_Platte,59,Shinglemill Creek,usfs,CO,,8,S,70,W,19,,,Not trapped since 1990
+2,60,Pike_NF,South_Platte,60,Missouri Gulch Tr,usfs,CO,,10,S,69,W,26,,,Not trapped since 1990
+2,61,Pike_NF,South_Platte,61,Forest Boundary,usfs,CO,,7,S,69,W,1,39.385598,-105.063317,
+2,63,Pike_NF,South_Platte,63,11 mile CG,usfs,CO,,13,S,72,W,20,,,Discontinued site in 2014
+2,71,Pike_NF,South_Platte,71,North Slope,usfs,CO,,12,S,68,W,18,,,Not trapped since 1996
+2,72,Pike_NF,South_Platte,72,Service Road,usfs,CO,,13,S,68,W,24,,,Not trapped since 1996
+2,73,Pike_NF,South_Platte,73,USAFA-RC,usfs,CO,,,,,,,39.012008,-104.892679,New plot in 2014
+2,74,Pike_NF,South_Platte,74,USAFA-MC,usfs,CO,,,,,,,38.99509,-104.886564,New plot in 2014
+2,75,Pike_NF,South_Platte,75,USAFA-GC,usfs,CO,,,,,,,39.000218,-104.857899,New plot in 2014
+2,76,Pike_NF,South_Platte,76,Cheyenne Mountain,usfs,CO,,,,,,,38.733576,-104.839476,New plot in 2014
+3,1,Mogollon_Rim,Mogollon Rim RD,,Baker_Butte,usfs,AZ,,,,,,,34.452258,-111.378428,
+3,2,Mogollon_Rim,Payson RD,,Washington_Park,usfs,AZ,,,,,,,34.42979,-111.261416,
+3,3,Sierra_Anchas,Pleasant Valley RD,,Reynolds_Creek,usfs,AZ,,,,,,,33.86175,-110.943743,
+3,4,Sierra_Anchas,Pleasant Valley RD,,Workman_Creek,usfs,AZ,,,,,,,33.816588,-110.926355,
+3,5,Sierra_Anchas,Pleasant Valley RD,,Aztec,usfs,AZ,,6,N,14,E,33,,,
+3,6,Pinal_Mountains,Globe RD,,Icehouse,usfs,AZ,,,,,,,33.292844,-110.830636,
+3,7,Pinal_Mountains,Globe RD,,Lower_Pinal,usfs,AZ,,,,,,,33.286917,-110.828686,
+3,8,White_Mountain,,,Pinetop,usfs,AZ,,9,N,23,E,31,,,
+3,9,White_Mountain,Springerville RD,,Greer,usfs,AZ,,,,,,,34.012733,-109.470194,
+3,10,White_Mountain,,,Alpine,usfs,AZ,,5,N,30,E,22,,,
+3,11,White_Mountain,,,Nurtioso,usfs,AZ,,7,N,29,E,33,,,
+3,12,Pinaleno_Mtns,Safford RD,,West_Peak,usfs,AZ,,,,,,,32.75166,-110.046944,
+3,13,Pinaleno_Mtns,Safford RD,,Cunningham,usfs,AZ,,,,,,,32.665,-109.869444,
+3,14,Catalina_Mtns,Santa Catalina RD,,Lemon_Rock,usfs,AZ,,,,,,,,,Not a trapping site since 2003
+3,15,Catalina_Mtns,Santa Catalina RD,,Marshall_Gulch,usfs,AZ,,,,,,,32.427858,-110.755714,
+3,16,Bradshaw_Mtns,Bradshaw RD,,Spruce_Mtn,usfs,AZ,,,,,,,34.461977,-112.40325,
+3,17,Bradshaw_Mtns,Bradshaw RD,,Potato_Patch,usfs,AZ,,12.5,N,1,W,31,,,No data beyond 2000
+3,18,Bradshaw_Mtns (Prescott NF),Bradshaw RD,,Mount Union,usfs,AZ,,,,,,,34.413003,-112.412877,New plot in 2011
+3,19,Mogollon Rim (Tonto NF),Payson RD,,See Canyon,usfs,AZ,,,,,,,34.337027,-111.014492,New plot in 2012
+3,20,Mogollon Rim (Apache_Sitgreaves NFs),Black Mesa RD,,Bear Canyon Lake,usfs,AZ,,,,,,,34.403285,-110.828686,New plot in 2014
+3,100,Sacramento_Mtns (Lincoln NF),Sacramento RD,,Devil's_Canyon/Baileys _Canyon,usfs,NM,,,,,,,32.987255,-105.751901,
+3,101,Sacramento_Mtns (Lincoln NF),Sacramento RD,,James_Ridge_Lookout,usfs,NM,,,,,,,32.965551,-105.605888,
+3,102,Sacramento_Mtns (Lincoln NF),Sacramento RD,,FS_Road_5661,usfs,NM,,,,,,,32.934518,-105.73243,
+3,103,Sacramento_Mtns (Lincoln NF),Sacramento RD,,Dale_Resler_Boy_Scout_camp/Apache_Canyon,usfs,NM,,,,,,,32.948683,-105.720742,Quit site in 2013
+3,104,Sacramento_Mtns (Lincoln NF),Sacramento RD,,Karr_Canyon/Upper_Karr_CG,usfs,NM,,,,,,,32.881782,-105.779748,
+3,105,Sacramento_Mtns (Lincoln NF),Sacramento RD,,Rio_Penasco/Upper_Penasco/Bluff_Springs,usfs,NM,,,,,,,32.830456,-105.737372,
+3,106,Sacramento_Mtns (Lincoln NF),Sacramento RD,,Bear _Spring/Bear_Canyon/Wills_Canyon,usfs,NM,,,,,,,32.82298,-105.680477,
+3,107,Sacramento_Mtns (Lincoln NF),Sacramento RD,,Observatory_along_SH_244,usfs,NM,,,,,,,32.978096,-105.732616,Quit site in 2010
+3,108,Sacramento_Mtns (Lincoln NF),Sacramento RD,,FS_Road_64,usfs,NM,,,,,,,32.772577,-105.771126,"Quit site in 2013, restarted site in 2017"
+3,109,Sacramento_Mtns (Lincoln NF),Sacramento RD,,Apache_CG/Silver_Saddle_CG,usfs,NM,,,,,,,32.967457,-105.727483,
+3,110,Sacramento_Mtns (Lincoln NF),Sacramento RD,,Sleepy_Grass_PG,usfs,NM,,,,,,,32.948683,-105.720742,Quit site in 2004
+3,111,Sacramento_Mtns (Lincoln NF),Sacramento RD,,Tularosa Canyon (MAIR),usfs,NM,,,,,,,,,Quit site in 2009
+3,112,Sacramento_Mtns (Lincoln NF),Sacramento RD,,On 244 10.8 mi to Elk Springs & rt dirt rd (MAIR),usfs,NM,,,,,,,,,Quit site in 2004
+3,113,Sacramento_Mtns (Lincoln NF),Sacramento RD,,Black_Bear_CG,usfs,NM,,,,,,,32.943256,-105.74945,Quit site in 2010
+3,114,Sacramento_Mtns (Lincoln NF),Sacramento RD,,Cathey_Vista,usfs,NM,,,,,,,32.806668,-105.802548,first trap data in 2009
+3,115,Sacramento_Mtns (Lincoln NF),Sacramento RD,,Mescalero,usfs,NM,,,,,,,,,first trap data in 2005
+3,116,Sacramento_Mtns (Lincoln NF),Sacramento RD,,Apache_Observatory,usfs,NM,,,,,,,32.786816,-105.810609,Quit site in 2013
+3,117,Sacramento_Mtns (Lincoln NF),Sacramento RD,,Carissa_Lookout,usfs,NM,,,,,,,32.675148,-105.615724,"first trap data in 2013, quit site in 2017"
+3,118,Sacramento_Mtns (Lincoln NF),Sacramento RD,,Jim_Lewis_Canyon,usfs,NM,,,,,,,32.705544,-105.587679,"first trap data in 2013, quit site in 2017"
+3,119,Sacramento_Mtns (Lincoln NF),Sacramento RD,,Agua Chiquita,usfs,NM,,,,,,,32.710256,-105.656348,"first trap data in 2013, quit site in 2017"
+3,120,Sandia_Mtns (Cibola NF),Sandia RD,,Tree_Springs_TH,usfs,NM,,,,,,,35.193649,-106.405359,Quit site in 2017
+3,121,Sandia_Mtns (Cibola NF),Sandia RD,,Dry_Camp,usfs,NM,,,,,,,35.199943,-106.406607,
+3,122,Sandia_Mtns (Cibola NF),Sandia RD,,Balsam_Glade,usfs,NM,,,,,,,35.214111,-106.408148,Quit site in 2017
+3,123,Sandia_Mtns (Cibola NF),Sandia RD,,Capulin_Snow_Play_Area,usfs,NM,,,,,,,35.216533,-106.416356,Quit site in 2017
+3,124,Sandia_Mtns (Cibola NF),Sandia RD,,Nine_Mile_PG,usfs,NM,,,,,,,35.215497,-106.422862,Quit site in 2017
+3,125,Sandia_Mtns (Cibola NF),Sandia RD,,Las_Huertas_Road_#1 ,usfs,NM,,,,,,,35.226854,-106.409457,Quit site in 2017
+3,126,Sandia_Mtns (Cibola NF),Sandia RD,,Las_Huertas_Road_#2,usfs,NM,,,,,,,35.229809,-106.412795,Quit site in 2017
+3,127,Sandia_Mtns (Cibola NF),Sandia RD,,Las_Huertas_Road_#3,usfs,NM,,,,,,,35.231174,-106.409861,Quit site in 2017
+3,128,Sandia_Mtns (Cibola NF),Sandia RD,,La Cienega,usfs,NM,,,,,,,35.169855,-106.375069,Started site in 2017
+3,129,Sandia_Mtns (Cibola NF),Sandia RD,,10K trailhead,usfs,NM,,,,,,,35.21021,-106.434191,Started site in 2017
+3,130,Jemez_Mtns (Santa Fe NF),Espanola RD,,Santa Clara Canyon - Point 1,tribal,NM,,,,,,,35.976758,-106.38483,Quit site in 2013 due to fire
+3,131,Jemez_Mtns (Santa Fe NF),Espanola RD,,Santa Clara Pueblo,,NM,,,,,,,,,Was just a note in the database. Left in because too much input beyond to make adjustment cost effective
+3,132,Jemez_Mtns (Santa Fe NF),Jemez RD,,San Antonio CG,usfs,NM,,,,,,,35.894389,-106.655226,Quit site in 2016
+3,133,Jemez_Mtns (Santa Fe NF),Cuba RD,,FSR 144 & NM Hwy 126,usfs,NM,,,,,,,35.891816,-106.66757,Started site in 2017
+3,134,Jemez_Mtns (Santa Fe NF),Jemez RD,,NM Hwy 4 btw Dark canyon and Rincon,usfs,NM,,,,,,,35.845643,-106.635125,Started site in 2017
+3,135,Sangre de Cristo (Santa Fe NF),Pecos/Las Vegas RD,,"La Cueva (near Pecos, NM)",usfs,NM,,,,,,,35.619205,-105.731295,Started site in 2017
+3,136,Sangre de Cristo (Santa Fe NF),Espanola RD,,Big Tesuque,usfs,NM,,,,,,,35.76882,-105.809192,Started site in 2017
+3,137,Magdalena_Mtns (Cibola NF),Magdalena RD,,Water Canyon Road,usfs,NM,,,,,,,33.990557,-107.163515,Started site in 2017
+3,138,Sangre_de_Cristos (Carson NF),Camino Real RD,,Agua Piedra CG,usfs,NM,,,,,,,36.133496,-105.529903,Started site in 2017
+3,139,Sangre_de_Cristos (Carson NF),Camino Real RD,,US Hill Vista overlook,usfs,NM,,,,,,,36.213008,-105.593151,Started site in 2017
+4,1,Boise_NF,Mountain_Home,1,Bear_Creek,usfs,ID,1021,4,N,10,E,7,,,
+4,2,Boise_NF,Mountain_Home,2,Yellow_Pine_Creek,usfs,ID,1145,3,N,10,E,35,,,
+4,3,Boise_NF,Cascade,3,Anderson_Cr_Divide,usfs,ID,1121,14,N,2,E,14,,,
+4,4,Boise_NF,Cascade,4,Skunk_Creek,usfs,ID,1024,12,N,4,E,11,,,
+4,5,Payette_NF,Council,5,Barinaga_Corral,usfs,ID,1121,5,S,2,W,23,,,
+4,6,Payette_NF,Council,6,Fourbit_Creek,usfs,ID,1121,13,N,2,E,7,,,
+4,7,Payette_NF,Council,7,Little_Weiser,usfs,ID,1121,13,N,1,E,1,,,
+4,8,Payette_NF,Council,8,Mcdowell_Trail,usfs,ID,1121,17,N,2,W,18,,,
+4,9,Payette_NF,Council,9,Olive_Creek,usfs,ID,1121,17,N,2,W,6,,,
+4,10,Payette_NF,Weiser,10,Adams_Creek,usfs,ID,1122,14,N,6,W,23,,,
+4,11,Payette_NF,Weiser,11,Bear_Saddle,usfs,ID,1122,15,N,5,W,31,,,
+4,12,Payette_NF,Weiser,12,E_Fk_Brownlee_Cr,usfs,ID,1122,16,N,4,W,3,,,
+4,13,Payette_NF,Weiser,13,Seid_Creek,usfs,ID,1122,16,N,4,W,21,,,
+4,14,Payette_NF,Weiser,14,Stacey_Creek,usfs,ID,1122,14,N,6,W,24,,,
+4,15,Payette_NF,McCall,15,Brown'S_Pond,usfs,ID,1124,18,N,4,E,3,,,
+4,16,Salmon_NF,Cobalt,16,Arnett_Creek,usfs,ID,1131,22,N,22,E,30,,,
+4,17,Salmon_NF,Cobalt,17,Headwaters,usfs,ID,1131,20,N,20,E,9,,,
+4,18,Salmon_NF,Cobalt,18,Porphyry_Creek,usfs,ID,1131,20,N,18,E,34,,,
+4,19,Salmon_NF,North_Fork,19,Colson_Creek,usfs,ID,1132,23,N,16,E,12,,,
+4,20,Salmon_NF,North_Fork,20,Lick_Creek,usfs,ID,1132,26,N,22,E,32,,,
+4,21,Sawtooth_NF,Ketchum,21,Warm_Springs,usfs,ID,1143,4,N,17,E,14,,,
+4,22,Sawtooth_NF,Fairfield,22,Couch_Summit,usfs,ID,1145,2,N,14,E,9,43.515033,-114.8011683,
+4,23,Owyhees,BLM,23,East_Fork_Lost_Cr,usfs,ID,1123,6,S,1,W,21,,,
+4,24,Sawtooth_NF,Fairfield,24,Little_Water_Gulch,usfs,ID,1145,3,N,12,E,7,,,
+4,25,Sawtooth_NF,Fairfield,25,Virginia_Gulch,usfs,ID,1145,3,N,11,E,9,,,
+4,26,Owyhees,BLM,26,Dewey_Peak,usfs,ID,2020,6,S,4,W,3,,,
+4,27,Owyhees,BLM,27,Mill_Creek,usfs,ID,2020,8,S,5,W,12,42.747483,-116.867198,
+4,28,Owyhees,BLM,28,New_York_Summit,usfs,ID,2020,4,S,3,W,32,43.0381244,-116.7031084,
+4,29,Owyhees,BLM,29,S_Fork_Boulder_Cr,usfs,ID,2020,8,S,5,W,24,42.726479,-116.849909,
+4,30,Sawtooth_NF,Ketchum,30,Sharps_Canyon,usfs,ID,2020,2,N,19,E,36,43.455603,-114.137758,
+4,31,Owyhees,BLM,31,Boone_Peak,usfs,ID,2020,6,S,3,W,2,,,
+4,32,Boise_NF,Mountain_Home,32,Deer_Point,usfs,ID,1021,5,N,3,E,29,,,
+4,33,Payette_NF,Weiser,33,Hitt_Creek,usfs,ID,1122,14,N,5,W,27,,,
+4,34,Payette_NF,Weiser,34,Mann_Creek,usfs,ID,1122,14,N,5,W,4,,,
+4,35,Payette_NF,Weiser,35,South_Pine,usfs,ID,1122,15,N,5,W,25,,,
+4,36,Payette_NF,Council,36,Mill_Creek_Road,usfs,ID,1122,15,N,4,W,6,,,
+4,37,Payette_NF,Council,37,Tool_Cache,usfs,ID,1122,15,N,5,W,15,,,
+4,38,Payette_NF,Council,38,Middle_Brownlee,usfs,ID,1122,15,N,5,W,3,,,
+4,39,Payette_NF,Council,39,Cottonwood_Spring,usfs,ID,1122,15,N,5,W,8,,,
+4,40,Payette_NF,Council,40,Rapid_Creek,usfs,ID,1124,17,N,4,E,26,,,
+4,41,Payette_NF,McCall,41,Powelson_Creek,usfs,ID,1124,17,N,5,E,20,,,
+4,42,Payette_NF,McCall,42,Sloan_Point,usfs,ID,1124,16,N,4,E,1,,,
+4,43,Payette_NF,McCall,43,Browns_Creek,usfs,ID,1123,20,N,2,E,18,,,
+4,44,Payette_NF,McCall,44,Sixmile_Creek,usfs,ID,1123,20,N,2,E,28,,,
+4,45,Payette_NF,McCall,45,Last_Chance,usfs,ID,1123,19,N,2,E,15,,,
+4,46,Payette_NF,McCall,46,Brundage Mt Resort,usfs,ID,1124,19,N,2,E,12,45.006383,-116.156397,
+4,47,Payette_NF,McCall,47,Bear_Basin,usfs,ID,1124,19,N,3,E,30,,,
+4,48,Payette_NF,New_Meadows,48,Yantis_Ditch,usfs,ID,1123,5,S,1,W,10,,,
+4,49,Payette_NF,New_Meadows,49,Chokecherry_Flat,usfs,ID,1123,4,S,1,W,12,,,
+4,50,Payette_NF,New_Meadows,50,Ant_Basin_Creek,usfs,ID,1123,5,S,1,W,34,,,
+4,51,Payette_NF,New_Meadows,51,Mud_Creek,usfs,ID,1123,5,S,1,W,13,,,
+4,52,Payette_NF,New_Meadows,52,Round_Valley_Cr,usfs,ID,1123,20,N,1,E,6,,,
+4,53,Payette_NF,New_Meadows,53,East_Fork_Lost_Cr,usfs,ID,1123,6,S,1,W,21,,,
+4,54,Payette_NF,New_Meadows,54,Pine_Ridge_Road,usfs,ID,6160,7,S,1,W,35,,,
+4,55,Payette_NF,New_Meadows,55,Sheep_Creek,usfs,ID,1123,7,S,1,W,17,,,
+4,56,Payette_NF,New_Meadows,56,Lost_Creek,usfs,ID,1123,8,S,1,W,14,,,
+4,57,Payette_NF,New_Meadows,57,Fourth_Of_July_Cr,usfs,ID,1123,7,S,2,W,12,,,
+4,58,Payette_NF,Council,58,Bluebunch,usfs,ID,1121,17,N,1,E,1,,,
+4,59,Payette_NF,Council,59,Squaw_Flat,usfs,ID,1121,17,N,2,E,32,,,
+4,60,Payette_NF,Council,60,E_Fork_Weiser_River,usfs,ID,1121,17,N,1,E,21,,,
+4,61,Payette_NF,Council,61,Dry_Beaver_Creek,usfs,ID,1121,17,N,1,E,10,,,
+4,62,Payette_NF,Council,62,Joker_Creek,usfs,ID,1121,17,N,2,E,13,,,
+4,63,Payette_NF,Council,63,Cabin_Creek,usfs,ID,1121,15,N,1,E,12,,,
+4,64,Payette_NF,Council,64,Johnson_Park,usfs,ID,1121,9,S,2,W,32,,,
+4,65,Payette_NF,Council,65,Goodrich_Creek,usfs,ID,1121,16,N,2,W,7,,,
+4,66,Payette_NF,Council,66,Orchid_Canyon,usfs,ID,1121,16,N,2,W,4,,,
+4,67,Boise_NF,Mountain_Home,67,Bogus_X-Ski,usfs,ID,1021,5,N,3,E,16,,,
+4,68,Boise_NF,Mountain_Home,68,Shafer_Butte,usfs,ID,1021,5,N,3,E,10,,,
+4,69,Boise_NF,Emmett,69,Squaw_Creek,usfs,ID,1026,13,N,2,E,9,,,
+4,70,Boise_NF,Emmett,70,Tamarack_Flat,usfs,ID,1026,12,N,2,E,8,,,
+4,71,Boise_NF,Emmett,71,Antelope_Trail,usfs,ID,1026,12,N,2,E,10,,,
+4,72,Boise_NF,Emmett,72,Little_Sagehen_Basin,usfs,ID,1026,11,N,2,E,1,,,
+4,73,Boise_NF,Emmett,73,Cottonwood_Creek,usfs,ID,1026,12,N,2,E,33,,,
+4,74,Boise_NF,Emmett,74,Middle_Fk_Payette_Rv,usfs,ID,1026,11,N,5,E,4,,,
+4,75,Boise_NF,Emmett,75,Silver_Creek_Cg,usfs,ID,1026,12,N,6,E,19,,,
+4,76,Boise_NF,Emmett,76,Hardscrabble,usfs,ID,1026,11,N,5,E,31,,,
+4,77,Boise_NF,Emmett,77,W_Fork_Sixmile_Cr,usfs,ID,1026,11,N,4,E,22,,,
+4,78,Boise_NF,Emmett,78,Lower_Scriver_Cr,usfs,ID,1026,10,N,4,E,20,44.184411,-115.975017,
+4,79,Boise_NF,Mountain_Home,79,Paradise Springs,usfs,ID,1145,3,N,10,E,33,43.552039,-115.270556,
+4,80,Boise_NF,Mountain_Home,80,Grouse_Creek,usfs,ID,1145,3,N,10,E,36,,,
+4,81,Boise_NF,Mountain_Home,81,Middle_Fk_Grouse_Cr,usfs,ID,1145,3,N,11,E,31,,,
+4,82,Boise_NF,Mountain_Home,82,Lost_Man_Creek,usfs,ID,1021,5,N,9,E,31,43.722639,-115.402508,
+4,83,Boise_NF,Mountain_Home,83,Roaring_River,usfs,ID,1021,5,N,8,E,26,,,
+4,84,Boise_NF,Mountain_Home,84,Trinity_Lakes_Road,usfs,ID,1021,4,N,9,E,29,,,
+4,85,Boise_NF,Mountain_Home,85,Cow_Creek,usfs,ID,1021,3,N,10,E,4,,,
+4,86,Boise_NF,Mountain_Home,86,Wide_West_Gulch,usfs,ID,1021,4,N,10,E,20,,,
+4,87,Boise_NF,Mountain_Home,87,West_Parks_Creek,usfs,ID,1021,3,N,9,E,2,,,
+4,88,Boise_NF,Mountain_Home,88,Fairview_Creek,usfs,ID,1021,3,N,10,E,17,,,
+4,89,Boise_NF,Idaho_City,89,Upper_Rock_Creek,usfs,ID,1023,8,N,6,E,36,,,
+4,90,Boise_NF,Idaho_City,90,Beaver_Cr_Summit,usfs,ID,1025,8,N,7,E,15,,,
+4,91,Boise_NF,Idaho_City,91,Banner_Ridge,usfs,ID,1023,8,N,7,E,14,,,
+4,92,Boise_NF,Idaho_City,92,Banner_Creek,usfs,ID,1023,8,N,8,E,29,,,
+4,93,Boise_NF,Idaho_City,93,Crooked_River,usfs,ID,1023,8,N,8,E,34,,,
+4,94,Boise_NF,Idaho_City,94,Willow_Creek,usfs,ID,1023,7,N,8,E,14,,,
+4,95,Boise_NF,Lowman,95,Rough_Creek,usfs,ID,1025,11,N,9,E,31,,,
+4,96,Boise_NF,Lowman,96,Horse_Creek,usfs,ID,1025,10,N,8,E,16,,,
+4,97,Boise_NF,Lowman,97,O'Keefe_Creek,usfs,ID,1025,10,N,7,E,25,,,
+4,98,Boise_NF,Lowman,98,Park_Creek_Cg,usfs,ID,1025,9,N,7,E,13,,,
+4,99,Boise_NF,Lowman,99,Whitehawk,usfs,ID,1025,11,N,8,E,20,,,
+4,100,Boise_NF,Lowman,100,Wilson_Creek,usfs,ID,1025,12,N,7,E,34,,,
+4,101,Boise_NF,Lowman,101,Threemile_Creek,usfs,ID,1025,11,N,7,E,19,,,
+4,102,Boise_NF,Lowman,102,Scott_Creek,usfs,ID,1025,10,N,6,E,15,,,
+4,103,Boise_NF,Lowman,103,Slaughterhouse_Cr,usfs,ID,1025,9,N,7,E,20,,,
+4,104,Boise_NF,Cascade,104,Warm_Lake_Creek,usfs,ID,1024,15,N,7,E,9,,,
+4,105,Boise_NF,Cascade,105,Tule_Lake,usfs,ID,1024,15,N,6,E,12,,,
+4,106,Boise_NF,Cascade,106,Rice_Creek,usfs,ID,1024,14,N,7,E,18,,,
+4,107,Boise_NF,Cascade,107,Lodgepole_Creek,usfs,ID,1024,14,N,7,E,5,,,
+4,401,Wasatch-Cache_NF,Logan,,Beaver_Creek,usfs,UT,,,,,,,,,
+4,402,Wasatch-Cache_NF,Logan,,Stump_Hollow,usfs,UT,,,,,,,,,
+4,403,Wasatch-Cache_NF,Ogden,,Arbs_Basin,usfs,UT,,,,,,,,,
+4,404,Wasatch-Cache_NF,Ogden,,Running_Water_Spring,usfs,UT,,,,,,,,,
+4,405,Wasatch-Cache_NF,Ogden,,Red_Spur,usfs,UT,,,,,,,,,
+4,406,Wasatch-Cache_NF,Ogden,,Cox_Spring,usfs,UT,,,,,,,,,
+4,407,Humboldt-Toiyabe_NF,Mountain_City,,Fawn_Creek,usfs,NV,,,,,,,,,
+4,408,Humboldt-Toiyabe_NF,Mountain_City,,Merrit_Mountain,usfs,NV,,,,,,,,,
+4,409,Humboldt-Toiyabe_NF,Mountain_City,,Murphys_Wash,usfs,NV,,,,,,,,,
+4,410,Humboldt-Toiyabe_NF,Ely,,Success_Summitt,usfs,NV,,,,,,,,,
+4,411,Humboldt-Toiyabe_NF,Ely,,Berry_Creek,usfs,NV,,,,,,,,,
+4,412,Great_Basin_NP,,,Upper_Lehman,usfs,NV,,,,,,,,,
+4,413,Humboldt-Toiyabe_NF,Carson,,Pickett_Peak,usfs,NV,,,,,,,,,
+4,414,Humboldt-Toiyabe_NF,Carson,,Burnside_Lake,usfs,NV,,,,,,,,,
+4,415,Humboldt-Toiyabe_NF,Carson,,Horsethief_Canyon,usfs,NV,,,,,,,,,
+4,416,Nevada_SL,,,North_Canyon,usfs,NV,,,,,,,,,
+4,417,Utah_SL,,,Franklin_Basin,usfs,UT,,,,,,,,,
+4,501,Unknown,Unknown,,Baldy_Mtn,usfs,ID,,,,,,,43.680913,-114.4003659,
+4,502,Sawtooth_NF,Ketchum,,Upper_Wolftone_Creek,usfs,ID,,,,,,,43.5032868,-114.4816289,
+4,503,Boise_NF,Idaho_City,,Bogus_Basin_Resort,usfs,ID,,,,,,,43.7695132,-116.1113143,
+4,923,Sawtooth_NF,Burley,923,Howell_Canyon,usfs,ID,1141,12,S,25,E,31,,,
+5,1,Modoc_NF,Devil's_Garden,1,Goose_Lake,state,CA,,48,N,12,E,26,,,Destroyed by Fletcher Fire in 2007
+5,2,Modoc_NF,Devil's_Garden,01B,Collins GL,state,CA,,48,N,12,E,33,,,"Dry_Creek_Rim burned in Barry Point Fire (2012) New plot name, same area"
+5,3,Modoc_NF,Big_Valley,2,Ashley,state,CA,,40,N,10,E,23,,,
+5,4,Modoc_NF,Big_Valley,02B,Sportsman,state,CA,,39,N,11,E,5,,,
+5,5,Lassen_NF,Eagle_Lake,3,Fredonyer_Pass,state,CA,,29,N,10,E,29,,,
+5,6,Lassen_NF,Almanor,03B,Stover_Mtn.(Rbrg),state,CA,,28,N,6,E,15,,,
+5,7,Lassen_NF,Hat_Creek,4,Latour_St_For_1,state,CA,,32,N,3,E,17,,,
+5,8,Lassen_NF,Hat_Creek,04B,Latour_St_For_2,state,CA,,32,N,2,E,22,,,
+5,9,Lassen_NF,Hat_Creek,12,Burney_Mtn.,state,CA,,34,N,2,E,13,,,
+5,10,Eldorado_NF,Georgetown,5,Nevada_Pt_Rdg_1,state,CA,,13,N,13,E,1,,,
+5,11,Eldorado_NF,Georgetown,15,Nevada_Pt_Rdg_2,state,CA,,13,N,13,E,14,,,
+5,12,Eldorado_NF,Georgetown,13,Uncle_Tom's_Cabin,state,CA,,12,N,13,E,3,,,
+5,13,Eldorado_NF,Placerville,14,Iron_Mtn._Cdf_8Ut,state,CA,,10,N,14,E,24,,,
+5,14,Stanislaus_NF,Calaveras,09A,Bailey_Ridge_Stn,state,CA,,6,N,15,E,3,,,
+5,15,Stanislaus_NF,Calaveras,09B,Hermit_Springs,state,CA,,7,N,16,E,28,,,
+5,16,Stanislaus_NF,Calaveras,9,Dorrington,state,CA,,15,N,15,E,1,,,
+5,17,Sequoia_NF,Tule_River,7,Rock_Crusher,state,CA,,19,S,31,E,31,,,
+5,18,Sequoia_NF,Tule_River,10,Hidden_Falls,state,CA,,19,S,31,E,19,,,
+5,19,Plumas_NF,Feather River,20,Poverty-Whitely,state,CA,,20,N,9,E,8,,,
+5,20,Plumas_NF,Feather River,21,Laporte_Bald_Mtn._Whitely,state,CA,,21,N,9,E,9,,,
+5,21,Plumas_NF,Feather River,22,Lexington-Whitely,state,CA,,21,N,8,E,13,,,
+5,22,Sequoia_NF,Greenhorn,,Greenhorn_Mtn_Pk,state,CA,,25,S,32,E,20,,,
+5,23,Sequoia_NF,Hot_Springs,,Sugarloaf_Sfp,state,CA,,24,S,31,E,14,,,
+5,24,Sequoia_NF,Tule_River,,Smith_Mill,state,CA,,21,S,31,E,20,,,
+5,25,Shasta-Trinity,Shasta McCloud,,Red Tank Road,state,CA,,,,,,,,,New plot in 2007
+5,101,Eldorado_NF,Georgetown,1,Bear_Springs,usfs,CA,,14,N,13,E,36,,,
+5,102,Eldorado_NF,Georgetown,2,Hell_Hole,usfs,CA,,14,N,13,E,36,,,
+5,103,Eldorado_NF,Georgetown,1,Nevada_Pt._Ridge,usfs,CA,,14,N,14,E,36,,,
+5,104,Eldorado_NF,Georgetown,2,Hales_1,usfs,CA,,14,N,14,E,36,,,
+5,105,Eldorado_NF,Georgetown,3,Hales_2,usfs,CA,,14,N,13,E,1,,,
+5,106,Eldorado_NF,Georgetown,4,Jerry'S_Pool,usfs,CA,,13,N,13,E,14,,,
+5,107,Eldorado_NF,Georgetown,5,Jerry'S_Pool_2,usfs,CA,,13,N,13,E,14,,,
+5,108,Eldorado_NF,Pacific_(10_tr/,1,Peavine,usfs,CA,,11,N,13,E,11,,,
+5,109,Eldorado_NF,Pacific,2,Jaybird,usfs,CA,,11,N,13,E,3,,,
+5,110,Eldorado_NF,Pacific,3,Frisco_Ford_1,usfs,CA,,12,N,15,E,33,,,
+5,111,Eldorado_NF,Pacific,,Frisco_Ford_2,usfs,CA,,12,N,15,E,33,,,
+5,112,Eldorado_NF,Pacific,5,Rice_Cabin,usfs,CA,,11,N,13,E,7,,,
+5,113,Eldorado_NF,Pacific,4,Rice_Cabin,usfs,CA,,11,N,13,E,18,,,
+5,114,Eldorado_NF,Pacific,5,Deer_Knob,usfs,CA,,12,N,14,E,17,,,
+5,115,Eldorado_NF,Placerville,1,Pebble_Cyn_1-10,usfs,CA,,10,N,14,E,21,,,
+5,116,Eldorado_NF,Placerville,2,Stump_Spr_31-40,usfs,CA,,10,N,14,E,22,,,
+5,117,Eldorado_NF,Placerville,3,Forty_Niner_Tree_61-70,usfs,CA,,10,N,14,E,24,,,
+5,118,Eldorado_NF,Placerville,4,Lower_Baltic,usfs,CA,,10,N,15,E,33,,,
+5,119,Eldorado_NF,Placerville,5,Plummer_81-90,usfs,CA,,9,N,14,E,11,,,
+5,120,Eldorado_NF,Placerville,1,Iron_Mtn._11-20,usfs,CA,,10,N,14,E,21,,,
+5,121,Eldorado_NF,Placerville_FPM,2,21-30,usfs,CA,,10,N,14,E,21,,,
+5,122,Eldorado_NF,Placerville_FPM,4,Iron_Mtn._1Ut_41-50,usfs,CA,,10,N,14,E,22,,,
+5,123,Eldorado_NF,Placerville_FPM,5,Iron_Mtn._2T_51-60,usfs,CA,,10,N,14,E,22,,,
+5,124,Eldorado_NF,Placerville_FPM,6,Iron_Mtn._71-80,usfs,CA,,11,N,15,E,23,,,
+5,125,Eldorado_NF,Placerville_FPM,1,Baltic_B_Lower_161-170,usfs,CA,,10,N,15,E,31,,,
+5,126,Eldorado_NF,Placerville_FPM,2,Baltic_C_Mid_5T_171-180,usfs,CA,,10,N,15,E,32,,,
+5,127,Eldorado_NF,Placerville_FPM,3,Baltic_221-230,usfs,CA,,9,N,14,E,2,,,
+5,128,Eldorado_NF,Placerville_FPM,4,Baltic_181-190,usfs,CA,,9,N,14,E,1,,,
+5,129,Eldorado_NF,Placerville_FPM,5,Baltic_191-200,usfs,CA,,9,N,14,E,1,,,
+5,130,Eldorado_NF,Placerville_FPM,6,Baltic_D_Upper_4T_201-210,usfs,CA,,9,N,15,E,3,,,
+5,131,Eldorado_NF,Placerville_FPM,7,Baltic_231-240,usfs,CA,,9,N,15,E,6,,,
+5,132,Eldorado_NF,Placerville_FPM,8,Baltic_3Ut_311-220,usfs,CA,,9,N,15,E,3,,,
+5,133,Eldorado_NF,Placerville_FPM,2,Plummer_E_91-100,usfs,CA,,9,N,14,E,10,,,
+5,134,Eldorado_NF,Placerville_FPM,3,Plummer_101-110,usfs,CA,,9,N,14,E,11,,,
+5,135,Eldorado_NF,Placerville_FPM,4,Dogtown_Intersection/Plummer_F_6T_111-120,usfs,CA,,9,N,14,E,14,,,
+5,136,Eldorado_NF,Placerville_FPM,5,Plummer_121-130,usfs,CA,,9,N,14,E,13,,,
+5,137,Eldorado_NF,Placerville_FPM,6,Upper_Dogtown/Leek_Spr._Rd._7Ut_131-140,usfs,CA,,9,N,14,E,13,,,
+5,138,Eldorado_NF,Placerville_FPM,7,Plummer_141-150,usfs,CA,,9,N,14,E,13,,,
+5,139,Eldorado_NF,Placerville_FPM,8,East_Dogtown/Leek_Spr._Rd._G_151-160,usfs,CA,,9,N,14,E,13,,,
+5,140,Eldorado_NF,Amador,1,Lumberyard_1,usfs,CA,,8,N,15,E,15,,,
+5,141,Eldorado_NF,Amador,2,Lumberyard_2,usfs,CA,,8,N,15,E,16,,,
+5,142,Eldorado_NF,Amador,3,Mud_Springs,usfs,CA,,8,N,15,E,17,,,
+5,143,Eldorado_NF,Amador,4,Mud-Hams,usfs,CA,,8,N,15,E,18,,,
+5,144,Eldorado_NF,Amador,5,Armstrong_L.O.,usfs,CA,,8,N,14,E,13,,,
+5,145,Eldorado_NF,Amador_FPM,8,Armstrong_L.O.,usfs,CA,,8,N,14,E,13,,,
+5,146,Eldorado_NF,Amador_FPM,9,Cat_Creek_I_Upper,usfs,CA,,8,N,14,E,18,,,
+5,147,Eldorado_NF,Amador_FPM,10,Cat_Creek_J_Lower,usfs,CA,,8,N,15,E,4,,,
+5,201,Inyo_NF,Mammoth,1,Outbreak,usfs,CA,,3,S,27,E,13,,,
+5,202,Inyo_NF,Mammoth,2,Scenic,usfs,CA,,3,S,27,E,11,,,
+5,203,Inyo_NF,Mammoth,3,Plantation,usfs,CA,,3,S,27,E,13,,,
+5,204,Inyo_NF,Mammoth,4,Unit_5,usfs,CA,,3,S,27,E,26,,,
+5,301,Lassen_NF,Eagle_Lake,1,Diamond,usfs,CA,,28,N,11,E,5,,,
+5,302,Lassen_NF,Eagle_Lake,2,Cheney,usfs,CA,,28,N,11,E,5,,,
+5,303,Lassen_NF,Eagle_Lake,3,Stephens,usfs,CA,,28,N,11,E,7,,,
+5,304,Lassen_NF,Eagle_Lake,4,Hamilton,usfs,CA,,28,N,10,E,2,,,
+5,305,Lassen_NF,Eagle_Lake,5,Crazy_Harry,usfs,CA,,29,N,10,E,16,,,
+5,306,Lassen_NF,Almanor,1,Christi,usfs,CA,,29,N,4,E,16,,,
+5,307,Lassen_NF,Almanor,2,Morgan,usfs,CA,,29,N,4,E,21,,,
+5,308,Lassen_NF,Almanor,3,Butt_Mtn.,usfs,CA,,28,N,5,E,28,,,
+5,309,Lassen_NF,Almanor,4,Elam,usfs,CA,,27,N,5,E,4,,,
+5,310,Lassen_NF,Almanor,5,Stover,usfs,CA,,28,N,6,E,9,,,
+5,311,Lassen_NF,Hat_Creek,1,Badger,usfs,CA,,31,N,5,E,3,,,
+5,312,Lassen_NF,Hat_Creek,2,Table,usfs,CA,,31,N,4,E,7,,,
+5,313,Lassen_NF,Hat_Creek,3,Onion,usfs,CA,,31,N,3,E,35,,,
+5,314,Lassen_NF,Hat_Creek,4,Chester_(Chutes),usfs,CA,,32,N,3,E,34,,,
+5,315,Lassen_NF,Hat_Creek,5,Horse,usfs,CA,,34,N,3,E,34,,,
+5,316,Lassen_NF,Eagle_Lake,6,Moonlight,usfs,CA,,28,N,10,E,34,,,
+5,317,Lassen_NF,Almanor,6,Robber's_Roost,usfs,CA,,,,,,,,,
+5,318,Lassen_NF,Almanor,7,Peacock_Point,usfs,CA,,,,,,,,,
+5,401,Modoc_NF,Warner_Mtn.,1,Stough,usfs,CA,,43,N,15,E,27,,,
+5,402,Modoc_NF,Warner_Mtn.,2,Parker_Creek,usfs,CA,,41,N,15,E,7,,,
+5,403,Modoc_NF,Big_Valley,1,Johnson_Spr._1,usfs,CA,,40,N,10,E,6,,,Dropped from system in 2007
+5,404,Modoc_NF,Big_Valley,2,Johnson_Spr._2,usfs,CA,,40,N,10,E,6,,,
+5,405,Modoc_NF,Big_Valley,3,Niles,usfs,CA,,40,N,9,E,17,,,Dropped from system in 2006
+5,406,Modoc_NF,Big_Valley,flt,Horsehead_1,usfs,CA,,40,N,10,E,17,,,Dropped from system in 2006
+5,407,Modoc_NF,Big_Valley,5,Horsehead_2,usfs,CA,,40,N,10,E,16,,,
+5,408,Modoc_NF,Big_Valley,6,Hunter_1,usfs,CA,,40,N,10,E,19,,,
+5,409,Modoc_NF,Big_Valley,7,Hunter_2,usfs,CA,,40,N,10,E,28,,,Dropped from system in 2006
+5,410,Modoc_NF,Devil's_Garden,1,Meteorite,usfs,CA,,48,N,12,E,33,,,
+5,411,Modoc_NF,Devil's_Garden,2,Happy_Camp_(Grouse),usfs,CA,,41,N,7,E,1,,,
+5,412,Modoc_NF,Big_Valley,8,Hunter_3,usfs,CA,,40,N,10,E,28,,,Dropped from system in 2006
+5,413,Modoc_NF,Big_Valley,9,Hunter_4,usfs,CA,,39,N,10,E,1,,,Dropped from system in 2006
+5,414,Modoc_NF,Big_Valley,10,Deer_Spring,usfs,CA,,39,N,10,E,14,,,
+5,501,Plumas_NF,Beckwourth,1,Three_Mile_Rock,usfs,CA,,23,N,12,E,7,,,Dropped from system in 2006
+5,502,Plumas_NF,Beckwourth,2,Meadow_Creek,usfs,CA,,25,N,12,E,23,,,Dropped from system in 2006
+5,503,Plumas_NF,Beckwourth,3,Mt._Ingalls,usfs,CA,,25,N,12,E,26,,,Dropped from system in 2006
+5,504,Plumas_NF,Beckwourth,4,Four_Corners_(Blakeless),usfs,CA,,24,N,12,E,11,,,Dropped from system in 2006
+5,505,Plumas_NF,Beckwourth,5,Cascade,usfs,CA,,24,N,11,E,18,,,Dropped from system in 2006
+5,506,Plumas_NF,Mt. Hough,1,B4_1-10,usfs,CA,,23,N,8,E,2,,,Dropped from system in 2004
+5,507,Plumas_NF,Mt. Hough,2,B4_11-20,usfs,CA,,23,N,8,E,2,,,Name change from B4_11-20 to Meadow Valley B4 11-20 in 2006. Same TRS
+5,508,Plumas_NF,Mt. Hough,3,B4_21-30,usfs,CA,,23,N,8,E,2,,,Dropped from system in 2004
+5,509,Plumas_NF,Mt. Hough,4,B5_11-20,usfs,CA,,23,N,8,E,2,,,Dropped from system in 2006
+5,510,Plumas_NF,Mt. Hough,5,B5_21-30,usfs,CA,,23,N,8,E,1,,,Dropped from system in 2006
+5,511,Plumas_NF,Mt. Hough,6,B6_1-10,usfs,CA,,23,N,8,E,12,,,Dropped from system in 2004
+5,512,Plumas_NF,Mt. Hough,7,B6_11-20,usfs,CA,,23,N,8,E,12,,,Name change from B6_11-20 to Meadow Valley B6 11-20 in 2006. Same TRS
+5,513,Plumas_NF,Mt. Hough,8,B6_21-30,usfs,CA,,23,N,8,E,12,,,Dropped from system in 1993
+5,514,Plumas_NF,Mt. Hough,9,C7_1-10,usfs,CA,,23,N,9,E,7,,,Dropped from system in 2004
+5,515,Plumas_NF,Mt. Hough,10,C7_11-20,usfs,CA,,23,N,9,E,7,,,Dropped from system in 2004
+5,516,Plumas_NF,Mt. Hough,11,C7_21-30,usfs,CA,,23,N,9,E,7,,,Name change from C7_21-30 to Meadow Valley C7_21-30 in 2006. Same TRS
+5,517,Plumas_NF,Mt. Hough,12,C8_1-10,usfs,CA,,23,N,8,E,13,,,Dropped from system in 2004
+5,601,Sierra_NF,Mariposa,1,Water_Line,usfs,CA,,5,S,22,E,9,,,
+5,602,Sierra_NF,Mariposa,2,Long_Meadow,usfs,CA,,5,S,22,E,16,,,
+5,603,Sierra_NF,Mariposa,3,White_Chief,usfs,CA,,5,S,22,E,21,,,
+5,604,Sierra_NF,Mariposa,4,Beasore,usfs,CA,,6,S,22,E,24,,,
+5,605,Sierra_NF,Mariposa,5,Grays,usfs,CA,,6,S,22,E,22,,,
+5,606,Sierra_NF,Mariposa,6,Poison,usfs,CA,,6,S,22,E,14,,,
+5,607,Sierra_NF,Mariposa,7,Chipmunk,usfs,CA,,6,S,22,E,14,,,
+5,608,Sierra_NF,Mariposa,8,Speckerman,usfs,CA,,5,S,22,E,33,,,
+5,609,Sierra_NF,Mariposa,9,Kramer,usfs,CA,,5,S,22,E,34,,,
+5,610,Sierra_NF,Mariposa,10,Sivels,usfs,CA,,6,S,22,E,21,,,
+5,611,Sierra_NF,Mariposa,,Summit,usfs,CA,,5,S,21,E,8,,,
+5,612,Sierra_NF,Minarets,,Central_Camp,usfs,CA,,6,S,23,E,31,,,
+5,613,Sierra_NF,Minarets,,Whiskey,usfs,CA,,8,S,23,E,12,,,
+5,651,Yosemite_NP,,1,Star_Lakes,nps,CA,,5,S,22,E,17,,,
+5,652,Yosemite_NP,,2,Grizzly_Giant,nps,CA,,5,S,22,E,18,,,
+5,653,Yosemite_NP,,3,Galen_Clark,nps,CA,,5,S,22,E,8,,,
+5,654,Yosemite_NP,,4,South_Entrance,nps,CA,,5,S,21,E,11,,,
+5,655,Yosemite_NP,,5,Chowchilla_Mtn,nps,CA,,5,S,21,E,3,,,
+5,656,Yosemite_NP,,6,Menness_Ridge,nps,CA,,3,S,20,E,25,,,
+5,657,Yosemite_NP,,7,Pohono_Bridge,nps,CA,,2,S,21,E,34,,,
+5,658,Yosemite_NP,,8,Happy_Isles,nps,CA,,2,S,22,E,28,,,
+5,659,Yosemite_NP,,9,Crane_Flat,nps,CA,,2,S,20,E,18,,,
+5,660,Yosemite_NP,,10,Aspen_Valley,nps,CA,,1,S,19,E,25,,,
+5,661,Yosemite_NP,,11,Hogdon,nps,CA,,2,S,19,E,3,,,
+5,662,Yosemite_NP,,12,South_Fork,nps,CA,,2,S,20,E,34,,,
+5,701,Stanislaus_NF,Calaveras,1,Mattley_1,usfs,CA,,7,N,16,E,14,,,
+5,702,Stanislaus_NF,Calaveras,2,Mattley_2,usfs,CA,,7,N,16,E,23,,,
+5,703,Stanislaus_NF,Calaveras,3,Bailey,usfs,CA,,7,N,15,E,33,,,
+5,704,Stanislaus_NF,Calaveras,4,Summit_Level,usfs,CA,,6,N,16,E,31,,,
+5,705,Stanislaus_NF,Calaveras,5,Summit_Level,usfs,CA,,6,N,16,E,29,,,
+5,706,Stanislaus_NF,Calaveras,6,Skull_Peak,usfs,CA,,5,N,17,E,15,,,
+5,707,Stanislaus_NF,Calaveras,7,Thunder_Hill_1,usfs,CA,,5,N,16,E,12,,,
+5,708,Stanislaus_NF,Calaveras,8,Thunder_Hill_2,usfs,CA,,5,N,16,E,13,,,
+5,709,Stanislaus_NF,Calaveras,9,Thunder_Hill_3,usfs,CA,,5,N,16,E,22,,,
+5,710,Stanislaus_NF,Calaveras,10,Thunder_Hill_4,usfs,CA,,5,N,17,E,34,,,
+5,711,Stanislaus_NF,Summit,11,Chinaman,usfs,CA,,5,N,17,E,43,,,
+5,712,Stanislaus_NF,Miwok,1,Hull_Meadow,usfs,CA,,3,N,18,E,30,,,
+5,713,Stanislaus_NF,Miwok,2,Two_Mile,usfs,CA,,3,N,18,E,31,,,
+5,714,Stanislaus_NF,Miwok,3,Reynolds,usfs,CA,,3,N,18,E,35,,,
+5,715,Stanislaus_NF,Miwok,4,Little_Reynolds,usfs,CA,,2,N,18,E,3,,,
+5,716,Stanislaus_NF,Miwok,5,Dodge,usfs,CA,,3,N,17,E,23,,,
+5,717,Stanislaus_NF,Miwok,6,Lily,usfs,CA,,3,N,17,E,35,,,
+5,718,Stanislaus_NF,Miwok,7,Dodge_Ridge_1,usfs,CA,,3,N,18,E,5,,,
+5,719,Stanislaus_NF,Miwok,8,Dodge_Ridge_2,usfs,CA,,3,N,18,E,4,,,
+5,720,Stanislaus_NF,Summit,1,Strawberry_1,usfs,CA,,4,N,17,E,24,,,
+5,721,Stanislaus_NF,Summit,2,Strawberry_2,usfs,CA,,4,N,18,E,19,,,
+5,722,Stanislaus_NF,Summit,3,Strawberry_3,usfs,CA,,4,N,18,E,17,,,
+5,801,Tahoe_NF,Yuba River,1,Morristown_1_(Bee_Tree),usfs,CA,,20,N,10,E,8,,,Dropped from system in 2006
+5,802,Tahoe_NF,Yuba River,2,Morristown_2_(Eureka),usfs,CA,,20,N,10,E,7,,,"District change in 2006 from Downieville to Yuba River. Moved from T20N, R10E, Sec7 to T20N, R10E, Sec17 in 2013"
+5,803,Tahoe_NF,Yuba River,3,Morristown_3_(Sugar_Loaf),usfs,CA,,20,N,9,E,13,,,Dropped from system in 2006
+5,804,Tahoe_NF,Yuba River,4,Morristown_4_(Bald_Top),usfs,CA,,20,N,9,E,23,,,District change in 2006 from Downieville to Yuba River.
+5,805,Tahoe_NF,Yuba River,5,1_Morristown,usfs,CA,,20,N,9,E,23,,,Dropped from system in 1984
+5,806,Tahoe_NF,Yuba River,6,1A_Morristown,usfs,CA,,20,N,9,E,13,,,Dropped from system in 1988
+5,807,Tahoe_NF,Yuba River,7,2_Morristown,usfs,CA,,20,N,9,E,22,,,Dropped from system in 1987
+5,808,Tahoe_NF,Yuba River,8,3_Morristown,usfs,CA,,20,N,9,E,28,,,Dropped from system in 1987
+5,809,Tahoe_NF,Yuba River,9,4_Morristown,usfs,CA,,20,N,9,E,33,,,Dropped from system in 1986
+5,810,Tahoe_NF,Yuba River,10,Pliocene_1_(Jersey),usfs,CA,,19,N,10,E,33,,,"Moved from T19N, R10E, Sec32 to T19N, R10E, Sec33 in 1995. District change in 2006 from Downieville to Yuba River."
+5,811,Tahoe_NF,Yuba River,11,Pliocene_2_(Blue),usfs,CA,,19,N,10,E,31,,,District change in 2006 from Downieville to Yuba River.
+5,812,Tahoe_NF,Yuba River,12,Pliocene_3_(Pliocene),usfs,CA,,19,N,10,E,32,,,"Moved from T18N, R09E, Sec02 to T19N, R10E, Sec32 in 1998. District change in 2006 from Downieville to Yuba River."
+5,813,Tahoe_NF,Yuba River,1,Diamond_1,usfs,CA,,17,N,11,E,26,,,District change in 2006 from Nevada City to Yuba River. Break in trapping at this location from 1999 to 2006
+5,814,Tahoe_NF,Yuba River,2,Diamond_2,usfs,CA,,17,N,11,E,22,,,Dropped from system in 2006
+5,815,Tahoe_NF,Yuba River,3,Diamond_3,usfs,CA,,17,N,1,E,21,,,not trapped since 1998
+5,816,Tahoe_NF,Yuba River,4,Sardine_Spring,usfs,CA,,17,N,11,E,29,,,Dropped from system in 1999
+5,817,Tahoe_NF,Yuba River,5,Skillman_(Towle_Mill),usfs,CA,,17,N,10,E,25,,,Dropped from system in 1999
+5,818,Tahoe_NF,Yuba River,6,Alpha_Omega,usfs,CA,,17,N,10,E,24,,,not trapped since 1992
+5,819,Tahoe_NF,Yuba River,,Alpha_Omega_2,usfs,CA,,17,N,11,E,19,,,not trapped since 1993
+5,820,Tahoe_NF,Yuba River,,Alpha_Omega_3,usfs,CA,,17,N,11,E,19,,,not trapped since 2006
+5,821,Tahoe_NF,Yuba River,7,Indian_Springs,usfs,CA,,17,N,10,E,27,,,Dropped from system in 1999
+5,822,Tahoe_NF,Yuba River,8,White_Cloud,usfs,CA,,17,N,10,E,23,,,District change in 2006 from Nevada City to Yuba River.
+5,823,Tahoe_NF,Yuba River,,Levey_Ditch_Camp,usfs,CA,,16,N,11,E,4,,,District change in 2006 from Nevada City to Yuba River.
+5,824,Tahoe_NF,Yuba River,,Steep_Hollow,usfs,CA,,17,N,11,E,26,,,District change in 2006 from Nevada City to Yuba River.
+5,825,Tahoe_NF,Yuba River,,Water_Tank,usfs,CA,,17,N,10,E,23,,,Dropped from system in 1994
+5,826,Tahoe_NF,American River,1,Secret_House,usfs,CA,,15,N,12,E,1,,,District change in 2006 from Foresthill to American River. Burned in 2013. Not trapped since 2012
+5,827,Tahoe_NF,American River,2,Fir_Thicket,usfs,CA,,15,N,12,E,1,,,District change in 2006 from Foresthill to American River. Burned in 2013. Not trapped since 2012
+5,828,Tahoe_NF,American River,3,Cert_Stand,usfs,CA,,15,N,12,E,2,,,District change in 2006 from Foresthill to American River. Burned in 2013. Not trapped since 2012
+5,829,Tahoe_NF,American River,4,Black_Canyon,usfs,CA,,15,N,12,E,3,,,District change in 2006 from Foresthill to American River. Burned in 2013. Not trapped since 2012
+5,830,Tahoe_NF,American River,5,Mumford_Bar,usfs,CA,,15,N,12,E,4,,,District change in 2006 from Foresthill to American River.
+5,831,Tahoe_NF,American River,6,Westville,usfs,CA,,15,N,12,E,4,,,District change in 2006 from Foresthill to American River.
+5,832,Tahoe_NF,American River,7,Dellar_Springs,usfs,CA,,14,N,12,E,23,,,District change in 2006 from Foresthill to American River.
+5,833,Tahoe_NF,Yuba River,,Deer_Creek,usfs,CA,,16,N,10,E,32,,,Dropped from system in 2000
+5,834,Tahoe_NF,Yuba River,,Snow_Tent,usfs,CA,,18,N,10,E,23,,,District change in 2006 from Nevada City to Yuba River.
+5,835,Tahoe_NF,Yuba River,,Cherry_Hill,usfs,CA,,18,N,11,E,18,,,District change in 2006 from Nevada City to Yuba River. Name change from Cherry Hill to Quinn Ranch in 2006. Not trapped since 2006
+5,836,Tahoe_NF,Yuba River,,Graniteville,usfs,CA,,18,N,11,E,10,,,"District change in 2006 from Nevada City to Yuba River. Moved from T18N, R11E, Sec10 to T18N, R11E, Sec09 in 2006"
+5,837,Tahoe_NF,Yuba River,,Rocky_Glen,usfs,CA,,18,N,11,E,3,,,"Moved from T18N, R11E, Sec16 to T18N, R11E, Sec03 in 2004. District change in 2006 from Nevada City to Yuba River. Not trapped since 2006"
+5,838,Tahoe_NF,Yuba River,,Celina,usfs,CA,,18,N,11,E,27,,,"Moved from T18N, R11E, Sec34 to T18N, R11E, Sec27 in 2004. Dropped from system in 2005"
+5,839,Tahoe_NF,Yuba River,,Bowman,usfs,CA,,18,N,12,E,30,,,"District change in 2006 from Nevada City to Yuba River. Name change from Bowman (Grouse) to Grouse in 2006. Moved from T18N, R12E, Sec30 to T17N, R12E, Sec06 in 2006"
+5,840,Tahoe_NF,Yuba River,,Fulda,usfs,CA,,16,N,11,E,13,,,Dropped from system in 2005
+5,841,Tahoe_NF,Yuba River,,Monumental,usfs,CA,,16,N,12,E,9,,,Dropped from system in 2005
+5,842,Tahoe_NF,Yuba River,,Burlington,usfs,CA,,17,N,10,E,25,,,District change in 2006 from Nevada City to Yuba River. Not trapped since 2006
+5,843,Tahoe_NF,Yuba River,,Chalk_Bluff,usfs,CA,,17,N,10,E,36,,,Not trapped since 2007
+5,844,Tahoe_NF,Sierraville,1,Treasure_South,usfs,CA,,19,N,14,E,11,,,New plot in 2004
+5,845,Tahoe_NF,Sierraville,2,Treasure_North,usfs,CA,,19,N,14,E,11,,,New plot in 2004
+5,846,Tahoe_NF,Sierraville,3,Fletcher,usfs,CA,,21,N,13,E,23,,,New plot in 2005
+5,847,Tahoe_NF,Sierraville,4,Pass Creek CG,usfs,CA,,19,N,13,E,20,,,"New plot in 2005. Moved from T19N, R13E, Sec22 (Bald Ridge)to T19N, R13E, Sec20 (Pass Creek CG)in 2012."
+5,848,Tahoe_NF,Sierraville,5,Independence,usfs,CA,,19,N,15,E,26,,,New plot in 2005
+5,849,Tahoe_NF,American River,,Secret House 2,usfs,CA,,15,N,21,E,1,,,New plot in 2000. Dropped from system in 2001
+5,850,Tahoe_NF,Yuba River,,Omega,usfs,CA,,17,N,11,E,21,,,New plot in 2006.
+5,851,Tahoe_NF,Yuba River,,Carvin,usfs,CA,,20,N,12,E,1,,,New plot in 2012.
+5,852,Tahoe_NF,Yuba River,,Fir Cap,usfs,CA,,20,N,10,E,21,,,New plot in 2012
+5,853,Tahoe_NF,Yuba River,,Ruby,usfs,CA,,19,N,10,E,16,,,New plot in 2012
+5,854,Tahoe_NF,American River,,Onion Valley (or ring),usfs,CA,,16,N,12,E,8,,,New plot in 2014.
+5,855,Tahoe_NF,American River,,Sawtooth Ridge,usfs,CA,,16,N,12,E,29,,,"New plot in 2014. Moved from T16N, R12E, Sec28 to T16N, R12E, Sec29 in 2017."
+5,856,Tahoe_NF,American River,,Dawson Spring,usfs,CA,,16,N,12,E,27,,,New plot in 2014.
+5,857,Tahoe_NF,American River,,Bear Trap,usfs,CA,,16,N,12,E,4,,,New plot in 2014.
+5,858,Tahoe_NF,American River,,Deer Tracks,usfs,CA,,14,N,13,E,5,,,New plot in 2015.
+5,901,Sequoia_NF,Hot_Springs,1,Portugese_Pass,usfs,CA,,25,S,32,E,36,,,
+5,902,Sequoia_NF,Hot_Springs,2,Panorama_Cg,usfs,CA,,24,S,32,E,30,,,
+5,903,Sequoia_NF,Hot_Springs,3,Speas_Ridge,usfs,CA,,23,S,32,E,18,,,
+5,904,Sequoia_NF,Hot_Springs,4,Parker_Pass,usfs,CA,,23,S,31,E,3,,,
+5,905,Sequoia_NF,Hot_Springs,5,Sugarloaf,usfs,CA,,24,S,31,E,23,,,
+5,906,Sequoia_NF,Greenhorn,1,Tiger,usfs,CA,,25,S,32,E,5,,,
+5,907,Sequoia_NF,Greenhorn,2,Moth_3/Spout,usfs,CA,,25,S,32,E,17,,,
+5,908,Sequoia_NF,Greenhorn,3,Moth_5/Black,usfs,CA,,25,S,32,E,21,,,
+5,909,Sequoia_NF,Greenhorn,4,Moth_4/Summit,usfs,CA,,25,S,32,E,20,,,
+5,910,Sequoia_NF,Greenhorn,5,Moth_2/Rhymes,usfs,CA,,26,S,32,E,7,,,
+5,911,Sequoia_NF,Hume_Lake,3,Quail_Flat,usfs,CA,,14,S,28,E,11,,,
+5,912,Sequoia_NF,Hume_Lake,2,Weston,usfs,CA,,14,S,28,E,12,,,
+5,913,Sequoia_NF,Hume_Lake,4,Eshom,usfs,CA,,14,S,28,E,21,,,
+5,914,Sequoia_NF,Hume_Lake,1,Mcgee,usfs,CA,,13,S,29,E,29,,,
+5,915,Sequoia_NF,Hume_Lake,5,Bear_Skin,usfs,CA,,13,S,30,E,35,,,
+5,916,Seq/Kings_NP,,1,Grant_Grove_Stables,nps,CA,,13,S,28,E,31,,,
+5,917,Seq/Kings_NP,,2,Crystal_Springs_Cpg,nps,CA,,13,S,28,E,32,,,
+5,918,Seq/Kings_NP,,3,Sunset_Cpg,nps,CA,,14,S,28,E,6,,,
+5,919,Seq/Kings_NP,,4,Quail_Flat_Nps,nps,CA,,14,S,28,E,11,,,
+5,920,Seq/Kings_NP,,5,Dorst_Cpg#1,nps,CA,,15,S,29,E,10,,,
+5,921,Seq/Kings_NP,,6,Beetle_Rock,nps,CA,,16,S,29,E,1,,,
+5,922,Sequoia_NF,Tule_River,1,Ponderosa,usfs,CA,,21,S,32,E,16,,,
+5,923,Sequoia_NF,Tule_River,2,Pack_Station,usfs,CA,,20,S,32,E,20,,,
+5,924,Sequoia_NF,Tule_River,3,Summit,usfs,CA,,,,,,,,,
+5,925,Sequoia_NF,Tule_River,4,Sequoia_Crest,usfs,CA,,20,S,31,E,21,,,
+5,926,Sequoia_NF,Tule_River,5,Alpine_Village,usfs,CA,,20,S,31,E,28,,,
+5,927,Sequoia_NF,Greenhorn,6,Moth_1,usfs,CA,,25,S,32,E,29,,,
+5,1001,Lassen_NF,Eagle_Lake,2,Fredonyer_East,blm,CA,,33,N,12,E,26,,,Location dropped in2012
+5,1002,Lassen_NF,Eagle_Lake,1,Fredonyer_West,blm,CA,,33,N,12,E,27,,,
+5,1003,Lassen_NF,Eagle_Lake,,Roop_Mtn_East_1,blm,CA,,30,N,11,E,5,,,Dropped from system in 1992
+5,1004,Lassen_NF,Eagle_Lake,,Roop_Mtn_East_2,blm,CA,,30,N,11,E,6,,,Dropped from system in 1992
+5,1005,Lassen_NF,Eagle_Lake,5,Bailey_Creek,blm,CA,,33,N,12,E,4,,,
+5,1006,Modoc_NF,Big_Valley,,Widow_Peak_West,blm,CA,,38,N,6,E,3,,,
+5,1007,Modoc_NF,Big_Valley,,Widow_Peak_East,blm,CA,,38,N,6,E,10,,,
+5,1008,Lassen_NF,Eagle_Lake,,Roop_Mtn_West_1,blm,CA,,30,N,10,E,9,,,Dropped from system in 1989
+5,1009,Lassen_NF,Eagle_Lake,,Roop_Mtn_West_2,blm,CA,,30,N,10,E,14,,,Dropped from system in 1989
+5,1010,Lassen_NF,Eagle_Lake,3,Fredonyer_North,blm,CA,,33,N,12,E,15,,,First record of installation 2014
+5,1101,Lake_Tahoe_Basin_MU,,1,Fallen_Leaf,usfs,CA,,12,N,17,E,1,,,
+5,1102,Lake_Tahoe_Basin_MU,,2,Meeks,usfs,CA,,14,N,17,E,29,,,
+5,1103,Lake_Tahoe_Basin_MU,,3,Rubicon,usfs,CA,,14,N,17,E,18,,,
+5,1104,Lake_Tahoe_Basin_MU,,4,Ward,usfs,CA,,15,N,16,E,13,,,
+5,1105,Lake_Tahoe_Basin_MU,,5,Brockway,usfs,CA,,16,N,17,E,10,,,
+5,1200,Angeles National Forest,San Gabriel,,ABCO cluster,usfs,CA,,,,,,,34.38987,-117.69303,
+5,1201,Angeles National Forest,San Gabriel,,Telecom Pulloff,usfs,CA,,,,,,,34.3487,-117.67038,
+5,1202,Angeles National Forest,San Gabriel,,Grassy Hollow,usfs,CA,,,,,,,34.37719,-117.72108,
+5,1203,Angeles National Forest,San Gabriel,,Hwy 2,usfs,CA,,,,,,,34.34979,-117.89304,
+5,1301,San Bernardino National Forest,Mountain Top,,Forest Creek TH,usfs,CA,,,,,,,34.16053,-116.89894,
+5,1302,San Bernardino National Forest,Mountain Top,,2N10,usfs,CA,,,,,,,34.421681,-116.95786,
+5,1303,San Bernardino National Forest,Mountain Top,,2N10-Mtn Bike 1,usfs,CA,,,,,,,34.2212,-116.87334,
+5,1304,San Bernardino National Forest,Mountain Top,,2N10-Mtn Bike 2,usfs,CA,,,,,,,34.22058,-116.87397,
+5,1305,San Bernardino National Forest,Mountain Top,,2N10-Mtn Bike 3,usfs,CA,,,,,,,34.22071,-116.87581,
+6,1,Deschutes_NF,Sisters,1,Jack_Creek,usfs,OR,,12,S,9,E,31,44.49167,-121.7,
+6,2,Deschutes_NF,Sisters,5,Black_Butte,usfs,OR,,13,S,9,E,26,44.41389,-121.63333,
+6,3,Deschutes_NF,Sisters,6,Bear_Springs,usfs,OR,,12,S,10,E,30,44.50556,-121.575,
+6,4,Deschutes_NF,Sisters,7,Street_Creek,usfs,OR,,11,S,10,E,31,44.5738,-121.5834,Dropped in 2014 due to fire
+6,5,Deschutes_NF,Sisters,8,Trout_Creek,usfs,OR,,15,S,9,E,20,44.25861,-121.68472,
+6,6,Fremont-Winema_NFs,Bly,11,John_Spring,usfs,OR,,37,S,12,E,15,42.3564,-121.2839,
+6,7,Fremont-Winema_NFs,Bly,12,Goodlow,usfs,OR,,38,S,13,E,32,42.2312,-121.2028,
+6,8,Fremont-Winema_NFs,Bly,13,Spodue,usfs,OR,,34,S,12,E,23,42.6053,-121.2659,
+6,9,Fremont-Winema_NFs,Bly,14,Riverbed,usfs,OR,,34,S,13,E,23,42.615,-121.1388,
+6,10,Fremont-Winema_NFs,Bly,15,Deming,usfs,OR,,36,S,15,E,2,42.47638,-120.90972,
+6,11,Fremont-Winema_NFs,Bly,16,Lantern_Flat,usfs,OR,,37,S,17,E,6,42.3924,-120.7484,
+6,12,Fremont-Winema_NFs,Bly,17,Horsefly,usfs,OR,,38,S,14,E,10,42.2873,-121.0544,
+6,13,Fremont-Winema_NFs,Bly,18,Tower,usfs,OR,,38,S,16,E,4,42.3034,-120.8295,
+6,14,Fremont-Winema_NFs,Lakeview,227,Horseshoe,usfs,OR,,40,S,18,E,22,42.0898,-120.5854,Dropped in 2012 due to fire
+6,15,Fremont-Winema_NFs,Lakeview,230,Deep_Creek,usfs,OR,,40,S,22,E,31,42.0585,-120.1733,
+6,16,Fremont-Winema_NFs,Paisley,1,Withers_Lake,usfs,OR,,33,S,17,E,26,42.69444,-120.67972,
+6,17,Fremont-Winema_NFs,Paisley,3,Morgan_Butte,usfs,OR,,34,S,18,E,12,42.54889,-120.54194,
+6,18,Malheur_NF,Blue_Mtn,1,Aldrich,usfs,OR,,14,S,28,E,22,44.33667,-119.34367,
+6,19,Malheur_NF,Blue_Mtn,7,Buck_Cr,usfs,OR,,16,S,28,E,30,44.15083,-119.40639,
+6,20,Malheur_NF,Blue_Mtn,3,Starr_Ridge,usfs,OR,,15,S,32,E,31,44.21889,-118.92944,
+6,21,Malheur_NF,Emigrant_Cr,201,2850_Road,usfs,OR,,21,S,32,E,4,43.78186,-118.78733,
+6,22,Malheur_NF,Emigrant_Cr,202,King_Mountain,usfs,OR,,20,S,32,E,34,43.79122,-118.86664,
+6,23,Malheur_NF,Emigrant_Cr,205,Gold_Hill,usfs,OR,,18,S,30,E,31,43.97242,-119.16211,
+6,24,Malheur_NF,Emigrant_Cr,210,West_Myrtle,usfs,OR,,19,S,30,E,6,43.95833,-119.15917,
+6,25,Malheur_NF,Emigrant_Cr,207,Yellowjacket,usfs,OR,,19,S,29,E,33,43.88333,-119.25461,
+6,26,Malheur_NF,Emigrant_Cr,208,Schoolmarm_Spr,usfs,OR,,19,S,28,E,18,43.92367,-119.40054,
+6,27,Malheur_NF,Blue_Mtn,33,Long_Creek_Mtn,usfs,OR,,10,S,30,E,20,44.68055,-119.12723,
+6,28,Malheur_NF,Blue_Mtn,34,Slide_Creek,usfs,OR,,10,S,31,E,22,44.6795,-118.97971,
+6,29,Malheur_NF,Blue_Mtn,36,Ruby_Creek,usfs,OR,,11,S,33,E,1,44.64768,-118.69175,
+6,30,Malheur_NF,Blue_Mtn,38,N.F._Summit,usfs,OR,,11,S,35,E,13,44.60653,-118.35874,
+6,31,Malheur_NF,Blue_Mtn,325,Black_Butte,usfs,OR,,12,S,30,E,6,44.55207,-119.15768,
+6,32,Malheur_NF,Prairie_City,1,Antelope,usfs,OR,,17,S,35,E,28,44.05524,-118.42237,
+6,33,Malheur_NF,Prairie_City,2,Mcallister_Spr,usfs,OR,,17,S,34,E,12,44.10102,-118.48643,
+6,34,Malheur_NF,Prairie_City,3,Mccoy,usfs,OR,,15,S,34,E,31,44.22581,-118.68208,
+6,35,Malheur_NF,Prairie_City,5,Northfork,usfs,OR,,16,S,35,E,3,44.20417,-118.39294,
+6,36,Mt_Hood_NF,Barlow,4,Gator,usfs,OR,,4,S,10,E,12,45.237,-121.48597,
+6,37,Mt_Hood_NF,Barlow,8,Skyline_Pit,usfs,OR,,1,S,11,E,32,45.44672,-121.45119,
+6,38,Mt_Hood_NF,Barlow,1,Station,usfs,OR,,5,S,10,E,22,45.11492,-121.52494,
+6,39,Mt_Hood_NF,Barlow,2,Scale_Station,usfs,OR,,5,S,11,E,30,45.10372,-121.46297,
+6,40,Ochoco_NF,Paulina,3,Thompson_Spr,usfs,OR,,13,S,21,E,6,44.46722,-120.26028,Change to district boundary
+6,41,Ochoco_NF,Paulina,5,Dry_Porter,usfs,OR,,13,S,22,E,33,44.38716,-120.07559,Change to district boundary
+6,42,Ochoco_NF,Lookout_Mtn,6,Lookout,usfs,OR,,14,S,20,E,7,44.36889,-120.38056,
+6,43,Ochoco_NF,Paulina,8,Lutsey,usfs,OR,,15,S,20,E,25,44.24667,-120.28167,Change to district boundary
+6,44,Ochoco_NF,Paulina,1,Humphrey_Camp,usfs,OR,,14,S,25,E,9,44.37307,-119.72598,
+6,45,Ochoco_NF,Paulina,3,Cottonwood,usfs,OR,,13,S,24,E,4,44.4698,-119.84762,Site not trapped since 1990
+6,46,Ochoco_NF,Paulina,3,Chamberlin_Spr,usfs,OR,,13,S,24,E,19,44.43177,-119.89331,Site not trapped since 1990
+6,47,Ochoco_NF,Paulina,4,Yuma,usfs,OR,,14,S,24,E,34,44.31627,-119.8308,
+6,48,Ochoco_NF,Lookout_Mtn,2,Benefield_Cr,usfs,OR,,13,S,18,E,28,44.415,-120.585,
+6,49,Ochoco_NF,Lookout_Mtn,3,Maury_Mtn,usfs,OR,,17,S,20,E,25,44.06333,-120.27,
+6,50,Ochoco_NF,Lookout_Mtn,4,Road_2705,usfs,OR,,12,S,17,E,20,44.50667,-120.71,
+6,51,Ochoco_NF,Lookout_Mtn,7,Bear_Creek,usfs,OR,,12,S,19,E,18,44.52333,-120.49167,
+6,52,Ochoco_NF,Snow_Mtn,403,Boundary,usfs,OR,,18,S,26,E,33,43.96678,-119.60757,
+6,53,Ochoco_NF,Snow_Mtn,404,Timothy,usfs,OR,,18,S,27,E,31,43.96646,-119.52674,
+6,54,Ochoco_NF,Snow_Mtn,408,Coyote,usfs,OR,,19,S,27,E,36,43.87962,-119.42663,
+6,55,Okanogan&Wenatchee_NF,Tonasket,14,Middle_Mt.,usfs,WA,,36,N,24,E,11,48.63167,-119.78167,
+6,56,Okanogan&Wenatchee_NF,Tonasket,15,14_Mile,usfs,WA,,39,N,24,E,4,48.90667,-119.83167,
+6,57,Okanogan&Wenatchee_NF,Tonasket,12,Rusty_Cr.,usfs,WA,,35,N,24,E,16,48.53248,-119.83166,
+6,58,Okanogan&Wenatchee_NF,Tonasket,33,Henderson_Cr,usfs,WA,,37,N,29,E,4,48.73167,-119.17528,
+6,59,Okanogan&Wenatchee_NF,Tonasket,35,Marias_Creek,usfs,WA,,40,N,31,E,8,48.98583,-118.93167,
+6,60,Okanogan&Wenatchee_NF,Tonasket,36,Gooseberry_Mdw,usfs,WA,,36,N,31,E,27,48.58778,-118.91917,
+6,61,Okanogan&Wenatchee_NF,Tonasket,38,Sneed_Mtn,usfs,WA,,35,N,29,E,1,48.55667,-119.13778,
+6,62,Okanogan&Wenatchee_NF,Methow_Valley,42,Bridge_Creek,usfs,WA,,34,N,20,E,33,48.40217,-120.34944,
+6,63,Okanogan&Wenatchee_NF,Methow_Valley,43,Twisp_River,usfs,WA,,33,N,19,E,3,48.39394,-120.46139,
+6,64,Okanogan&Wenatchee_NF,Methow_Valley,44,Blackpine_Lake,usfs,WA,,33,N,21,E,31,48.31217,-120.26453,
+6,65,Okanogan&Wenatchee_NF,Methow_Valley,45,Gold_Creek,usfs,WA,,32,N,21,E,32,48.23578,-120.23531,
+6,66,Okanogan&Wenatchee_NF,Methow_Valley,48,Black_Canyon,usfs,WA,,30,N,22,E,34,48.06194,-120.06722,
+6,67,Okanogan&Wenatchee_NF,Methow_Valley,53,Long_Creek,usfs,WA,,36,N,21,E,4,48.64995,-120.35036,
+6,68,Okanogan&Wenatchee_NF,Methow_Valley,55,Falls_Creek,usfs,WA,,36,N,21,E,12,48.63611,-120.16389,
+6,69,Okanogan&Wenatchee_NF,Methow_Valley,58,Pearrygin_Ridge,usfs,WA,,35,N,22,E,20,48.52083,-120.1225,
+6,70,Okanogan&Wenatchee_NF,Methow_Valley,59,Rattlesnake_Cmp,usfs,WA,,37,N,18,E,36,48.65861,-120.55528,
+6,71,Umatilla_NF,Heppner,3,Happy_Jack,usfs,OR,,8,S,26,E,10,44.88778,-119.60972,
+6,72,Umatilla_NF,Heppner,4,Bull_Prairie,usfs,OR,,7,S,25,E,1,44.98667,-119.6725,
+6,73,Umatilla_NF,N_Fork_John_Day,11,Bone_Point,usfs,OR,,7,S,31,E,19,44.94528,-119.04233,
+6,74,Umatilla_NF,N_Fork_John_Day,12,Barnes_Creek,usfs,OR,,8,S,31,E,14,44.86781,-118.95074,
+6,75,Umatilla_NF,N_Fork_John_Day,15,Park,usfs,OR,,7,S,33,E,31,44.91702,-118.78529,
+6,76,Umatilla_NF,N_Fork_John_Day,17,Fremont,usfs,OR,,9,S,35,E,15,44.78527,-118.48334,"on private land, did not trap in 2016, replaced with plot ID 2486 ""Powerhouse"". Trapped again in 2017"
+6,77,Umatilla_NF,N_Fork_John_Day,51,Matlock,usfs,OR,,5,S,30,E,30,45.10052,-119.13564,
+6,78,Umatilla_NF,N_Fork_John_Day,54,Cable_Creek,usfs,OR,,6,S,33,E,3,45.07639,-118.72083,Site not trapped since 1995
+6,79,Umatilla_NF,N_Fork_John_Day,56,Pardue_Corral,usfs,OR,,3,S,33,E,31,45.26721,-118.76704,
+6,80,Umatilla_NF,Pomeroy,41,Wood_Road_One,usfs,WA,,9,N,42,E,4,46.28835,-117.54985,
+6,81,Umatilla_NF,Pomeroy,42,Big_Butte,usfs,WA,,7,N,44,E,2,46.1109,-117.25864,
+6,82,Umatilla_NF,Pomeroy,43,Hixon,usfs,WA,,9,N,41,E,21,46.24137,-117.6908,
+6,83,Umatilla_NF,Pomeroy,44,Getaway_Spr,usfs,WA,,9,N,43,E,30,46.2258,-117.47357,
+6,84,Umatilla_NF,Pomeroy,46,Touchet,usfs,WA,,8,N,40,E,21,46.15556,-117.80639,
+6,85,Umatilla_NF,Pomeroy,48,James_Canyon,usfs,WA,,7,N,43,E,29,46.04878,-117.45461,
+6,86,Umatilla_NF,Walla_Walla,4,Dick_Spr,usfs,OR,,3,N,37,E,11,45.74667,-118.16861,
+6,87,Umatilla_NF,Walla_Walla,2,Huntit,usfs,OR,,5,N,41,E,3,45.93769,-117.68669,
+6,88,Umatilla_NF,Walla_Walla,1,Gulch,usfs,OR,,5,N,42,E,3,45.94639,-117.55278,
+6,89,Umatilla_NF,Walla_Walla,7,Ninemile,usfs,OR,,3,N,38,E,32,45.69593,-118.08428,
+6,90,Umatilla_NF,Walla_Walla,5,Simerson_Spr,usfs,OR,,1,S,37,E,29,45.45194,-118.20972,
+6,91,Umatilla_NF,Walla_Walla,6,Black_Mtn,usfs,OR,,1,N,37,E,6,45.59583,-118.23,Recalculated plot location from 2014
+6,92,Umatilla_NF,Walla_Walla,3,Bald_Mtn,usfs,OR,,4,N,38,E,34,45.78076,-118.04579,
+6,93,Umatilla_NF,Walla_Walla,8,Red,usfs,OR,,1,S,36,E,28,45.45778,-118.30556,
+6,94,Wallowa-Whitman_NF,Baker,2,Antone_Creek,usfs,OR,,7,S,37,E,1,44.9823,-118.1179,
+6,95,Wallowa-Whitman_NF,Baker,6,Washington_Gulch,usfs,OR,,9,S,39,E,22,44.76706,-117.92177,
+6,96,Wallowa-Whitman_NF,Baker,7,Black_Mtn_Rd,usfs,OR,,10,S,38,E,36,44.6567,-118.0022,
+6,97,Wallowa-Whitman_NF,Baker,8,Ebell_Cr-Dark_Cyn,usfs,OR,,11,S,41,E,19,44.59167,-117.74167,
+6,98,Wallowa-Whitman_NF,Eagle_Cap,52,Big_Canyon,usfs,OR,,1,S,42,E,6,45.50167,-117.605,
+6,99,Wallowa-Whitman_NF,Eagle_Cap,53,Little_Bear_Cr,usfs,OR,,1,S,43,E,32,45.435,-117.47,
+6,100,Wallowa-Whitman_NF,HCNRA,41,Dry_Cr-Puderbaugh,usfs,OR,,4,S,48,E,33,45.17,-116.83833,
+6,101,Wallowa-Whitman_NF,HCNRA,43,Yellowjacket,usfs,OR,,1,S,48,E,1,45.515,-116.76194,
+6,102,Wallowa-Whitman_NF,HCNRA,44,Memaloose,usfs,OR,,1,S,49,E,34,45.42833,-116.695,
+6,103,Wallowa-Whitman_NF,HCNRA,46,Lonesome,usfs,OR,,5,S,48,E,32,45.08667,-116.87167,
+6,104,Wallowa-Whitman_NF,La_Grande,2,Mccoy_Creek,usfs,OR,,3,S,34,E,3,45.33284,-118.54118,Site not trapped since 1993
+6,105,Wallowa-Whitman_NF,La_Grande,6,Dry_Beaver,usfs,OR,,4,S,36,E,29,45.19431,-118.33631,
+6,106,Wallowa-Whitman_NF,La_Grande,7,Ladd_Canyon,usfs,OR,,5,S,38,E,4,45.16022,-118.05606,
+6,107,Wallowa-Whitman_NF,Pine,75,Rd_050_Dry_Cr.,usfs,OR,,7,S,46,E,11,44.97162,-117.05314,
+6,108,Wallowa-Whitman_NF,Pine,76,Clr_Cr._Beecher,usfs,OR,,7,S,46,E,5,44.98635,-117.11372,
+6,109,Wallowa-Whitman_NF,Pine,78,Gold_Eagle_Pack,usfs,OR,,7,S,44,E,3,44.98523,-117.31368,
+6,110,Wallowa-Whitman_NF,Pine,79,Fish_Lake,usfs,OR,,6,S,46,E,28,45.01512,-117.09313,
+6,111,Wallowa-Whitman_NF,La_Grande,1,Mount_Moriah,usfs,OR,,1,S,41,E,8,45.49067,-117.72119,
+6,112,Wallowa-Whitman_NF,La_Grande,3,Moss_Springs,usfs,OR,,3,S,41,E,16,45.29447,-117.69919,
+6,113,Wallowa-Whitman_NF,La_Grande,4,Little_Catherine,usfs,OR,,5,S,41,E,3,45.15333,-117.6665,
+6,114,Wallowa-Whitman_NF,La_Grande,6,Drumhill_Ridge,usfs,OR,,1,S,37,E,34,45.42786,-118.16547,
+6,115,Wallowa-Whitman_NF,La_Grande,7,Balm_Cr.,usfs,OR,,7,S,42,E,11,44.97606,-117.53683,
+6,116,Wallowa-Whitman_NF,Unity,93,Record_Mine,usfs,OR,,14,S,36,E,1,44.38417,-118.29695,Recalculated plot location from 2014
+6,117,Wallowa-Whitman_NF,Unity,94,Telephone_Gulch,usfs,OR,,15,S,37,E,11,44.25833,-118.125,
+6,118,Wallowa-Whitman_NF,Unity,96,Third_Creek,usfs,OR,,11,S,36,E,12,44.625,-118.25,
+6,119,Wallowa-Whitman_NF,Unity,97,Oregon_Cmpgrnd,usfs,OR,,12,S,36,E,8,44.54167,-118.33333,
+6,120,Wallowa-Whitman_NF,Wallowa_Valley,1,Spoon-Harl_Butte,usfs,OR,,3,S,47,E,32,45.25,-116.96667,
+6,121,Wallowa-Whitman_NF,Wallowa_Valley,6,Kinney_Lake,usfs,OR,,3,S,46,E,29,45.275,-117.14167,
+6,122,Wallowa-Whitman_NF,Wallowa_Valley,8,Billy_Meadows,usfs,OR,,4,N,46,E,32,45.79167,-117.08333,
+6,123,Wallowa-Whitman_NF,Wallowa_Valley,12,Elk_Mtn,usfs,OR,,3,N,45,E,33,45.69167,-117.19167,
+6,124,Wallowa-Whitman_NF,Wallowa_Valley,13,Roberts_2605,usfs,OR,,2,N,45,E,30,45.625,-117.25,
+6,125,Wallowa-Whitman_NF,Wallowa_Valley,14,Wood_Butte,usfs,OR,,3,N,43,E,9,45.7564,-117.4436,
+6,126,Wallowa-Whitman_NF,Wallowa_Valley,16,Shamrock,usfs,OR,,3,N,44,E,9,45.75,-117.30833,
+6,127,Okanogan&Wenatchee_NF,Chelan,1,Forest_Mt.,usfs,WA,,27,N,21,E,8,47.8625,-120.22083,
+6,128,Okanogan&Wenatchee_NF,Chelan,2,First_Cr.,usfs,WA,,27,N,21,E,10,47.85796,-120.18366,
+6,129,Okanogan&Wenatchee_NF,Cle_Elum,2,Red_Top,usfs,WA,,21,N,17,E,17,47.30833,-120.725,
+6,130,Okanogan&Wenatchee_NF,Cle_Elum,3,Stafford,usfs,WA,,22,N,16,E,26,47.36667,-120.8,
+6,131,Okanogan&Wenatchee_NF,Cle_Elum,7,Buck_Meadows,usfs,WA,,18,N,15,E,22,47.03611,-120.95694,
+6,132,Okanogan&Wenatchee_NF,Cle_Elum,8,Reecer,usfs,WA,,20,N,18,E,29,47.18333,-120.6,
+6,133,Okanogan&Wenatchee_NF,Entiat,4,Tyee,usfs,WA,,27,N,19,E,34,47.24528,-120.4375,Site not trapped since 1993
+6,134,Okanogan&Wenatchee_NF,Entiat,5,Mckenzie,usfs,WA,,26,N,20,E,5,47.77806,-120.35944,Site not trapped since 1993
+6,135,Okanogan&Wenatchee_NF,Wenatchee_River,61,Hegler_Creek,usfs,WA,,26,N,17,E,1,47.77889,-120.66944,
+6,136,Okanogan&Wenatchee_NF,Wenatchee_River,68,Butcher_Creek,usfs,WA,,27,N,16,E,36,47.79056,-120.79139,
+6,137,Okanogan&Wenatchee_NF,Wenatchee_River,73,Dryden,usfs,WA,,24,N,18,E,34,47.53167,-120.56833,
+6,138,Okanogan&Wenatchee_NF,Wenatchee_River,74,Beehive,usfs,WA,,21,N,19,E,11,47.32667,-120.41333,
+6,139,Okanogan&Wenatchee_NF,Wenatchee_River,75,Blagg_Williams_Cyn,usfs,WA,,24,N,18,E,2,47.60333,-120.54667,
+6,140,Okanogan&Wenatchee_NF,Wenatchee_River,76,Moon_Canyon,usfs,WA,,25,N,18,E,10,47.68,-120.57333,
+6,141,Okanogan&Wenatchee_NF,Wenatchee_River,78,Icicle_Mac_Cr,usfs,WA,,24,N,16,E,2,47.6,-120.80833,
+6,142,Okanogan&Wenatchee_NF,Naches,86,Rattler,usfs,WA,,15,N,14,E,15,46.79028,-121.05861,
+6,143,Okanogan&Wenatchee_NF,Naches,87,Gold_Creek,usfs,WA,,17,N,14,E,13,46.96056,-121.02694,
+6,144,Okanogan&Wenatchee_NF,Naches,88,Hell_Creek,usfs,WA,,13,N,12,E,21,46.60333,-121.33028,
+6,145,Okanogan&Wenatchee_NF,Naches,89,Oak_Creek,usfs,WA,,14,N,15,E,2,46.73203,-120.91884,
+6,146,Fremont-Winema_NFs,Chemult,8,Hoyt,usfs,OR,,30,S,11,E,22,42.95953,-121.39833,
+6,147,Fremont-Winema_NFs,Chiloquin,1,Lavenik,usfs,OR,,36,S,9,E,27,42.4225,-121.63306,
+6,148,Fremont-Winema_NFs,Chiloquin,2,Cave_Mtn,usfs,OR,,34,S,7,E,24,42.61222,-121.82306,
+6,149,Fremont-Winema_NFs,Chiloquin,3,Whitehorse,usfs,OR,,34,S,8,E,17,42.62471,-121.78948,Site not trapped since 1989
+6,150,Fremont-Winema_NFs,Chiloquin,8,Agency,usfs,OR,,34,S,7,E,7,42.64194,-121.93333,
+6,151,Fremont-Winema_NFs,Klamath,5,Nannie_Threemile,usfs,OR,,34,S,6,E,2,42.64278,-122.07917,
+6,152,Fremont-Winema_NFs,Klamath,8,Westside_Rock_Cr,usfs,OR,,35,S,6,E,10,42.54639,-122.10583,
+6,153,Colville_NF,Three_Rivers,3,Smackout,usfs,WA,,38,N,41,E,12,48.80583,-117.58014,
+6,154,Colville_NF,Three_Rivers,8,Woodard,usfs,WA,,32,N,42,E,30,48.24028,-117.54667,
+6,155,Colville_NF,Three_Rivers,4,Laboe,usfs,WA,,37,N,40,E,28,48.67472,-117.77778,
+6,156,Colville_NF,Three_Rivers,21,Barnaby_Cr.,usfs,WA,,35,N,36,E,29,48.50013,-118.3204,
+6,157,Colville_NF,Three_Rivers,22,Mattsen_Cr.,usfs,WA,,37,N,36,E,1,48.73871,-118.18211,
+6,158,Colville_NF,Newport,1,Power_Lk,usfs,WA,,32,N,43,E,33,48.23108,-117.38091,
+6,159,Colville_NF,Newport,2,Winchester_Cr,usfs,WA,,32,N,43,E,5,48.30125,-117.41168,
+6,160,Colville_NF,Newport,4,Marshall_Lk,usfs,WA,,32,N,45,E,15,48.26944,-117.1,
+6,161,Colville_NF,Newport,5,Cca_Peak,usfs,WA,,33,N,45,E,17,48.35833,-117.14167,Site not trapped since 1991
+6,162,Colville_NF,Newport,7,Timber_Mt,usfs,WA,,35,N,42,E,23,48.51419,-117.47665,
+6,163,Colville_NF,Republic,41,Sunsetlake,usfs,WA,,35,N,32,E,11,48.54167,-118.77083,
+6,164,Colville_NF,Republic,44,Iron_Mtn,usfs,WA,,36,N,33,E,36,48.575,-118.625,
+6,165,Colville_NF,Republic,46,St_Peters,usfs,WA,,38,N,34,E,28,48.75833,-118.5125,
+6,166,Colville_NF,Sullivan_Lake,5,Flume_Cr,usfs,WA,,39,N,43,E,4,48.91,-117.3748,
+6,167,Colville_IR,Inchelium,1,Canteen_Creek,bia,WA,,29,N,35,E,6,48.04093,-118.44254,
+6,168,Colville_IR,Inchelium,2,Sclome_Meadow,bia,WA,,30,N,34,E,29,48.06964,-118.54639,
+6,169,Colville_IR,Inchelium,3,Little_Wilmont,bia,WA,,30,N,35,E,5,48.13453,-118.42175,
+6,170,Colville_IR,Inchelium,4,Klondyke_Creek,bia,WA,,32,N,34,E,34,48.22836,-118.51522,
+6,171,Colville_IR,Inchelium,5,Carson_Creek,bia,WA,,33,N,35,E,33,48.31389,-118.3957,
+6,172,Colville_IR,Inchelium,6,Lafleur_Lake,bia,WA,,34,N,36,E,27,48.41881,-118.25933,
+6,173,Colville_IR,Inchelium,7,Lynx_Creek,bia,WA,,33,N,34,E,24,48.34959,-118.4589,
+6,174,Colville_IR,Inchelium,8,Hall_Creek,bia,WA,,34,N,34,E,11,48.46206,-118.48738,
+6,175,Colville_IR,Inchelium,9,Hellgate,bia,WA,,29,N,34,E,30,47.99155,-118.56574,
+6,176,Colville_IR,Inchelium,10,Johnny_George,bia,WA,,28,N,35,E,18,47.92227,-118.46033,
+6,177,Colville_IR,Omak-Nespelem,1,Deerhorn_Cr,bia,WA,,34,N,31,E,13,48.45014,-118.85997,"Prior site burned in 2015, Moved 0.4 mile west T34N, R31E, S14 (48.449416, -118.869444)"
+6,178,Colville_IR,Omak-Nespelem,2,Park_City,bia,WA,,33,N,31,E,14,48.35922,-118.88789,"Prior site burned in 2015, Moved slightly S and E. 48.358361, -118.887972"
+6,179,Colville_IR,Omak-Nespelem,3,Stepstone,bia,WA,,33,N,30,E,1,48.38431,-118.99175,"Prior site burned in 2015, Moved ~0.3 mile NW 48.38772, -118.99611) Temporary"
+6,180,Colville_IR,Omak-Nespelem,4,Lost_Creek,bia,WA,,34,N,30,E,5,48.4685,-119.08236,
+6,181,Colville_IR,Omak-Nespelem,5,Clark_Creek,bia,WA,,34,N,29,E,27,48.41361,-119.16456,
+6,182,Colville_IR,Omak-Nespelem,6,Keller_Butte,bia,WA,,30,N,32,E,28,48.07147,-118.79486,
+6,183,Colville_IR,Omak-Nespelem,7,Coyote_Creek,bia,WA,,32,N,29,E,26,48.24756,-119.14069,
+6,184,Colville_IR,Omak-Nespelem,8,Armstrong,bia,WA,,32,N,30,E,27,48.24172,-119.02872,
+6,185,Colville_IR,Omak-Nespelem,9,Browns_Pass,bia,WA,,34,N,28,E,6,48.47014,-119.34786,"Prior site burned in 2015, Moved 435 Ft NW"
+6,186,Colville_IR,Omak-Nespelem,10,Whitmore_Mtn,bia,WA,,31,N,28,E,13,48.17928,-119.24331,
+6,187,Colville_IR,Sanpoil,1,Manila_Creek,bia,WA,,29,N,32,E,16,48.0178,-118.78411,
+6,188,Colville_IR,Sanpoil,2,Silver_Creek,bia,WA,,30,N,34,E,30,48.06528,-118.58444,
+6,189,Colville_IR,Sanpoil,3,Jack_Creek,bia,WA,,30,N,33,E,19,48.07986,-118.07986,
+6,190,Colville_IR,Sanpoil,4,Sanpoil,bia,WA,,31,N,33,E,30,48.15722,-118.69944,
+6,191,Colville_IR,Sanpoil,5,Central_Peak,bia,WA,,31,N,32,E,11,48.20016,-118.75833,
+6,192,Colville_IR,Sanpoil,6,Cody_Lake,bia,WA,,33,N,33,E,23,48.3425,-118.60917,
+6,193,Colville_IR,Sanpoil,7,Seventeen_Mile,bia,WA,,34,N,33,E,28,48.41833,-118.65278,
+6,194,Colville_IR,Sanpoil,8,Bear_Creek,bia,WA,,33,N,32,E,27,48.32667,-118.77639,
+6,195,Yakama_Nation,Yakama_Nation,1,Shinando_Canyon,bia,WA,,6,N,18,E,16,46.00492,-120.56111,"Relocated due to fire (2015), no relocation data submitted"
+6,196,Yakama_Nation,Yakama_Nation,2,Featherbed Camp,bia,WA,,6,N,15,E,5,46.01254,-120.93975,
+6,197,Yakama_Nation,Yakama_Nation,3,Section Corner,bia,WA,,7,N,16,E,15,46.09586,-120.79029,
+6,198,Yakama_Nation,Yakama_Nation,4,20_Day,bia,WA,,9,N,14,E,7,46.2802,-121.11538,
+6,199,Yakama_Nation,Yakama_Nation,5,Klickitat River Rd,bia,WA,,8,N,12,E,3,46.21165,-121.2921,
+6,200,Yakama_Nation,Yakama_Nation,6,Clearwater,bia,WA,,9,N,12,E,6,46.29478,-121.36401,
+6,201,Yakama_Nation,Yakama_Nation,7,Jerusalem Camp,bia,WA,,10,N,13,E,17,46.35196,-121.21668,
+6,202,Yakama_Nation,Yakama_Nation,8,Piscoe_Meadow,bia,WA,,11,N,14,E,29,46.41073,-121.09323,
+6,203,Yakama_Nation,Yakama_Nation,9,Sheep Butte,bia,WA,,7,N,15,E,10,46.1076,-120.91585,Updated Lat/Lon From note G.Kohler/Mike J. (1/8/2013)
+6,204,Yakama_Nation,Yakama_Nation,10,McKays Butte,bia,WA,,8,N,15,E,28,46.1502,-120.9336,
+6,205,Yakama_Nation,Yakama_Nation,11,S.Fork Toppenish Cr,bia,WA,,9,N,14,E,26,46.22471,-121.03097,
+6,206,Yakama_Nation,Yakama_Nation,12,Twin Buttes,bia,WA,,7,N,14,E,31,46.06396,-121.08936,
+6,207,Yakama_Nation,Yakama_Nation,13,Pole Creek,bia,WA,,8,N,13,E,28,46.1464,-121.18287,
+6,208,Yakama_Nation,Yakama_Nation,14,Goat Butte,bia,WA,,8,N,12,E,21,46.1487,-121.30678,
+6,209,Yakama_Nation,Yakama_Nation,15,Panther_Butte,bia,WA,,10,N,13,E,27,46.31629,-121.17414,
+6,210,Yakama_Nation,Yakama_Nation,16,Olney_Corral,bia,WA,,10,N,14,E,9,46.35936,-121.0674,
+6,211,Umatilla_NF,Heppner,ECO-1,Kinzua_Corp.,state,OR,Eastcentral_OR,4,S,28,E,16,45.21977,-119.34128,Site not trapped since 1995
+6,212,Umatilla_NF,N_Fork_John_Day,ECO-2,Kinzua_Corp.,state,OR,Eastcentral_OR,4,S,29,E,16,45.22241,-119.2195,Site not trapped since 1995
+6,213,Umatilla_NF,Heppner,ECO-4,Kinzua_Corp.,state,OR,Eastcentral_OR,7,S,22,E,11,44.9717,-120.05783,Site not trapped since 1989
+6,214,Umatilla_NF,Heppner,ECO-5,Kinzua_Corp.,state,OR,Eastcentral_OR,6,S,25,E,32,45.00242,-119.76016,Site not trapped since 1989
+6,215,Umatilla_NF,Heppner,ECO-6,Kinzua_Corp.,state,OR,Eastcentral_OR,6,S,25,E,35,45.00215,-119.69812,Site not trapped since 1989
+6,216,Umatilla_NF,Heppner,ECO-7,Kinzua_Corp.,state,OR,Eastcentral_OR,6,S,26,E,30,45.01625,-119.65727,Site not trapped since 1989
+6,217,Umatilla_NF,N_Fork_John_Day,ECO-8,Kinzua_Corp.,state,OR,Eastcentral_OR,6,S,30,E,8,45.06125,-119.13354,Site not trapped since 1989
+6,218,Umatilla_NF,Heppner,ECO-10,Kinzua_Corp.,state,OR,Eastcentral_OR,7,S,21,E,25,44.92723,-120.14267,Site not trapped since 1989
+6,219,Umatilla_NF,Heppner,ECO-11,Kinzua_Corp.,state,OR,Eastcentral_OR,7,S,23,E,20,44.94352,-119.99967,Site not trapped since 1989
+6,220,Umatilla_NF,Heppner,ECO-12,Kinzua_Corp.,state,OR,Eastcentral_OR,7,S,24,E,6,44.98683,-119.8999,Site not trapped since 1989
+6,221,Umatilla_NF,Heppner,ECO-13,Kinzua_Corp.,state,OR,Eastcentral_OR,7,S,23,E,24,44.9437,-119.91974,Site not trapped since 1989
+6,222,Malheur_NF,Blue_Mtn,ECO-15,Kinzua_Corp.,state,OR,Eastcentral_OR,11,S,28,E,19,44.5995,-119.3997,Site not trapped since 1989
+6,223,Malheur_NF,Blue_Mtn,ECO-19,Prairie_City_Timber,state,OR,Eastcentral_OR,14,S,31,E,26,44.32673,-118.96155,Retired due to 2015 fire
+6,224,Malheur_NF,Blue_Mtn,ECO-20,State,state,OR,Eastcentral_OR,10,S,23,E,26,44.67402,-119.92909,Site not trapped since 1989
+6,225,Malheur_NF,Blue_Mtn,ECO-21,State,state,OR,Eastcentral_OR,11,S,23,E,3,44.64487,-119.9498,Site not trapped since 1989
+6,226,Ochoco_NF,Paulina,ECO-25,Private,state,OR,Eastcentral_OR,13,S,24,E,16,44.44076,-119.84733,Site not trapped since 1989
+6,227,Malheur_NF,Prairie_City,ECO-26,Private,state,OR,Eastcentral_OR,14,S,35,E,31,44.31238,-118.55631,
+6,228,Malheur_NF,Blue_Mtn,ECO-27,Private,state,OR,Eastcentral_OR,16,S,30,E,6,44.21259,-119.16753,
+6,229,Malheur_NF,Blue_Mtn,ECO-29,Private,state,OR,Eastcentral_OR,15,S,32,E,34,44.22618,-118.8613,
+6,230,Malheur_NF,Blue_Mtn,ECO-30,Private,state,OR,Eastcentral_OR,10,S,30,E,17,44.69936,-119.1346,Site not trapped since 1992
+6,231,Malheur_NF,Prairie_City,ECO-31,Private,state,OR,Eastcentral_OR,14,S,33,E,14,44.35574,-118.71802,Retired due to 2015 fire
+6,232,Fremont-Winema_NFs,Silver_Lake,KL-1,Weyerhaeuser,state,OR,KL,28,S,12,E,10,43.15789,-121.27985,Site not trapped since 1986
+6,233,Fremont-Winema_NFs,Silver_Lake,KL-2,Weyerhaeuser,state,OR,KL,31,S,12,E,10,42.89926,-121.28145,Site not trapped since 1989
+6,234,Fremont-Winema_NFs,Chiloquin,KL-3,Weyerhaeuser,state,OR,KL,32,S,11,E,24,42.78315,-121.35948,Site not trapped since 1989
+6,235,Fremont-Winema_NFs,Silver_Lake,KL-4,Weyerhaeuser,state,OR,KL,32,S,15,E,35,42.75103,-120.9091,Site not trapped since 1989
+6,236,Fremont-Winema_NFs,Bly,KL-5,Weyerhaeuser,state,OR,KL,33,S,15,E,32,42.66416,-120.97141,Site not trapped since 1989
+6,237,Fremont-Winema_NFs,Bly,KL-6,Weyerhaeuser,state,OR,KL,34,S,14,E,22,42.608,-121.04605,Site not trapped since 1989
+6,238,Fremont-Winema_NFs,Bly,KL-8,JWTR,state,OR,KL,35,S,14,E,1,42.56431,-121.00689,
+6,239,Fremont-Winema_NFs,Bly,KL-9,Weyerhaeuser,state,OR,KL,36,S,17,E,6,42.47631,-120.75459,Site not trapped since 1996
+6,240,Fremont-Winema_NFs,Bly,KL-10,Weyerhaeuser,state,OR,KL,36,S,17,E,16,42.44719,-120.7167,Site not trapped since 1993
+6,241,Fremont-Winema_NFs,Bly,KL-15,JWTR,state,OR,KL,37,S,17,E,20,42.34561,-120.73611,
+6,242,Fremont-Winema_NFs,Klamath,KL-17,Weyerhaeuser,state,OR,KL,38,S,6,E,16,42.26439,-122.11934,Site not trapped since 1989
+6,243,Fremont-Winema_NFs,Klamath,KL-19,Weyerhaeuser,state,OR,KL,38,S,7,E,27,42.23527,-121.98264,Site not trapped since 1989
+6,244,Fremont-Winema_NFs,Bly,KL-20,JWTR,state,OR,KL,38,S,14,E,15,42.27437,-121.04772,
+6,245,Fremont-Winema_NFs,Bly,KL-21,JWTR,state,OR,KL,38,S,17,E,11,42.28941,-120.67437,
+6,246,Rogue_River_NF,Ashland,KL-22,Weyerhaeuser,state,OR,KL,39,S,3,E,16,42.17837,-122.47371,Site not trapped since 1989
+6,247,Rogue_River_NF,Ashland,KL-23,Weyerhaeuser,state,OR,KL,39,S,4,E,20,42.16363,-122.37561,Site not trapped since 1989
+6,248,Fremont-Winema_NFs,Klamath,KL-26,JWTR,state,OR,KL,39,S,7,E,13,42.17735,-121.94356,
+6,249,Fremont-Winema_NFs,Klamath,KL-27,Weyerhaeuser,state,OR,KL,39,S,7,E,34,42.13348,-121.98264,Site not trapped since 1989
+6,250,Fremont-Winema_NFs,Klamath,KL-29,Weyerhaeuser,state,OR,KL,40,S,5,E,7,42.10489,-122.27977,Site not trapped since 1989
+6,251,Fremont-Winema_NFs,Klamath,KL-30,Weyerhaeuser,state,OR,KL,40,S,6,E,8,42.10505,-122.13944,Site not trapped since 1989
+6,252,Fremont-Winema_NFs,Klamath,KL-31,Weyerhaeuser,state,OR,KL,40,S,7,E,18,42.0902,-121.9623,Site not trapped since 1989
+6,253,Fremont-Winema_NFs,Klamath,KL-33,JWTR,state,OR,KL,41,S,7,E,1,42.03145,-121.94312,
+6,254,Fremont-Winema_NFs,Lakeview,KL-34,Collins_Timber,state,OR,KL,38,S,21,E,30,42.24382,-120.28697,
+6,255,Fremont-Winema_NFs,Chemult,KL-35,State_OSDF,state,OR,KL,32,S,7,E,19,42.78464,-121.92723,
+6,256,Fremont-Winema_NFs,Chemult,KL-36,State_OSDF,state,OR,KL,32,S,7,E,16,42.79919,-121.88788,
+6,257,Fremont-Winema_NFs,Chemult,KL-37,State_OSDF,state,OR,KL,32,S,7,E,26,42.77011,-121.84852,
+6,258,Fremont-Winema_NFs,Chemult,KL-38,State_OSDF,state,OR,KL,33,S,7,E,5,42.7411,-121.9075,
+6,259,Fremont-Winema_NFs,Chiloquin,KL-39,State_OSDF,state,OR,KL,37,S,12,E,29,42.33252,-121.32155,
+6,260,Fremont-Winema_NFs,Paisley,KL-40,Private,state,OR,KL,33,S,17,E,17,42.7072,-120.73163,
+6,261,Fremont-Winema_NFs,Chiloquin,KL-41,Private,state,OR,KL,37,S,12,E,32,42.31831,-121.32122,
+6,262,Fremont-Winema_NFs,Chiloquin,KL-42,Private,state,OR,KL,37,S,9,E,33,42.30861,-121.7663,
+6,263,Fremont-Winema_NFs,Lakeview,KL-43,Private,state,OR,KL,38,S,18,E,3,42.30191,-120.58075,
+6,264,Fremont-Winema_NFs,Bly,KL-44,Private,state,OR,KL,40,S,13,E,29,42.07143,-121.31962,
+6,265,Wallowa-Whitman_NF,La_Grande,NEO-2B,Forest_Cap_Partners,state,OR,Northeast_OR,1,S,39,E,36,45.43487,-117.88076,
+6,266,Wallowa-Whitman_NF,La_Grande,NEO-3,Boise_Cascade,state,OR,Northeast_OR,1,N,40,E,36,45.52193,-117.75659,Site not trapped since 1986
+6,267,Umatilla_NF,Walla_Walla,NEO-4,Boise_Cascade,state,OR,Northeast_OR,4,N,41,E,19,45.8144,-117.73721,Site not trapped since 1989
+6,268,Umatilla_NF,Walla_Walla,NEO-5,HANCOCK FOREST MANAGEMENT,state,OR,Northeast_OR,3,N,41,E,17,45.74191,-117.71641,
+6,269,Umatilla_NF,Walla_Walla,NEO-6,Boise_Cascade,state,OR,Northeast_OR,3,N,41,E,3,45.77081,-117.67504,Site not trapped since 1989
+6,270,Umatilla_NF,Walla_Walla,NEO-7,Boise_Cascade,state,OR,Northeast_OR,4,N,41,E,26,45.79978,-117.65454,Site not trapped since 1988
+6,271,Umatilla_NF,Walla_Walla,NEO-8,Boise_Cascade,state,OR,Northeast_OR,3,N,41,E,26,45.71288,-117.65422,Site not trapped since 1989
+6,272,Wallowa-Whitman_NF,Wallowa_Valley,NEO-9,Forest_Cap_Partners,state,OR,Northeast_OR,3,N,42,E,4,45.77145,-117.57475,
+6,273,Wallowa-Whitman_NF,Wallowa_Valley,NEO-10,Forest_Cap_Partners,state,OR,Northeast_OR,3,N,42,E,24,45.72859,-117.51185,
+6,274,Umatilla_NF,Walla_Walla,NEO-11,Forest_Cap_Partners,state,OR,Northeast_OR,2,N,39,E,32,45.60917,-117.96306,
+6,275,Umatilla_NF,Walla_Walla,NEO-12,Boise_Cascade,state,OR,Northeast_OR,2,N,39,E,29,45.62378,-117.96305,Site not trapped since 1988
+6,276,Umatilla_NF,Walla_Walla,NEO-13B,Boise_Cascade,state,OR,Northeast_OR,3,N,39,E,13,45.73992,-117.88026,
+6,277,Umatilla_NF,Walla_Walla,NEO-14,Boise_Cascade,state,OR,Northeast_OR,3,N,41,E,14,45.74177,-117.6542,
+6,278,Wallowa-Whitman_NF,Wallowa_Valley,NEO-15,HANCOCK FOREST MANAGEMENT,state,OR,Northeast_OR,3,N,42,E,15,45.74259,-117.55373,
+6,279,Wallowa-Whitman_NF,Wallowa_Valley,NEO-16,Forest_Cap_Partners,state,OR,Northeast_OR,2,N,44,E,5,45.68489,-117.34291,
+6,280,Umatilla_NF,Walla_Walla,NEO-17,Forest_Cap_Partners,state,OR,Northeast_OR,2,N,39,E,3,45.682,-117.92181,
+6,281,Umatilla_NF,Walla_Walla,NEO-18,Boise_Cascade,state,OR,Northeast_OR,3,N,40,E,16,45.73949,-117.81902,Site not trapped since 1988
+6,282,Umatilla_NF,Walla_Walla,NEO-19,Boise_Cascade.,state,OR,Northeast_OR,3,N,40,E,18,45.74,-117.85973,Site not trapped since 1989
+6,283,Wallowa-Whitman_NF,La_Grande,NEO-20,Boise_Cascade,state,OR,Northeast_OR,1,S,40,E,27,45.44948,-117.79882,Site not trapped since 1988
+6,284,Umatilla_NF,Walla_Walla,NEO-21B,Forest_Cap_Partners,state,OR,Northeast_OR,4,N,41,E,14,45.82882,-117.65456,
+6,285,Umatilla_NF,Walla_Walla,NEO-22,Boise_Cascade,state,OR,Northeast_OR,4,N,41,E,33,45.78544,-117.69573,Site not trapped since 1989
+6,286,Wallowa-Whitman_NF,Wallowa_Valley,NEO-23B,Forest_Cap_Partners,state,OR,Northeast_OR,4,N,42,E,36,45.78678,-117.51224,
+6,287,Umatilla_NF,Walla_Walla,NEO-24,HANCOCK FOREST MANAGEMENT,state,OR,Northeast_OR,2,N,41,E,2,45.68355,-117.65439,
+6,288,Wallowa-Whitman_NF,Wallowa_Valley,NEO-27,HANCOCK FOREST MANAGEMENT,state,OR,Northeast_OR,2,N,43,E,13,45.65547,-117.38607,
+6,289,Wallowa-Whitman_NF,Wallowa_Valley,NEO-28,HANCOCK FOREST MANAGEMENT,state,OR,Northeast_OR,2,N,44,E,2,45.68476,-117.28096,
+6,290,Wallowa-Whitman_NF,La_Grande,NEO-30,Forest_Cap_Partners,state,OR,Northeast_OR,4,S,41,E,20,45.20188,-117.71486,
+6,291,Umatilla_NF,Walla_Walla,NEO-32,Forest_Cap_Partners,state,OR,Northeast_OR,1,N,35,E,26,45.53674,-118.40414,
+6,292,Wallowa-Whitman_NF,La_Grande,NEO-33,Boise_Cascade,state,OR,Northeast_OR,2,S,38,E,7,45.40548,-118.10678,Site not trapped since 1988
+6,293,Wallowa-Whitman_NF,La_Grande,NEO-34,Boise_Cascade,state,OR,Northeast_OR,4,S,41,E,33,45.17302,-117.69442,Site not trapped since 1988
+6,294,Wallowa-Whitman_NF,La_Grande,NEO-35,Forest_Cap_Partners,state,OR,Northeast_OR,4,S,38,E,16,45.2166,-118.0653,
+6,295,Umatilla_NF,Walla_Walla,NEO-36,Boise_Cascade,state,OR,Northeast_OR,1,N,35,E,32,45.5224,-118.46636,Site not trapped since 1989
+6,296,Wallowa-Whitman_NF,Baker,NEO-39,Forest_Cap_Partners,state,OR,Northeast_OR,5,S,38,E,14,45.12949,-118.02486,
+6,297,Wallowa-Whitman_NF,La_Grande,NEO-46,Crwn.Zellerbach,state,OR,Northeast_OR,5,S,41,E,33,45.08664,-117.69375,Site not trapped since 1986
+6,298,Wallowa-Whitman_NF,Baker,NEO-47,Crwn.Zellerbach,state,OR,Northeast_OR,11,S,40,E,27,44.58048,-117.79916,Site not trapped since 1988
+6,299,Umatilla_NF,Walla_Walla,NEO-48,State_OSDF,state,OR,Northeast_OR,1,S,35,E,36,45.43576,-118.38043,
+6,300,Wallowa-Whitman_NF,La_Grande,NEO-49,State_OSDF,state,OR,Northeast_OR,2,S,35,E,36,45.34819,-118.37679,
+6,301,Wallowa-Whitman_NF,La_Grande,NEO-50,State_OSDF,state,OR,Northeast_OR,1,S,40,E,25,45.44951,-117.75782,
+6,302,Wallowa-Whitman_NF,Baker,NEO-51,State-DFW,state,OR,Northeast_OR,6,S,38,E,20,45.02855,-118.08522,Site not trapped since 1989
+6,303,Umatilla_NF,N_Fork_John_Day,NEO-52,State-DFW,state,OR,Northeast_OR,6,S,31,E,13,45.04831,-118.93058,Site not trapped since 1989
+6,304,Wallowa-Whitman_NF,La_Grande,NEO-53,State-Highway,state,OR,Northeast_OR,2,S,37,E,34,45.34784,-118.16881,
+6,305,Umatilla_NF,Walla_Walla,NEO-54,State-Parks,state,OR,Northeast_OR,1,N,35,E,29,45.53691,-118.4663,
+6,306,Umatilla_NF,N_Fork_John_Day,NEO-55,State-Parks,state,OR,Northeast_OR,3,S,31,E,20,45.29099,-118.9674,Site not trapped since 1989
+6,307,Wallowa-Whitman_NF,Wallowa_Valley,NEO-57,LO-WOODWARD,state,OR,Northeast_OR,2,N,44,E,32,45.61145,-117.34398,
+6,308,Umatilla_NF,Walla_Walla,NEO-58,Private,state,OR,Northeast_OR,3,N,42,E,31,45.69838,-117.61443,
+6,309,Wallowa-Whitman_NF,Eagle_Cap,NEO-59,RY_Timber,state,OR,Northeast_OR,1,N,42,E,2,45.5965,-117.53245,
+6,310,Wallowa-Whitman_NF,Eagle_Cap,NEO-60,GOEBEL & JACKSON,state,OR,Northeast_OR,2,S,44,E,21,45.37441,-117.32248,
+6,311,Wallowa-Whitman_NF,Pine,NEO-65,Private,state,OR,Northeast_OR,7,S,45,E,28,44.92786,-117.21556,Site not trapped since 1989
+6,312,Wallowa-Whitman_NF,Pine,NEO-68,Private,state,OR,Northeast_OR,7,S,47,E,19,44.94253,-117.01232,Site not trapped since 1989
+6,313,Wallowa-Whitman_NF,Wallowa_Valley,NEO-70,Private,state,OR,Northeast_OR,3,S,46,E,28,45.27152,-117.07381,
+6,314,Umatilla_NF,Walla_Walla,NEO-71,HANCOCK FOREST MANAGEMENT,state,OR,Northeast_OR,4,N,42,E,9,45.84406,-117.57499,
+6,315,Wallowa-Whitman_NF,La_Grande,NEO-72,4-H,state,OR,Northeast_OR,1,S,38,E,15,45.47843,-118.04543,
+6,316,Umatilla_NF,Walla_Walla,NEO-73,Forest_Cap_Partners,state,OR,Northeast_OR,4,N,42,E,15,45.82973,-117.55416,
+6,317,Malheur_NF,Blue_Mtn,1,Johnson_Heights,blm,OR,Prineville,11,S,25,E,3,44.64435,-119.70524,
+6,318,Ochoco_NF,Paulina,2,Day_Creek,blm,OR,Prineville,13,S,25,E,13,44.44044,-119.66376,Abandoned/Discontinued
+6,319,Ochoco_NF,Lookout_Mtn,3,Committee_Creek,blm,OR,Prineville,16,S,21,E,9,44.19887,-120.21617,
+6,320,Ochoco_NF,Paulina,4,Frazier_Creek,blm,OR,Prineville,15,S,26,E,22,44.2567,-119.58313,Abandoned/Discontinued
+6,321,Ochoco_NF,Paulina,5,,blm,OR,Prineville,13,S,24,E,22,44.42623,-119.82665,Site not trapped since 1995
+6,322,Siskiyou_NF,Illinois_Valley,1,Blm,blm,OR,Southwest_OR,39,S,6,W,17,42.17759,-123.43367,Site not trapped since 1989
+6,323,Siskiyou_NF,Illinois_Valley,2,Blm,blm,OR,Southwest_OR,38,S,6,W,17,42.26528,-123.43531,Site not trapped since 1989
+6,324,Siskiyou_NF,Illinois_Valley,3,Blm,blm,OR,Southwest_OR,40,S,8,W,17,42.08897,-123.67102,Site not trapped since 1989
+6,325,Siskiyou_NF,Galice,4,Blm,blm,OR,Southwest_OR,35,S,5,W,13,42.52748,-123.23935,Site not trapped since 1989
+6,326,Siskiyou_NF,Galice,5,Blm,blm,OR,Southwest_OR,34,S,7,W,33,42.57184,-123.53428,Site not trapped since 1989
+6,327,Siskiyou_NF,Galice,6,Blm,blm,OR,Southwest_OR,34,S,6,W,19,42.60101,-123.45536,Site not trapped since 1989
+6,328,Umpqua_NF,Tiller,7,Blm,blm,OR,Southwest_OR,33,S,2,W,5,42.73075,-122.96395,Site not trapped since 1989
+6,329,Rogue_River_NF,Prospect,8,Blm,blm,OR,Southwest_OR,33,S,1,W,15,42.70136,-122.80551,Site not trapped since 1989
+6,330,Rogue_River_NF,Applegate,SWO-9,U.S.Forest_Serv,state,OR,Southwest_OR,37,S,4,W,15,42.3536,-123.16083,Site not trapped since 1989
+6,331,Rogue_River_NF,Applegate,SWO-10,Bur.Of_Land_Mgt,state,OR,Southwest_OR,39,S,4,W,11,42.19318,-123.14275,Site not trapped since 1989
+6,332,Rogue_River_NF,Butte_Falls,SWO-11,Private,state,OR,Southwest_OR,34,S,2,E,29,42.58471,-122.61005,Site not trapped since 1989
+6,333,Rogue_River_NF,Applegate,SWO-12,Private,state,OR,Southwest_OR,37,S,3,W,1,42.38207,-123.0035,Site not trapped since 1989
+6,334,Rogue_River_NF,Galice,SWO-13,State,state,OR,Southwest_OR,35,S,4,W,4,42.5569,-123.18071,Site not trapped since 1989
+6,335,Umpqua_NF,Tiller,SWO-14,Private,state,OR,Southwest_OR,34,S,2,W,20,42.60016,-122.96488,Site not trapped since 1989
+6,336,Rogue_River_NF,Applegate,SWO-15,County,state,OR,Southwest_OR,38,S,3,W,33,42.22182,-123.06296,Site not trapped since 1989
+6,337,Rogue_River_NF,Ashland,SWO-16,State,state,OR,Southwest_OR,40,S,2,E,12,42.10569,-122.53292,Site not trapped since 1989
+6,338,Rogue_River_NF,Ashland,SWO-17,Bur.Of_Land_Mgt,state,OR,Southwest_OR,38,S,2,E,9,42.2807,-122.59094,Site not trapped since 1989
+6,339,Siskiyou_NF,Galice,SWO-18,State,state,OR,Southwest_OR,35,S,6,W,26,42.49859,-123.37684,Site not trapped since 1989
+6,340,Mt_Hood_NF,Hood_River,WCO-1,Longview_Fiber,state,OR,Westcentral_OR,1,N,9,E,16,45.57025,-121.7004,Site not trapped since 1989
+6,341,Mt_Hood_NF,Hood_River,WCO-2,Longview_Fiber,state,OR,Westcentral_OR,1,N,9,E,31,45.52759,-121.74406,Site not trapped since 1989
+6,342,Mt_Hood_NF,Hood_River,WCO-3,Longview_Fiber,state,OR,Westcentral_OR,1,N,9,E,36,45.52724,-121.64093,Site not trapped since 1989
+6,343,Mt_Hood_NF,Hood_River,WCO-4,Longview_Fiber,state,OR,Westcentral_OR,2,N,9,E,34,45.61335,-121.67978,Site not trapped since 1989
+6,344,Mt_Hood_NF,Hood_River,WCO-5,Longview_Fiber,state,OR,Westcentral_OR,1,N,10,E,25,45.54166,-121.51592,Site not trapped since 1989
+6,345,Mt_Hood_NF,Hood_River,WCO-6,Longview_Fiber,state,OR,Westcentral_OR,2,N,11,E,33,45.61365,-121.45142,Site not trapped since 1989
+6,346,Mt_Hood_NF,Hood_River,WCO-8,Hood.Rvr.Cty.Fst,state,OR,Westcentral_OR,2,N,9,E,12,45.67087,-121.6377,Site not trapped since 1989
+6,347,Mt_Hood_NF,Hood_River,WCO-9,Hood.Rvr.Cty.Fst,state,OR,Westcentral_OR,2,N,9,E,13,45.65643,-121.6379,Site not trapped since 1989
+6,348,Mt_Hood_NF,Hood_River,WCO-10,Hood.Rvr.Cty.Fst,state,OR,Westcentral_OR,1,N,10,E,4,45.59913,-121.5773,Site not trapped since 1989
+6,349,Mt_Hood_NF,Hood_River,WCO-11,Hood.Rvr.Cty.Fst,state,OR,Westcentral_OR,1,N,10,E,8,45.5851,-121.59954,Site not trapped since 1989
+6,350,Mt_Hood_NF,Hood_River,WCO-12,Hood.Rvr.Cty.Fst,state,OR,Westcentral_OR,1,N,9,E,22,45.55619,-121.68047,Site not trapped since 1989
+6,351,Mt_Hood_NF,Hood_River,WCO-13,Hood.Rvr.Cty.Fst,state,OR,Westcentral_OR,1,S,9,E,24,45.46819,-121.61678,Site not trapped since 1989
+6,352,Mt_Hood_NF,Hood_River,WCO-14,Hood.Rvr.Cty.Fst,state,OR,Westcentral_OR,1,N,11,E,33,45.52673,-121.451,Site not trapped since 1989
+6,353,Mt_Hood_NF,Hood_River,WCO-15,Hood.Rvr.Cty.Fst,state,OR,Westcentral_OR,1,N,11,E,17,45.57066,-121.47199,Site not trapped since 1989
+6,354,Mt_Hood_NF,Hood_River,WCO-16,Hood.Rvr.Cty.Fst,state,OR,Westcentral_OR,1,N,11,E,19,45.55625,-121.49418,Site not trapped since 1989
+6,355,Ochoco_NF,Lookout_Mtn,WCO-20,Or.Fir-Woodward,state,OR,Westcentral_OR,11,S,18,E,33,44.57016,-120.57581,Site not trapped since 1989
+6,356,Ochoco_NF,Lookout_Mtn,WCO-21,Crwn.Pacifc.Ltd,state,OR,Westcentral_OR,12,S,16,E,33,44.48351,-120.81684,Site not trapped since 1989
+6,357,Ochoco_NF,Lookout_Mtn,WCO-22,Or.Fir-Woodward,state,OR,Westcentral_OR,12,S,20,E,16,44.52708,-120.33644,Site not trapped since 1989
+6,358,Mt_Hood_NF,Barlow,WCO-23,Mountain_Fir,state,OR,Westcentral_OR,2,S,12,E,30,45.36738,-121.34868,Site not trapped since 1989
+6,359,Ochoco_NF,Lookout_Mtn,WCO-24,Ochoco_Lumber,state,OR,Westcentral_OR,15,S,19,E,16,44.26818,-120.45632,Site not trapped since 1989
+6,360,Ochoco_NF,Lookout_Mtn,WCO-25,Ochoco_Lumber,state,OR,Westcentral_OR,15,S,19,E,12,44.28245,-120.39647,Site not trapped since 1989
+6,361,Ochoco_NF,Lookout_Mtn,WCO-26,Ochoco_Lumber,state,OR,Westcentral_OR,15,S,19,E,9,44.28257,-120.45621,Site not trapped since 1989
+6,362,Mt_Hood_NF,Barlow,WCO-28,State-DFW,state,OR,Westcentral_OR,5,S,11,E,16,45.13606,-121.43096,Site not trapped since 1989
+6,363,Mt_Hood_NF,Barlow,WCO-29,State-DFW,state,OR,Westcentral_OR,4,S,11,E,11,45.23735,-121.38946,Site not trapped since 1989
+6,364,Mt_Hood_NF,Barlow,WCO-30,State-DFW,state,OR,Westcentral_OR,3,S,12,E,15,45.30952,-121.28699,Site not trapped since 1989
+6,365,Umatilla_NF,Pomeroy,45,Fields_Sp.S.P.1,state,WA,Blues,7,N,45,E,16,46.08233,-117.17752,
+6,366,Umatilla_NF,Pomeroy,46,Fields_Sp.S.P.2,state,WA,Blues,7,N,45,E,16,46.08233,-117.17752,
+6,367,Umatilla_NF,Pomeroy,47,Fields_Sp.S.P.3,state,WA,Blues,7,N,45,E,10,46.09696,-117.15605,Site not trapped since 1995
+6,368,Umatilla_NF,Pomeroy,48,Grande Ronde River,state,WA,Blues,7,N,45,E,17,46.08245,-117.19881,Plot name chaged to Grande Ronde River in 2016 from Snake_River_Cyn
+6,369,Umatilla_NF,Pomeroy,50,Red_Hill,state,WA,Blues,10,N,42,E,33,46.30176,-117.55975,
+6,370,Umatilla_NF,Pomeroy,51,Deer_Lake,state,WA,Blues,10,N,41,E,34,46.30145,-117.6649,
+6,371,Umatilla_NF,Pomeroy,52,Camp_Wooten,state,WA,Blues,9,N,41,E,21,46.24366,-117.68455,
+6,372,Umatilla_NF,Pomeroy,53,Tucannon,state,WA,Blues,9,N,41,E,30,46.2294,-117.727,
+6,373,Umatilla_NF,Pomeroy,54,Mountain_Top,state,WA,Blues,9,N,41,E,23,46.2443,-117.64398,
+6,374,Umatilla_NF,Pomeroy,55,Dayton,state,WA,Blues,9,N,41,E,11,46.27253,-117.64376,
+6,375,Umatilla_NF,Pomeroy,56,Wolf Creek,state,WA,Blues,7,N,39,E,12,46.14214,-117.81418,"Location N.Touchet stopped in 1993 T8N, R40E, Sec28. retrapped 2013+ @ Wolf Creek T7N, R39E, Sec12. ID retained"
+6,376,Umatilla_NF,Pomeroy,57,Hampego,state,WA,Blues,8,N,40,E,16,46.17115,-117.81387,
+6,377,Umatilla_NF,Pomeroy,58,Lewis_Creek,state,WA,Blues,8,N,40,E,9,46.18554,-117.81379,
+6,378,Umatilla_NF,Walla_Walla,59,WA_DNR_High,state,OR,Blues,6,N,38,E,36,45.95628,-117.99579,Site not trapped since 1991
+6,379,Umatilla_NF,Walla_Walla,60,WA_DNR_Watershed,state,OR,Blues,6,N,38,E,22,45.98426,-118.04565,Site not trapped since 1991
+6,380,Umatilla_NF,Walla_Walla,61,WA_DNR_Final,state,OR,Blues,6,N,38,E,21,45.98415,-118.06782,Site not trapped since 1991
+6,381,Okanogan&Wenatchee_NF,Chelan,15,Navarre_Canyon,state,WA,Chelan,27,N,21,E,16,47.84217,-120.20237,
+6,382,Okanogan&Wenatchee_NF,Chelan,16,Yacht_Club,state,WA,Chelan,28,N,21,E,21,47.91868,-120.21174,
+6,383,Okanogan&Wenatchee_NF,Chelan,17,Chelan_State_Pk,state,WA,Chelan,27,N,21,E,3,47.86564,-120.19179,
+6,384,Okanogan&Wenatchee_NF,Wenatchee_River,66,Dryden,state,WA,Chelan,24,N,18,E,27,47.54197,-120.57544,
+6,385,Colville_NF,Three_Rivers,1,12_Mile_Monahan,usfs,WA,,34,N,40,E,32,48.40357,-117.80002,
+6,386,Colville_NF,Three_Rivers,7,Brewer,usfs,WA,,33,N,41,E,4,48.38556,-117.63167,
+6,387,Okanogan&Wenatchee_NF,Tonasket,19,Wauconda_Summit,state,WA,Colville,37,N,30,E,12,48.7117,-118.98239,
+6,388,Colville_NF,Republic,20,Republic_Gravel_Pit,state,WA,Colville,37,N,31,E,26,48.671,-118.87411,
+6,389,Colville_NF,Three_Rivers,22,Orient_Boulder_Cr,state,WA,Colville,39,N,36,E,36,48.83623,-118.18719,
+6,390,Colville_NF,Three_Rivers,26,Kings,state,WA,Colville,34,N,37,E,36,48.40868,-118.09061,
+6,391,Colville_NF,Three_Rivers,28,Gifford,state,WA,Colville,32,N,38,E,5,48.30299,-118.04736,
+6,392,Colville_NF,Three_Rivers,29,Starvation,state,WA,Colville,35,N,40,E,24,48.51784,-117.71048,
+6,393,Colville_NF,Three_Rivers,30,Youth_Camp,state,WA,Colville,35,N,41,E,11,48.54893,-117.59287,
+6,394,Colville_NF,Sullivan_Lake,31,Tiger_Meadows,state,WA,Colville,37,N,42,E,27,48.67797,-117.48713,Site not trapped since 1995
+6,395,Colville_NF,Three_Rivers,32,Colville,state,WA,Colville,35,N,39,E,12,48.54749,-117.83562,Site not trapped since 2000
+6,396,Colville_NF,Three_Rivers,33,Addy,state,WA,Colville,32,N,39,E,1,48.29657,-117.83271,
+6,397,Colville_NF,Three_Rivers,34,Chewelah,state,WA,Colville,32,N,41,E,16,48.26836,-117.64856,
+6,398,Colville_NF,Republic,62,Curlew,state,WA,Colville,39,N,34,E,7,48.89851,-118.56627,
+6,399,Colville_NF,Republic,63,Phillips,state,WA,Colville,39,N,34,E,8,48.89688,-118.53091,
+6,400,Okanogan&Wenatchee_NF,Tonasket,70,Torada_Creek,state,WA,Colville,39,N,31,E,2,48.91041,-118.85988,
+6,401,Colville_NF,Republic,71,Mcdonald_Grave,state,WA,Colville,40,N,32,E,15,48.96156,-118.76587,
+6,402,Okanogan&Wenatchee_NF,Tonasket,72,Toats_1,state,WA,Colville,39,N,25,E,29,48.84484,-119.71449,
+6,403,Colville_NF,Republic,77,Danville,state,WA,Colville,40,N,34,E,9,48.97741,-118.51931,
+6,404,Colville_NF,Republic,78,Big_Goomis_Cr,state,WA,Colville,40,N,33,E,12,48.97349,-118.59017,
+6,405,Colville_NF,Republic,79,Malo,state,WA,Colville,38,N,33,E,13,48.79122,-118.58218,
+6,406,Colville_NF,Republic,80,Curlew_Lake,state,WA,Colville,37,N,33,E,4,48.73023,-118.65415,
+6,407,Okanogan&Wenatchee_NF,Methow_Valley,3,Pearrygin_Mt.,state,WA,Methow,35,N,22,E,32,48.49183,-120.10617,
+6,408,Okanogan&Wenatchee_NF,Methow_Valley,41,Libby_Creek,state,WA,Methow,32,N,21,E,23,48.25548,-120.18456,
+6,409,Okanogan&Wenatchee_NF,Methow_Valley,43,Gold_Creek,state,WA,Methow,31,N,21,E,13,48.18888,-120.15439,
+6,410,Okanogan&Wenatchee_NF,Methow_Valley,64,McCombs,state,WA,Methow,35,N,20,E,5,48.56744,-120.37396,
+6,411,Okanogan&Wenatchee_NF,Methow_Valley,65,Sandy_Butte,state,WA,Methow,36,N,19,E,26,48.59241,-120.43705,
+6,412,Okanogan&Wenatchee_NF,Methow_Valley,67,Lost_River,state,WA,Methow,36,N,19,E,5,48.65235,-120.50683,
+6,413,Okanogan&Wenatchee_NF,Methow_Valley,86,Weeman,state,WA,Methow,35,N,20,E,25,48.51223,-120.29262,
+6,414,Okanogan&Wenatchee_NF,Methow_Valley,1,Sweat_Creek,state,WA,Omak,33,N,24,E,3,48.39308,-119.80763,
+6,415,Okanogan&Wenatchee_NF,Methow_Valley,2,Woody_Mt.,state,WA,Omak,33,N,24,E,16,48.35707,-119.82596,
+6,416,Okanogan&Wenatchee_NF,Methow_Valley,4,Buzzard_Lake,state,WA,Omak,34,N,25,E,28,48.41994,-119.71114,
+6,417,Okanogan&Wenatchee_NF,Tonasket,5,Fish_Lake,state,WA,Omak,36,N,25,E,16,48.61415,-119.71036,
+6,418,Okanogan&Wenatchee_NF,Tonasket,6,Conconully_Lake,state,WA,Omak,36,N,25,E,33,48.57032,-119.69953,"Permanently dropped in 2016 due to fire, replaced with 2497/226"
+6,419,Okanogan&Wenatchee_NF,Methow_Valley,7,Green_Lake,state,WA,Omak,34,N,25,E,13,48.44592,-119.63581,Permanently dropped in 2016 due to fire.
+6,420,Okanogan&Wenatchee_NF,Tonasket,8,Palmer_Lake,state,WA,Omak,39,N,26,E,18,48.87853,-119.60827,
+6,421,Okanogan&Wenatchee_NF,Tonasket,9,Loomis_Lower,state,WA,Omak,38,N,25,E,14,48.78622,-119.66584,
+6,422,Okanogan&Wenatchee_NF,Tonasket,10,Cecilia_Cr.,state,WA,Omak,38,N,25,E,18,48.79099,-119.73786,
+6,423,Okanogan&Wenatchee_NF,Tonasket,11,Mt.Hull,state,WA,Omak,40,N,28,E,34,48.91673,-119.28408,
+6,424,Okanogan&Wenatchee_NF,Tonasket,12,Wilcox_Mt.,state,WA,Omak,39,N,29,E,18,48.88544,-119.2316,
+6,425,Okanogan&Wenatchee_NF,Tonasket,13,Havillah,state,WA,Omak,39,N,29,E,31,48.82814,-119.22594,
+6,426,Okanogan&Wenatchee_NF,Methow_Valley,18,Texas_Cr.,state,WA,Omak,32,N,22,E,35,48.22546,-120.04191,
+6,427,Colville_NF,Three_Rivers,21,Sherman,state,WA,Omak,36,N,37,E,28,48.5867,-118.16177,
+6,428,Colville_NF,Three_Rivers,23,Border,state,WA,Omak,40,N,36,E,23,48.95222,-118.2058,
+6,429,Colville_NF,Three_Rivers,24,Boyds,state,WA,Omak,37,N,37,E,17,48.71043,-118.12912,
+6,430,Colville_NF,Three_Rivers,25,Rice,state,WA,Omak,34,N,38,E,9,48.45534,-118.03695,
+6,431,Okanogan&Wenatchee_NF,Tonasket,68,Molson,state,WA,Omak,40,N,29,E,19,48.95714,-119.21746,
+6,432,Okanogan&Wenatchee_NF,Tonasket,69,Biometalic,state,WA,Omak,39,N,29,E,36,48.84203,-119.12035,
+6,433,Okanogan&Wenatchee_NF,Tonasket,73,Toats_2,state,WA,Omak,39,N,24,E,24,48.86629,-119.76989,Dropped in 2013.
+6,434,Okanogan&Wenatchee_NF,Tonasket,74,Big_Rock,state,WA,Omak,38,N,25,E,13,48.79483,-119.64609,
+6,435,Okanogan&Wenatchee_NF,Tonasket,75,Douglas_Mt.,state,WA,Omak,38,N,25,E,34,48.7502,-119.676,Site not trapped since 1995
+6,436,Okanogan&Wenatchee_NF,Tonasket,76,Sinlahekin,state,WA,Omak,37,N,25,E,20,48.69061,-119.72309,
+6,437,Okanogan&Wenatchee_NF,Methow_Valley,84,Brewster,state,WA,Omak,31,N,24,E,28,48.16321,-119.83187,
+6,438,Okanogan&Wenatchee_NF,Methow_Valley,85,Gambles_Mill,state,WA,Omak,31,N,23,E,2,48.21332,-119.92746,
+6,439,Umatilla_NF,Pomeroy,49,Pomeroy,state,WA,Blues,9,N,42,E,29,46.22835,-117.57581,
+6,440,Colville_NF,Three_Rivers,35,Waitts_Lake,state,WA,Spokane,31,N,40,E,16,48.18422,-117.7721,
+6,441,Colville_NF,Three_Rivers,36,Springdale,state,WA,Spokane,30,N,40,E,35,48.06026,-117.72433,
+6,442,Colville_NF,Three_Rivers,37,Deer_Park,state,WA,Spokane,29,N,42,E,34,47.96284,-117.50057,
+6,443,Colville_NF,Three_Rivers,38,Nine_Mile_Falls,state,WA,Spokane,27,N,41,E,36,47.79015,-117.58021,Dropped in 2013.
+6,444,Colville_NF,Three_Rivers,39,Charles_Road,state,WA,Spokane,27,N,41,E,28,47.81016,-117.63665,Dropped in 2013.
+6,445,Colville_NF,Three_Rivers,40,Highland_Road,state,WA,Spokane,26,N,42,E,6,47.77999,-117.55038,
+6,446,Colville_NF,Three_Rivers,81,Greenacres,state,WA,Spokane,25,N,45,E,17,47.66417,-117.14301,Site not trapped since 1994
+6,447,Colville_NF,Three_Rivers,82,Harvard_Road,state,WA,Spokane,26,N,45,E,21,47.73565,-117.11445,
+6,448,Colville_NF,Three_Rivers,83,Bruce_Road,state,WA,Spokane,26,N,44,E,19,47.73668,-117.29339,Site not trapped since 1995
+6,449,Colville_NF,Three_Rivers,87,Otts_Orchard,state,WA,Spokane,26,N,45,E,34,47.70754,-117.10142,Site not trapped since 1999
+6,451,Umatilla_NF,Pomeroy,88,Vantine,state,WA,Spokane,17,N,44,E,35,46.92001,-117.2238,Changed Range from 34 to 44 and updated Lat/Lon From note G.Kohler/Mike J. (1/8/2013). Site not trapped since 1991
+6,452,Spokane_St,South,89,Kamiak_Butte,state,WA,Spokane,16,N,45,E,16,46.8692,-117.15539,
+6,453,Okanogan&Wenatchee_NF,Methow_Valley,90,Alta_Lake,state,WA,Spokane,29,N,23,E,15,48.01829,-119.94411,
+6,601,Umatilla_NF,Heppner,5,Sunflower,usfs,OR,,6,S,26,E,22,45.03111,-119.5875,
+6,602,Umatilla_NF,Heppner,6,Bear,usfs,OR,,6,S,28,E,5,45.08222,-119.38528,
+6,604,Wallowa-Whitman_NF,Pine,71,Paddy_Seed_Orch,usfs,OR,,7,S,44,E,11,44.96884,-117.29264,
+6,605,Wallowa-Whitman_NF,Pine,72,Big_Bend,usfs,OR,,7,S,46,E,4,44.98637,-117.09343,
+6,606,Wallowa-Whitman_NF,Pine,73,Upper_Clear_Cr,usfs,OR,,6,S,46,E,30,45.01516,-117.13402,
+6,607,Wallowa-Whitman_NF,Pine,74,Summit_Pt_Rd,usfs,OR,,7,S,45,E,17,44.95719,-117.23573,
+6,608,Wallowa-Whitman_NF,Pine,77,Spring_Cr,usfs,OR,,7,S,45,E,18,44.95728,-117.25603,
+6,609,Yakama_Nation,Yakama_Nation,19,Peavine Ridge,bia,WA,,8,N,13,E,18,46.15041,-121.24461,
+6,610,Yakama_Nation,Yakama_Nation,20,IXL/Cedar Valley Rd,bia,WA,,8,N,14,E,7,46.20641,-121.10508,
+6,611,Yakama_Nation,Yakama_Nation,21,Signal Peak,bia,WA,,9,N,13,E,25,46.04167,-121.25001,
+6,612,Yakama_Nation,Yakama_Nation,22,Vessey/Signal Peak Hwy,bia,WA,,9,N,15,E,33,46.22303,-120.94653,
+6,613,Malheur_NF,Emigrant_Cr,206,Cold_Spring,usfs,OR,,18,S,30,E,30,43.98209,-119.16673,
+6,614,Malheur_NF,Emigrant_Cr,209,Clark_Spring,usfs,OR,,18,S,27,E,28,43.9775,-119.48722,
+6,615,Malheur_NF,Emigrant_Cr,211,Thompson_Spring,usfs,OR,,20,S,33,E,36,43.79249,-118.70627,
+6,616,Malheur_NF,Emigrant_Cr,212,Wolf_Mtn,usfs,OR,,17,S,33,E,33,44.05936,-118.77009,
+6,617,Malheur_NF,Emigrant_Cr,13,Kent_Spring,usfs,OR,,17,S,33,E,8,44.10619,-118.78092,
+6,618,Malheur_NF,Emigrant_Cr,14,Dollar_Basin,usfs,OR,,17,S,33,E,26,44.06978,-118.62167,
+6,619,Okanogan&Wenatchee_NF,Chelan,5,Washington_Cr,usfs,WA,,29,N,22,E,35,47.97083,-120.04,
+6,622,Fremont-Winema_NFs,Chiloquin,5,Cedar_Springs,usfs,OR,,35,S,9,E,20,42.52315,-121.67274,Site only trapped in 1990
+6,623,Yakama_Nation,Yakama_Nation,17,,bia,WA,,6,N,18,E,20,45.98997,-120.58052,Site not trapped since 2000
+6,624,Yakama_Nation,Yakama_Nation,18,Simcoe Butte,bia,WA,,6,N,17,E,15,46.07033,-120.78837,"Relocated due to fire (2015), no relocation data submitted"
+6,625,Yakama_Nation,South,91,Kaiser,state,WA,Southcentral_WA,5,N,14,E,12,45.92735,-120.99901,
+6,626,Yakama_Nation,South,92,Cedar_Valley,state,WA,Southcentral_WA,6,N,15,E,33,45.95734,-120.92692,
+6,627,Yakama_Nation,South,93,Yakima_Guard_St,state,WA,Southcentral_WA,6,N,15,E,16,46.00032,-120.94758,
+6,628,Yakama_Nation,South,94,Monument_Road,state,WA,Southcentral_WA,5,N,15,E,3,45.95211,-120.91059,
+6,629,Yakama_Nation,South,95,Honolulu_Cutoff,state,WA,Southcentral_WA,5,N,15,E,12,45.93237,-120.87359,
+6,630,Yakama_Nation,South,96,Pipeline,state,WA,Southcentral_WA,5,N,16,E,16,45.9129,-120.81956,
+6,631,Yakama_Nation,South,97,Three_Creeks,state,WA,Southcentral_WA,5,N,17,E,7,45.92615,-120.72924,
+6,632,Yakama_Nation,South,98,Box_Canyon,state,WA,Southcentral_WA,5,N,17,E,17,45.92502,-120.70138,
+6,633,Yakama_Nation,South,99,Satus,state,WA,Southcentral_WA,6,N,17,E,22,45.99131,-120.66882,
+6,634,Okanogan&Wenatchee_NF,Cle_Elum,100,Ellensburg,state,WA,Ellensburg,19,N,19,E,18,47.1393,-120.50777,
+6,635,Fremont-Winema_NFs,Chiloquin,3,Calimus,usfs,OR,,34,S,10,E,17,42.63,-121.55778,Site not trapped since 1991
+6,636,Wallowa-Whitman_NF,Baker,1,Dutch_Cr-Anthony,usfs,OR,,6,S,38,E,18,45.049,-118.1118,
+6,637,Wallowa-Whitman_NF,Baker,3,Crane_Flat,usfs,OR,,8,S,35.5,E,11,44.8833,-118.3787,
+6,638,Wallowa-Whitman_NF,Baker,4,Blue_Spr-Gran_Sumt,usfs,OR,,9,S,36,E,27,44.7501,-118.2914,
+6,639,Wallowa-Whitman_NF,Baker,5,Deer_Cr-Lake_Cr,usfs,OR,,9,S,38,E,30,44.7493,-118.1077,
+6,640,Malheur_NF,Prairie_City,4,Anderson,usfs,OR,,15,S,36,E,27,44.2358,-118.2854,Site only trapped in 1991
+6,641,Malheur_NF,Prairie_City,6,Dixie,usfs,OR,,12,S,34,E,14,44.5273,-118.5853,Site only trapped in 1991
+6,642,Malheur_NF,Prairie_City,7,Axe,usfs,OR,,13,S,35,E,9,44.4551,-118.504,Site only trapped in 1991
+6,643,Malheur_NF,Prairie_City,8,Steamboat,usfs,OR,,12,S,35,E,35,44.48282,-118.4629,Site only trapped in 1991
+6,644,Malheur_NF,Prairie_City,9,Reynolds,usfs,OR,,13,S,35,E,14,44.4395,-118.46274,Site only trapped in 1991
+6,645,Yakama_Nation,North,101,North_Ahtanum,state,WA,Southcentral_WA,12,N,14,E,25,46.50651,-121.02896,
+6,646,Yakama_Nation,North,102,Snow_Cabin,state,WA,Southcentral_WA,12,N,13,E,14,46.52495,-121.15683,Site not trapped since 1995
+6,647,Yakama_Nation,North,103,South_Ahtanum,state,WA,Southcentral_WA,12,N,15,E,32,46.4848,-120.9866,
+6,648,Umatilla_NF,Pomeroy,107,Palouse_Park,state,WA,Southeastern_WA,16,N,45,E,1,46.90632,-117.08529,Site only trapped in 1991
+6,650,Umatilla_NF,Pomeroy,109,Tekoa,state,WA,Southeastern_WA,20,N,45,E,13,47.23303,-117.07519,Site only trapped in 1991
+6,651,Colville_NF,Three_Rivers,104,Cedar_Lake,state,WA,Northeast_WA,40,N,41,E,26,48.93976,-117.58931,
+6,652,Colville_NF,Three_Rivers,105,Spirit,state,WA,Northeast_WA,38,N,41,E,5,48.82912,-117.65625,
+6,653,Colville_NF,Sullivan_Lake,106,Lost_Creek,state,WA,Northeast_WA,36,N,43,E,15,48.61721,-117.36549,
+6,655,Malheur_NF,Blue_Mtn,2,Murderers_Creek,usfs,OR,,15,S,30,E,18,44.26519,-119.15998,
+6,656,Malheur_NF,Blue_Mtn,6,Snowshoe_Summit,usfs,OR,,16,S,29,E,31,44.14776,-119.2815,
+6,657,Malheur_NF,Blue_Mtn,9,Hattie_Creek,usfs,OR,,14,S,29,E,18,44.35556,-119.275,
+6,658,Malheur_NF,Blue_Mtn,10,Lost_Creek,usfs,OR,,14,S,29,E,30,44.32881,-119.27839,
+6,659,Fremont-Winema_NFs,Chiloquin,4,Solomon,usfs,OR,,33,S,8,E,5,42.74333,-121.79667,
+6,660,Ochoco_NF,Paulina,1,Bearskull,usfs,OR,,14,S,25,E,9,44.37307,-119.72598,
+6,661,Ochoco_NF,Paulina,2,Cottonwood_Cg,usfs,OR,,14,S,24,E,9,44.375,-119.85,
+6,663,Wallowa-Whitman_NF,Wallowa_Valley,17,Deep_Ck_Eyebrow,usfs,OR,,4,N,41,E,2,45.85,-117.65,Site not trapped since 1994
+6,664,Colville_NF,Newport,6,Bear_Paw,usfs,WA,,33,N,45,E,17,48.36617,-117.14234,
+6,665,Fremont-Winema_NFs,Chemult,5,Walker,usfs,OR,,26,S,9,E,8,43.33409,-121.67692,Site only trapped in 1993
+6,666,Colville_IR,South,110,Grand_Coulee,state,WA,Northeast_WA,28,N,31,E,23,47.90814,-118.88022,
+6,667,Colville_IR,South,111,Keller_Ferry,state,WA,Northeast_WA,27,N,33,E,6,47.87352,-118.71733,
+6,668,Colville_IR,South,112,North_Wilbur,state,WA,Northeast_WA,27,N,33,E,6,47.87125,-118.71924,
+6,669,Colville_IR,South,113,Hanson_Harbor,state,WA,Northeast_WA,28,N,32,E,23,47.9101,-118.7499,
+6,672,Colville_NF,Republic,117,Bcc-Gibralter,state,WA,Northeast_WA,36,N,33,E,9,48.63337,-118.68355,Site not trapped since 1995
+6,673,Colville_NF,Republic,118,Copper_Mt.,state,WA,Northeast_WA,36,N,32,E,13,48.61909,-118.74861,Site not trapped since 1995
+6,674,Colville_NF,Republic,119,Bcc-Day_Creek,state,WA,Northeast_WA,39,N,34,E,14,48.87811,-118.47302,Site not trapped since 1998
+6,675,Colville_NF,Republic,120,Bcc-Lundimo,state,WA,Northeast_WA,39,N,33,E,20,48.86406,-118.66984,Site not trapped since 1998
+6,676,Colville_NF,Republic,121,Storm_King1,state,WA,Northeast_WA,37,N,32,E,15,48.70449,-118.75903,Site not trapped since 1995
+6,677,Colville_NF,Republic,122,Storm_King2,state,WA,Northeast_WA,37,N,32,E,29,48.67563,-118.80263,Site not trapped since 1995
+6,678,Colville_NF,Republic,123,BCC-Golden_Harv,state,WA,Northeast_WA,36,N,32,E,26,48.59012,-118.77023,Site not trapped since 1998
+6,680,Colville_NF,Three_Rivers,114,Kentry,state,WA,Northeast_WA,34,N,38,E,27,48.41624,-118.00981,Site not trapped since 1996
+6,681,Colville_NF,Three_Rivers,115,Colburn_Hill,state,WA,Northeast_WA,33,N,38,E,21,48.34368,-118.03079,Site not trapped since 1996
+6,682,Colville_NF,Three_Rivers,116,Dominion,state,WA,Northeast_WA,35,N,40,E,5,48.56197,-117.79289,Site not trapped since 1995
+6,683,Colville_NF,Three_Rivers,124,BCC-Smiths,state,WA,Northeast_WA,32,N,39,E,18,48.27351,-117.94291,
+6,684,Colville_NF,Three_Rivers,125,BCC-Stensgar,state,WA,Northeast_WA,31,N,38,E,4,48.21598,-118.02895,
+6,685,Colville_IR,East,126,BCC-Adams_Mt,state,WA,Northeast_WA,30,N,37,E,13,48.09909,-118.09712,
+6,686,Colville_IR,East,127,BCC-Chkner,state,WA,Northeast_WA,30,N,38,E,21,48.08429,-118.02886,
+6,687,Colville_NF,Three_Rivers,128,BCC-Lane_Mt,state,WA,Northeast_WA,31,N,39,E,28,48.15784,-117.89844,
+6,705,Colville_NF,Three_Rivers,129,BCC-Swede_Pass,state,WA,Northeast_WA,38,N,39,E,30,48.76606,-117.93907,Site only trapped in 1995
+6,706,Colville_NF,Three_Rivers,130,BCC-Lotze_Creek,state,WA,Northeast_WA,38,N,40,E,32,48.75702,-117.78916,Site only trapped in 1995
+6,710,Okanogan&Wenatchee_NF,Entiat,1,Brennegan_Creek,usfs,WA,,28,N,19,E,35,47.88663,-120.40936,
+6,711,Okanogan&Wenatchee_NF,Entiat,2,Tyee_Ridge,usfs,WA,,27,N,19,E,28,47.81204,-120.4546,
+6,713,Umatilla_NF,N_Fork_John_Day,54,N_Cable_Creek,usfs,OR,,6,S,33,E,2,45.08123,-118.70203,
+6,715,Wallowa-Whitman_NF,La_Grande,1,Starkey1,usfs,OR,,4,S,34,E,3,45.24669,-118.53628,Site only trapped in 1997
+6,716,Wallowa-Whitman_NF,La_Grande,2,Starkey2,usfs,OR,,4,S,34,E,4,45.24667,-118.55674,Site only trapped in 1997
+6,717,Wallowa-Whitman_NF,La_Grande,3,Fly_Creek_Tribu,usfs,OR,,5,S,34,E,22,45.1169,-118.53704,Site only trapped in 1997
+6,718,Wallowa-Whitman_NF,La_Grande,4,Spring_Creek,usfs,OR,,3,S,36,E,8,45.3188,-118.33526,Site only trapped in 1997
+6,721,Ochoco_NF,Paulina,5,Birch_Creek,blm,OR,Prineville,13,S,25,E,19,44.42611,-119.76572,
+6,723,Okanogan&Wenatchee_NF,Cle_Elum,131,Lake_Keechelus,state,WA,,21,N,12,E,22,47.30498,-121.31915,
+6,724,Okanogan&Wenatchee_NF,Cle_Elum,132,Bullfrog,state,WA,,20,N,15,E,30,47.19726,-121.01665,
+6,725,Okanogan&Wenatchee_NF,Cle_Elum,133,Indian_John_Hill,state,WA,,19,N,16,E,4,47.16068,-120.84993,Dropped in 2013.
+6,726,Okanogan&Wenatchee_NF,Cle_Elum,134,Lookout_Mt.,state,WA,,20,N,16,E,36,47.18353,-120.79391,
+6,727,Okanogan&Wenatchee_NF,Cle_Elum,135,Bible_Rock_W_Fk,state,WA,,20,N,16,E,6,47.25734,-120.88927,
+6,728,Okanogan&Wenatchee_NF,Cle_Elum,136,Indian_Creek,state,WA,,21,N,16,E,17,47.30323,-120.85426,
+6,729,Okanogan&Wenatchee_NF,Cle_Elum,137,Jungle_Creek,state,WA,,21,N,16,E,5,47.33654,-120.85922,
+6,730,Okanogan&Wenatchee_NF,Wenatchee_River,138,Squilchuck_St_Pk,state,WA,,21,N,20,E,18,47.31448,-120.37125,
+6,731,Okanogan&Wenatchee_NF,Wenatchee_River,139,Colockum_Rd,state,WA,,20,N,21,E,4,47.25165,-120.19738,
+6,732,Colville_NF,Newport,140,Green_Bluff,state,WA,,27,N,44,E,15,47.83629,-117.23732,
+6,733,Colville_NF,Newport,141,Orchard_Bluff,state,WA,,28,N,44,E,31,47.88867,-117.30234,
+6,734,Colville_NF,Newport,142,Pend_Oreille_Co_Pk,state,WA,,30,N,43,E,24,48.07832,-117.33067,Recalculated plot location from 2014
+6,735,Colville_NF,Newport,143,Diamond_Lake,state,WA,,30,N,44,E,22,48.08167,-117.22343,
+6,736,Colville_NF,Newport,144,Big_Foot,state,WA,,30,N,45,E,9,48.10853,-117.12011,
+6,737,Colville_NF,Newport,145,Newport,state,WA,,31,N,45,E,15,48.18861,-117.11229,
+6,738,Colville_NF,Newport,146,Baker_Lake,state,WA,,31,N,44,E,8,48.20614,-117.27869,
+6,739,Colville_NF,Newport,147,Bill_Gulch,state,WA,,27,N,45,E,19,47.82355,-117.17474,
+6,740,Colville_NF,Newport,148,Mt._Spokane,state,WA,,28,N,45,E,32,47.88677,-117.13123,
+6,741,Okanogan&Wenatchee_NF,Cle_Elum,149,Cabin_Creek,state,WA,,20,N,13,E,16,47.23099,-121.22252,
+6,742,Okanogan&Wenatchee_NF,Cle_Elum,150,Taneum,state,WA,,19,N,16,E,30,47.11392,-120.88416,
+6,743,Okanogan&Wenatchee_NF,Cle_Elum,151,South_Fk_Monastash,state,WA,,17,N,16,E,3,46.9844,-120.83629,
+6,744,Okanogan&Wenatchee_NF,Cle_Elum,152,Naneum_Canyon,state,WA,,19,N,19,E,9,47.15108,-120.46558,"Dropped in 2015 due to fire, replaced with 936/223"
+6,745,Okanogan&Wenatchee_NF,Cle_Elum,153,High_Creek,state,WA,,20,N,19,E,34,47.1897,-120.44426,
+6,746,Okanogan&Wenatchee_NF,Naches,154,N_Fork_Wenas_Cr,state,WA,,17,N,16,E,28,46.93186,-120.83698,
+6,747,Okanogan&Wenatchee_NF,Naches,155,Dry_Creek,state,WA,,16,N,16,E,3,46.90503,-120.82364,
+6,748,Okanogan&Wenatchee_NF,Naches,156,Milk_Canyon,state,WA,,16,N,16,E,27,46.85393,-120.82375,
+6,749,Okanogan&Wenatchee_NF,Naches,157,Carmack_Canyon,state,WA,,15,N,15,E,14,46.79363,-120.92316,
+6,750,Okanogan&Wenatchee_NF,Naches,158,Cowpuncher_Ridge,state,WA,,15,N,15,E,19,46.76947,-121.01286,
+6,751,Okanogan&Wenatchee_NF,Naches,159,Johnson_Canyon,state,WA,,16,N,15,E,20,46.86282,-120.98019,
+6,752,Okanogan&Wenatchee_NF,Naches,160,Rock_Creek,state,WA,,16,N,15,E,9,46.89325,-120.96865,
+6,753,Okanogan&Wenatchee_NF,Naches,161,Benton_Creek,state,WA,,16,N,15,E,16,46.87452,-120.94991,
+6,754,Okanogan&Wenatchee_NF,Naches,162,S_Fork_Oak_Cr,state,WA,,14,N,15,E,1,46.73157,-120.89279,
+6,755,Okanogan&Wenatchee_NF,Naches,163,Windy_Point,state,WA,,14,N,15,E,14,46.69522,-120.91868,
+6,756,Yakama_Nation,South,201,C_Truck_Stop,state,WA,CPTI,6,N,13,E,25,45.97896,-121.12377,
+6,757,Yakama_Nation,South,202,C_Trout_Lake,state,WA,CPTI,6,N,11,E,36,45.96354,-121.37433,
+6,758,Yakama_Nation,South,203,C_Bird_Cr_K-2000,state,WA,CPTI,6,N,12,E,6,46.04475,-121.39053,
+6,759,Yakama_Nation,South,204,C_Summit_Cr_604,state,WA,CPTI,6,N,14,E,18,46.00671,-121.10112,Site not trapped since 2000
+6,760,Yakama_Nation,South,205,C_W_Summit_Cr,state,WA,CPTI,6,N,14,E,1,46.03551,-120.9974,Site not trapped since 2000
+6,761,Yakama_Nation,South,206,C_E_Summit_Cr,state,WA,CPTI,6,N,14,E,12,46.02099,-120.99715,Site not trapped since 2000
+6,762,Yakama_Nation,South,207,C_Plateau,state,WA,CPTI,6,N,13,E,21,45.99295,-121.18799,
+6,763,Yakama_Nation,South,208,C_North_Plateau,state,WA,CPTI,6,N,13,E,26,45.97888,-121.14621,
+6,764,Yakama_Nation,South,209,C_West_Plateau,state,WA,CPTI,5,N,13,E,1,45.94928,-121.12493,
+6,765,Yakama_Nation,South,210,C_Camp_Draper,state,WA,CPTI,6,N,11,E,16,46.00762,-121.43755,
+6,766,Yakama_Nation,South,211,C_Camp_Draper_1,state,WA,CPTI,6,N,11,E,13,46.00787,-121.37519,
+6,767,Yakama_Nation,South,212,C_Camp_7,state,WA,CPTI,6,N,13,E,7,46.02278,-121.22941,
+6,768,Yakama_Nation,South,213,C_Camp_7,state,WA,CPTI,6,N,13,E,8,46.02275,-121.20882,
+6,769,Yakama_Nation,South,214,C_Camp_7,state,WA,CPTI,6,N,13,E,8,46.02275,-121.20882,
+6,770,Yakama_Nation,South,215,C_East_Wahkacus,state,WA,CPTI,6,N,13,E,14,46.00771,-121.14484,
+6,771,Yakama_Nation,South,216,C_Wahkacus,state,WA,CPTI,6,N,13,E,13,46.00706,-121.12238,
+6,772,Yakama_Nation,South,217,C_East_Willis,state,WA,CPTI,6,N,13,E,16,46.00775,-121.18806,
+6,773,Yakama_Nation,South,218,C_West_Willis,state,WA,CPTI,6,N,13,E,16,46.00775,-121.18806,
+6,774,Yakama_Nation,South,219,C_Grayback_Mt.,state,WA,CPTI,6,N,14,E,21,45.99279,-121.06112,
+6,775,Yakama_Nation,South,220,C_Holmes_Cr,state,WA,CPTI,6,N,11,E,21,45.99313,-121.43775,
+6,776,Yakama_Nation,South,221,C_Holmes_Cr_2,state,WA,CPTI,6,N,11,E,34,45.96434,-121.4167,
+6,777,Yakama_Nation,South,222,C_M_1,state,WA,CPTI,6,N,11,E,12,46.02252,-121.37555,Site not trapped since 1998
+6,778,Yakama_Nation,South,223,C_M_2,state,WA,CPTI,6,N,11,E,12,46.02252,-121.37555,Site not trapped since 1998
+6,779,Yakama_Nation,South,224,C_M_3,state,WA,CPTI,6,N,11,E,12,46.02252,-121.37555,
+6,780,Yakama_Nation,South,225,C_Chanel_Rd_235,state,WA,CPTI,6,N,13,E,30,45.9791,-121.22951,
+6,781,Yakama_Nation,South,226,C_Chanel_Rd_236,state,WA,CPTI,6,N,13,E,32,45.96454,-121.20871,
+6,782,Colville_NF,Newport,8,Compound,usfs,WA,,31,N,46,E,18,48.18384,-117.04653,
+6,783,Colville_NF,Newport,9,Pioneer_Cg,usfs,WA,,31,N,45,E,1,48.21122,-117.05112,
+6,784,Colville_NF,Newport,10,Panhandle_Cg,usfs,WA,,35,N,44,E,29,48.51038,-117.27033,
+6,785,Warm_Springs_IR,Warm_Springs_IR,1,Badger_Cr_1,bia,OR,,7,S,10,E,16,44.96109,-121.5524,Discontinued after 2015
+6,786,Warm_Springs_IR,Warm_Springs_IR,2,Badger_Cr_2,bia,OR,,7,S,10,E,16,44.96109,-121.5524,Discontinued after 2015
+6,787,Deschutes_NF,Bend/Fort_Rock,1,Browns_Mtn,usfs,OR,,21,S,8,E,19,43.73825,-121.81515,
+6,788,Deschutes_NF,Bend/Fort_Rock,2,Lookout_Mtn,usfs,OR,,20,S,9,E,29,43.81288,-121.67705,
+6,789,No_Cascades_NP,No_Cascades_NP,1,Hozomeen,nps,WA,,40,N,13,E,2,48.98163,-121.07529,Site only trapped in 1999
+6,790,Malheur_NF,Blue_Mtn,ECO-32,Prairie_City_Timber,state,OR,Eastcentral_OR,11,S,27,E,24,44.59993,-119.41995,
+6,791,Fremont-Winema_NFs,Lakeview,KL-45,Collins_Timber,state,OR,KL,37,S,19,E,18,42.36057,-120.52243,
+6,792,Fremont-Winema_NFs,Lakeview,KL-46,Collins_Timber,state,OR,KL,36,S,19,E,34,42.40396,-120.46411,
+6,793,Fremont-Winema_NFs,Lakeview,KL-47,Collins_Timber,state,OR,KL,36,S,19,E,22,42.43349,-120.46425,
+6,794,Fremont-Winema_NFs,Lakeview,KL-48,Collins_Timber,state,OR,KL,38,S,22,E,8,42.28706,-120.15077,
+6,795,Fremont-Winema_NFs,Lakeview,KL-49,Collins_Timber,state,OR,KL,38,S,21,E,24,42.25824,-120.18882,
+6,796,Spokane_IR,Spokane_IR,1,Oyachen_Crk,bia,WA,,28,N,37,E,24,47.90556,-118.08083,
+6,797,Spokane_IR,Spokane_IR,2,Spokane_Mt,bia,WA,,28,N,37,E,1,47.95389,-118.08833,
+6,798,Spokane_IR,Spokane_IR,3,Round_Mt,bia,WA,,29,N,39,E,20,47.99361,-117.91056,
+6,799,Spokane_IR,Spokane_IR,4,Little_Chamonkane_Tshimikin,bia,WA,,28,N,39,E,29,47.90389,-117.92889,
+6,800,Colville_NF,Republic,27,Daisy,state,WA,,33,N,37,E,14,48.35321,-118.11275,
+6,801,Okanogan&Wenatchee_NF,Methow_Valley,42,Chicamun_Canyon,state,WA,,32,N,21,E,15,48.27043,-120.20759,
+6,802,Spokane_IR,Spokane_IR,164,Chamokane_Creek,state,WA,,29,N,39,E,12,48.02614,-117.84246,
+6,803,Spokane_IR,Spokane_IR,165,South_Fk_Hunters_Cr,state,WA,,30,N,38,E,21,48.0839,-118.03663,
+6,804,Umatilla_NF,Pomeroy,56,Wolf_Cr,state,WA,,7,N,39,E,12,46.09335,-117.87679,
+6,805,Umatilla_NF,Pomeroy,167,Robinette,state,WA,,8,N,39,E,16,46.17117,-117.93963,Site not trapped since 2000
+6,806,Umatilla_NF,Pomeroy,168,Lick_Creek,state,WA,,9,N,43,E,15,46.25748,-117.40901,
+6,807,Umatilla_NF,Pomeroy,169,Iron_Springs,state,WA,,10,N,42,E,25,46.31617,-117.49491,
+6,808,Spokane_IR,Spokane_IR,170,Scotts_Valley,state,WA,,28,N,41,E,16,47.92267,-117.64359,
+6,809,Spokane_IR,Spokane_IR,171,North_Reardan,state,WA,,26,N,39,E,9,47.77066,-117.89383,
+6,810,Spokane_IR,Spokane_IR,172,Long_Lake,state,WA,,27,N,39,E,14,47.83613,-117.84779,
+6,811,Okanogan&Wenatchee_NF,Tonasket,173,Dusty_Mtn_Meadow,state,WA,,36,N,28,E,6,48.6511,-119.38252,"Dropped in 2016 due to fire, replaced with 2496/225"
+6,812,Okanogan&Wenatchee_NF,Tonasket,174,E_Bannon_Mtn,state,WA,,36,N,29,E,15,48.61987,-119.19235,
+6,813,Okanogan&Wenatchee_NF,Tonasket,175,West_Waconda,state,WA,,37,N,30,E,8,48.71642,-119.07233,
+6,814,Okanogan&Wenatchee_NF,Tonasket,176,Bonapart_Lake,state,WA,,38,N,30,E,16,48.78979,-119.05597,
+6,815,Okanogan&Wenatchee_NF,Entiat,177,Badger_Mtn,state,WA,,24,N,22,E,6,47.59575,-120.13231,Dropped in 2013.
+6,816,Colville_NF,Newport,178,Moon_Hill,state,WA,,33,N,44,E,15,48.35913,-117.23488,
+6,817,Colville_NF,Newport,179,Hunters,state,WA,,31,N,38,E,29,48.16469,-118.04455,
+6,818,Colville_NF,Newport,180,Mudgett_Lake,state,WA,,30,N,36,E,36,48.05083,-118.22121,
+6,819,Spokane_IR,Spokane_IR,181,Olsen_Canyon,state,WA,,26,N,36,E,6,47.78111,-118.32342,
+6,820,Umatilla_NF,Pomeroy,182,East_Mtn_Road,state,WA,,7,N,45,E,4,46.11187,-117.17728,
+6,821,Yakama_Nation,South,227,Pennington,state,WA,CPTI,5,N,13,E,26,45.89095,-121.14449,
+6,822,Yakama_Nation,South,228,Spring_Rd,state,WA,CPTI,5,N,13,E,26,45.89095,-121.14449,Site not trapped since 2000
+6,823,Yakama_Nation,South,229,Klatt_Camp,state,WA,CPTI,6,N,13,E,33,45.96449,-121.18787,
+6,824,Yakama_Nation,South,230,Sheep_Canyon,state,WA,CPTI,5,N,14,E,32,45.87584,-121.08223,
+6,825,Yakama_Nation,South,240,Squirrel_Heaven,state,WA,Boise_Goldendale,6,N,14,E,34,45.9624,-121.041,Site not trapped since 1999
+6,826,Yakama_Nation,South,241,Parson_Water_Hole_Rd,state,WA,Boise_Goldendale,6,N,14,E,27,45.9769,-121.041,Site not trapped since 1999
+6,827,Yakama_Nation,South,242,W_Kaiser_Butte,state,WA,Boise_Goldendale,6,N,14,E,26,45.9769,-121.0202,Site not trapped since 1999
+6,828,Yakama_Nation,South,243,Kaiser_Butte,state,WA,Boise_Goldendale,6,N,15,E,29,45.97791,-120.9576,
+6,829,Yakama_Nation,South,244,Highland_Canyon,state,WA,Boise_Goldendale,6,N,17,E,31,45.9624,-120.7293,
+6,830,Yakama_Nation,Yakama_Nation,23,,bia,WA,,8,N,12,E,15,46.16889,-121.28444,Site not trapped since 2000
+6,831,Yakama_Nation,Yakama_Nation,24,Mill Cr. Canyon,bia,WA,,9,N,16,E,20,46.25028,-120.835,
+6,832,Okanogan&Wenatchee_NF,Entiat,14,Crumb_Creek,state,WA,,26,N,20,E,36,47.71355,-120.27961,
+6,833,Okanogan&Wenatchee_NF,Tonasket,59,Chopaka,state,WA,,39,N,25,E,9,48.89485,-119.70931,
+6,834,Colville_NF,Republic,60,Empire_Creek,state,WA,,38,N,33,E,5,48.81901,-118.66154,
+6,835,Colville_NF,Republic,61,Boulder_Creek,state,WA,,39,N,35,E,18,48.87538,-118.43979,"site moved due to fire in 2015, dropped in 2017."
+6,836,Okanogan&Wenatchee_NF,Tonasket,75,Coxit_Creek,state,WA,,37,N,24,E,23,48.69073,-119.78845,
+6,837,Okanogan&Wenatchee_NF,Methow_Valley,83,Hooker_Creek,state,WA,,32,N,24,E,18,48.27303,-119.88365,
+6,838,Okanogan&Wenatchee_NF,Wenatchee_River,88,Camas_Land,state,WA,,23,N,18,E,22,47.46685,-120.57993,
+6,839,Colville_NF,Sullivan_Lake,107,Maitlen_Creek,state,WA,,38,N,43,E,35,48.75216,-117.33416,
+6,840,Colville_NF,Newport,108,Jared,state,WA,,34,N,43,E,12,48.46817,-117.32157,
+6,841,Okanogan&Wenatchee_NF,Cle_Elum,183,Coleman-Boulder,state,WA,,20,N,19,E,24,47.21166,-120.39698,
+6,842,Okanogan&Wenatchee_NF,Naches,184,Upper_Windy_Pt,state,WA,,14,N,15,E,24,46.69194,-120.88911,
+6,843,Spokane_IR,Spokane_IR,185,Pleasant_Prairie,state,WA,,26,N,44,E,14,47.75026,-117.20738,
+6,844,Colville_NF,Newport,186,Kirkpatric,state,WA,,30,N,43,E,27,48.0635,-117.35956,
+6,845,Okanogan&Wenatchee_NF,Cle_Elum,187,First_Creek,state,WA,,20,N,17,E,23,47.20828,-120.67638,Dropped in 2013. Replaced with Plot ID 934/plot num220
+6,846,Okanogan&Wenatchee_NF,Naches,245,Rattlesnake,state,WA,,15,N,15,E,15,46.79048,-120.94049,
+6,847,Okanogan&Wenatchee_NF,Naches,246,Carmack_Cyn,state,WA,,15,N,15,E,23,46.77592,-120.91937,
+6,848,Okanogan&Wenatchee_NF,Naches,247,Little_Rattlesnake,state,WA,,15,N,15,E,21,46.776,-120.96163,
+6,849,Yakama_Nation,South,231,Junction_Road,state,WA,,6,N,13,E,30,45.9791,-121.22951,
+6,850,Yakama_Nation,South,232,Highline_Spur_25,state,WA,,6,N,13,E,32,45.96454,-121.20871,
+6,851,Yakama_Nation,South,233,203_Rd_4Way_W,state,WA,,5,N,13,E,26,45.89095,-121.14449,
+6,852,Yakama_Nation,South,234,Summit_Cr_Mp3,state,WA,,5,N,13,E,26,45.89095,-121.14449,Site not trapped since 2000
+6,853,Yakama_Nation,South,235,Klose_Butte,state,WA,,6,N,13,E,33,45.96449,-121.18787,Site not trapped since 2000
+6,854,Yakama_Nation,South,236,Old_Peavine_Ridge,state,WA,,5,N,14,E,32,45.87584,-121.08223,Site not trapped since 2000
+6,855,Yakama_Nation,South,237,Pole_Creek_Rd,state,WA,,5,N,13,E,26,45.89095,-121.14449,Site not trapped since 2000
+6,856,Yakama_Nation,South,238,Peavine_Ridge,state,WA,,6,N,13,E,33,45.96449,-121.18787,Site not trapped since 2000
+6,857,Yakama_Nation,South,239,Pinegrass_Ridge,state,WA,,5,N,14,E,32,45.87584,-121.08223,Site not trapped since 2000
+6,858,Yakama_Nation,Yakama_Nation,23,Castille Falls,bia,WA,,9,N,13,E,18,46.41669,-121.03344,
+6,859,Yakama_Nation,Yakama_Nation,17,,bia,WA,,10,N,14,E,16,46.35936,-121.0674,
+6,860,Colville_NF,Three_Rivers,32,Colville,state,WA,,36,N,39,E,9,48.63447,-117.89597,
+6,862,Yakama_Nation,North,188,Dead_Horse_Flats,state,WA,,12,N,13,E,14,46.53019,-121.15134,
+6,863,Colville_NF,Three_Rivers,189,Forest_Center_Road,state,WA,,30,N,39,E,13,48.10248,-117.82291,
+6,864,Colville_NF,Three_Rivers,190,Braden_Hill,state,WA,,32,N,38,E,31,48.31786,-118.0722,
+6,865,Colville_NF,Republic,191,Kroupa_Rd,state,WA,,40,N,32,E,4,48.99429,-118.78292,
+6,866,Spokane_St,South,192,Mica_Mt_South,state,WA,,24,N,45,E,22,47.55368,-117.1035,
+6,867,Spokane_St,South,109,Tekoa_Mt_North,state,WA,,21,N,45,E,13,47.31522,-117.04941,
+6,868,Yakama_Nation,South,240,Squirrel_Heaven,state,WA,,6,N,14,E,3,46.03562,-121.03889,
+6,869,Yakama_Nation,South,241,White_Pine_Buttes,state,WA,,6,N,15,E,31,45.96355,-120.97841,
+6,870,Yakama_Nation,South,242,Sheep_Canyon,state,WA,,6,N,14,E,27,45.9769,-121.041,
+6,871,Spokane_St,South,251,Tekoa_Mt,state,WA,,21,N,45,E,35,47.26686,-117.07809,
+6,872,Spokane_St,South,252,Freeman,state,WA,,23,N,44,E,14,47.48551,-117.20637,
+6,873,Wallowa-Whitman_NF,Lookout_Mtn,1,Lookout_Mtn_1,blm,OR,,11,S,44,E,36,44.5657,-117.27633,
+6,874,Wallowa-Whitman_NF,Lookout_Mtn,2,Lookout_Mtn_2,blm,OR,,11,S,45,E,18,44.60867,-117.25617,
+6,875,Colville_NF,Three_Rivers,9,Phillips,usfs,WA,,33,N,41,E,4,48.38888,-117.63869,
+6,876,Wallowa-Whitman_NF,Unity,95,Corrigal,usfs,OR,,9,S,35,E,26,44.75562,-118.46298,
+6,877,Wallowa-Whitman_NF,Unity,98,Greenhorn,usfs,OR,,10,S,35,E,16,44.69871,-118.50436,
+6,878,Okanogan&Wenatchee_NF,Cle_Elum,100,Morrison_Canyon,state,WA,Kittitas,19,N,16,E,22,47.13096,-120.83629,
+6,879,Okanogan&Wenatchee_NF,Entiat,113,Jump_Off_Ridge,state,WA,Chelan,21,N,21,E,18,47.31233,-120.25037,
+6,880,Okanogan&Wenatchee_NF,Cle_Elum,183,Dot_Creek,state,WA,Kittitas,20,N,19,E,15,47.22774,-120.449,
+6,881,Okanogan&Wenatchee_NF,Methow_Valley,193,McFarland_Creek,state,WA,Okanogan,31,N,22,E,32,48.14021,-120.1135,
+6,882,Okanogan&Wenatchee_NF,Naches,194,Rattlesnake,state,WA,Yakima,15,N,15,E,7,46.80654,-121.00907,
+6,883,Spokane_St,South,195,Gilbert_Mtn,state,WA,Spokane,21,N,45,E,10,47.32753,-117.09245,
+6,884,Yakama_Nation,Yakama_Nation,17,Windy_Point,bia,WA,,12,N,14,E,26,46.3094,-121.3033,
+6,885,Umatilla_NF,Walla_Walla,9,LookingGlass,usfs,OR,,4,N,39,E,13,45.82747,-117.88064,
+6,886,Umatilla_NF,Walla_Walla,10,Bear_Creek,usfs,OR,,5,N,40,E,36,45.86606,-117.76472,
+6,887,Umatilla_NF,Walla_Walla,11,Tiger_Saddle,usfs,OR,,5,N,38,E,2,45.94039,-118.02908,
+6,888,Umatilla_NF,Walla_Walla,12,Phillips_Cr,usfs,OR,,1,N,38,E,3,45.60068,-118.0478,
+6,889,Okanogan&Wenatchee_NF,Wenatchee_River,79,Clark,usfs,WA,,25,N,18,E,9,47.69167,-120.625,
+6,890,Okanogan&Wenatchee_NF,Tonasket,81,Toats_3,state,WA,,39,N,24,E,13,48.87599,-119.77349,
+6,891,Okanogan&Wenatchee_NF,Cle_Elum,196,Teanaway_Butte,state,WA,,21,N,15,E,15,47.31678,-120.93562,Dropped in 2013. Replaced with Plot ID 933
+6,892,Yakama_Nation,Yakama_Nation,2,King_Mountain,bia,WA,,7,N,11,E,22,46.08085,-121.41648,
+6,893,Yakama_Nation,Yakama_Nation,5,Ahtanum_Ridge,bia,WA,,11,N,15,E,5,46.47149,-120.97473,
+6,894,Umatilla_NF,N_Fork_John_Day,,W_Meadowbrook,usfs,OR,,7,S,31,E,19,44.94953,-119.04233,
+6,895,Colville_NF,Republic,1,Brown_Mtn_SO,usfs,WA,,35,N,33,E,16,48.53239,-118.68386,
+6,896,Colville_NF,Three_Rivers,2,Cedar_Creek_SO,usfs,WA,,40,N,42,E,10,48.98848,-117.48471,
+6,897,Colville_NF,Three_Rivers,3,Pal_Moore_SO,usfs,WA,,33,N,41,E,1,48.38759,-117.57529,
+6,898,Colville_NF,Sullivan_Lake,4,TeePee_SO,usfs,WA,,37,N,42,E,34,48.66351,-117.48711,
+6,899,Colville_NF,Newport,5,Flower_Trail_SO,usfs,WA,,32,N,43,E,5,48.30234,-117.40311,
+6,900,Colville_NF,Three_Rivers,23,Border,state,WA,,40,N,36,E,15,48.96402,-118.21695,
+6,903,Umatilla_NF,Pomeroy,803,4th_of_July_Spring,usfs,WA,,8,N,43,E,21,46.15333,-117.42083,
+6,904,Umatilla_NF,Pomeroy,49,Patana_Cr_Rd,state,WA,,10,N,42,E,35,46.30152,-117.51663,
+6,906,Okanogan&Wenatchee_NF,Cle_Elum,132,Golf_Course_Road,state,WA,,20,N,14,E,25,47.19168,-121.04682,Dropped in 2013.
+6,907,Spokane_IR,Spokane_IR,197,Tamarack,state,WA,,26,N,38,E,1,47.77796,-117.95941,
+6,908,Colville_NF,Three_Rivers,x,Pal_Moore_temp,usfs,WA,,33,N,41,E,1,48.39213,-117.56948,
+6,909,Colville_NF,Three_Rivers,x,Cedar_Creek_temp,usfs,WA,,40,N,42,E,10,48.98593,-117.48501,
+6,910,Yakama_Nation,Yakama_Nation,10,Grayback_Mtn,bia,WA,,6,N,14,E,21,45.99279,-121.06112,
+6,911,Yakama_Nation,Yakama_Nation,25,McCormick_Spring,bia,WA,,11,N,12,E,23,46.42467,-121.28105,
+6,912,Malheur_NF,Blue_Mtn,1,Johnson_Heights_New,bia,OR,,11,S,25,E,3,44.64568,-119.70765,
+6,913,Ochoco_NF,Paulina,5,Birch_Creek_New,bia,OR,,13,S,25,E,18,44.43694,-119.76102,Abandoned/Discontinued
+6,914,Okanogan&Wenatchee_NF,Cle_Elum,7,Taneum,usfs,WA,,19,N,15,E,23,47.1252,-120.9293,
+6,915,Okanogan&Wenatchee_NF,Tonasket,204,Nine_Mile,state,WA,,40,N,28,E,15,48.97393,-119.29618,"Dropped in 2015, replaced with 2498/227"
+6,916,Okanogan&Wenatchee_NF,Tonasket,205,Chopaka_Road,state,WA,,40,N,25,E,27,48.93158,-119.68649,
+6,917,Okanogan&Wenatchee_NF,Tonasket,206,Blue_Lake,state,WA,,39,N,26,E,1,48.90128,-119.49763,
+6,918,Okanogan&Wenatchee_NF,Tonasket,207,Wannacut_Lake,state,WA,,39,N,26,E,14,48.88448,-119.52665,
+6,919,Okanogan&Wenatchee_NF,Tonasket,208,Mt_Hull_South,state,WA,,39,N,28,E,16,48.873,-119.31368,
+6,920,Okanogan&Wenatchee_NF,Tonasket,209,Crawflish_Lake,state,WA,,35,N,29,E,32,48.4889,-119.22079,
+6,921,Okanogan&Wenatchee_NF,Tonasket,210,Chesaw,state,WA,,40,N,30,E,29,48.94296,-119.06548,
+6,922,Spokane_St,South,211,Mica_Top1,state,WA,,24,N,45,E,23,47.55729,-117.08792,
+6,923,Spokane_St,South,212,Mica_Top2,state,WA,,24,N,45,E,23,47.56429,-117.07824,
+6,924,Spokane_St,South,213,Tekoa_Johnson_North,state,WA,,21,N,45,E,35,47.26574,-117.08722,
+6,925,Spokane_St,South,214,Tekoa_Johnson_South,state,WA,,21,N,45,E,35,47.2668,-117.08722,
+6,926,Spokane_St,South,215,Tekoa_East,state,WA,,21,N,45,E,26,47.27768,-117.07315,
+6,927,Yakama_Nation,Yakama_Nation,5,Soda_Springs,bia,WA,,11,N,15,E,17,46.4396,-120.9683,
+6,928,Yakama_Nation,Yakama_Nation,17,Windy_Point2,bia,WA,,10,N,12,E,35,46.3094,-121.2823,
+6,929,Yakama_Nation,Yakama_Nation,22,Olney_Creek,bia,WA,,9,N,15,E,34,46.237,-120.9474,
+6,930,Umatilla_NF,Pomeroy,216,Chase_Mountain,state,WA,,7,N,39,E,12,46.09335,-117.87679,Changed Range from 29 to 39 based on 2013 spreadsheet. DNR dropped plot in 2013 and assigned 2012 data to plot 56 (plot ID 932)
+6,931,Umatilla_NF,Pomeroy,217,Clearwater_LO,state,WA,,8,N,42,E,4,46.20554,-117.54394,
+6,932,Okanogan&Wenatchee_NF,,219,Indian Camp,state,WA,,21,N,15,E,22,47.28955,-120.94946,New plot in 2013. Replaces Plot ID 891/196 Teanaway Butte
+6,933,Okanogan&Wenatchee_NF,Cle_Elum,220,Liberty,state,WA,,21,N,17,E,36,47.269,-120.64951,New plot in 2013. Replaces Plot ID 845/187
+6,934,Umatilla_NF,Pomeroy,221,North Fork Touchet,state,WA,,7,N,40,E,5,46.10978,-117.83435,New plot in 2013.
+6,935,Okanogan&Wenatchee_NF,Cle_Elum,222,Suncadia,state,WA,,20,N,15,E,18,47.21882,-121.00848,New plot in 2015.
+6,936,Okanogan&Wenatchee_NF,Cle_Elum,223,Pearson Creek,state,WA,,20,N,19,E,4,47.24968,-120.45219,New plot in 2015. Replaces Naneum Canyon (plot 744/152)
+6,2004,Malheur_NF,Blue_Mtn,ECO-31A,Kastor,state,OR,Eastcentral_OR,12,S,32,E,27,44.4974,-118.84914,Site not trapped since 1986
+6,2006,Umatilla_NF,Heppner,ECO-3,Kinzua,state,OR,Eastcentral_OR,5,S,27,E,18,45.13263,-119.50393,Site not trapped since 1986
+6,2032,Umatilla_NF,Walla_Walla,NEO-1,Boise_Cascade,state,OR,Northeast_OR,4,N,40,E,29,45.79542,-117.83958,Site not trapped since 1986
+6,2039,Okanogan&Wenatchee_NF,Chelan,3,Slide_Ridge,usfs,WA,,28,N,20,E,24,47.91491,-120.26836,Site not trapped since 1983
+6,2040,Okanogan&Wenatchee_NF,Chelan,4,Grouse_Mtn.,usfs,WA,,29,N,20,E,28,47.98253,-120.34264,Site not trapped since 1980
+6,2042,Okanogan&Wenatchee_NF,Cle_Elum,1,Log_Creek,usfs,WA,,19,N,13,E,6,47.16623,-121.26989,Site not trapped since 1980
+6,2043,Okanogan&Wenatchee_NF,Cle_Elum,2,Cabin,usfs,WA,,20,N,12,E,24,47.21277,-121.29117,Site not trapped since 1980
+6,2044,Okanogan&Wenatchee_NF,Cle_Elum,3,Stampede,usfs,WA,,21,N,11,E,24,47.29261,-121.34958,Site not trapped since 1980
+6,2045,Okanogan&Wenatchee_NF,Cle_Elum,4,Keechelus,usfs,WA,,21,N,11,E,13,47.30716,-121.34957,Site not trapped since 1980
+6,2046,Okanogan&Wenatchee_NF,Cle_Elum,5,Canyon_Creek,usfs,WA,,22,N,13,E,19,47.38262,-121.26361,Site not trapped since 1980
+6,2047,Okanogan&Wenatchee_NF,Cle_Elum,6,Spex_Arth,usfs,WA,,19,N,14,E,12,47.15407,-121.03826,Site not trapped since 1980
+6,2048,Okanogan&Wenatchee_NF,Cle_Elum,7,Salmon_L.A_Sac,usfs,WA,,22,N,14,E,16,47.39663,-121.0932,Site not trapped since 1980
+6,2049,Okanogan&Wenatchee_NF,Cle_Elum,8,Cle_Elum_Lake,usfs,WA,,21,N,14,E,28,47.28244,-121.09373,Site not trapped since 1980
+6,2050,Umatilla_NF,N_Fork_John_Day,2,,usfs,OR,,8,S,31,E,11,44.88876,-118.95156,Site not trapped since 1983
+6,2051,Umatilla_NF,N_Fork_John_Day,3,,usfs,OR,,8,S,32,E,8,44.8889,-118.89037,Site not trapped since 1981
+6,2052,Umatilla_NF,N_Fork_John_Day,4,,usfs,OR,,8,S,33,E,13,44.87395,-118.68661,Site not trapped since 1983
+6,2053,Umatilla_NF,N_Fork_John_Day,6,,usfs,OR,,9,S,34,E,14,44.78619,-118.58588,Site not trapped since 1983
+6,2054,Umatilla_NF,N_Fork_John_Day,7,,usfs,OR,,9,S,35,E,16,44.78473,-118.50364,Site not trapped since 1981
+6,2055,Umatilla_NF,N_Fork_John_Day,8,,usfs,OR,,7,S,34,E,30,44.93209,-118.66638,Site not trapped since 1983
+6,2056,Wallowa-Whitman_NF,Eagle_Cap,1,Lostine,usfs,OR,,3,S,43,E,2,45.33207,-117.4046,Site not trapped since 1983
+6,2057,Wallowa-Whitman_NF,Eagle_Cap,7,Big,usfs,OR,,1,S,42,E,7,45.49336,-117.61374,Site not trapped since 1980
+6,2058,Okanogan&Wenatchee_NF,Cle_Elum,1,Pipe_Creek,usfs,WA,,21,N,18,E,8,47.32525,-120.60978,Site not trapped since 1982
+6,2060,Okanogan&Wenatchee_NF,Cle_Elum,4,Teanaway,usfs,WA,,22,N,15,E,11,47.41168,-120.92501,Site not trapped since 1980
+6,2061,Okanogan&Wenatchee_NF,Cle_Elum,5,Taneum_Pk.,usfs,WA,,19,N,15,E,27,47.10897,-120.95277,Site not trapped since 1983
+6,2062,Okanogan&Wenatchee_NF,Cle_Elum,6,Tamareck_Spring,usfs,WA,,18,N,15,E,12,47.06278,-120.90812,Site not trapped since 1983
+6,2064,Okanogan&Wenatchee_NF,Entiat,1,Govt.Corral,usfs,WA,,24,N,20,E,4,47.60425,-120.33429,Site not trapped since 1983
+6,2065,Okanogan&Wenatchee_NF,Entiat,2,Gold_Ridge,usfs,WA,,26,N,19,E,20,47.73803,-120.48454,Site not trapped since 1983
+6,2066,Okanogan&Wenatchee_NF,Entiat,3,French_Corral,usfs,WA,,26,N,19,E,31,47.70838,-120.51131,Site not trapped since 1983
+6,2067,Okanogan&Wenatchee_NF,Entiat,6,Lake_Creek,usfs,WA,,29,N,19,E,31,47.96823,-120.51529,Site not trapped since 1983
+6,2068,Okanogan&Wenatchee_NF,Entiat,7,Chumstick,usfs,WA,,25,N,19,E,27,47.63417,-120.44695,Site not trapped since 1983
+6,2069,Okanogan&Wenatchee_NF,Entiat,8,Chelan_Ridge,usfs,WA,,27,N,20,E,14,47.84175,-120.28794,Site not trapped since 1983
+6,2072,Umatilla_NF,Heppner,1,,usfs,OR,,7,S,24,E,12,44.97333,-119.80078,Site not trapped since 1983
+6,2073,Umatilla_NF,Heppner,2,,usfs,OR,,7,S,25,E,15,44.9588,-119.722,Site not trapped since 1982
+6,2076,Umatilla_NF,Heppner,7,,usfs,OR,,5,S,28,E,34,45.08994,-119.32032,Site not trapped since 1983
+6,2077,Umatilla_NF,Heppner,8,,usfs,OR,,5,S,28,E,1,45.1629,-119.2785,Site not trapped since 1982
+6,2078,Wallowa-Whitman_NF,La_Grande,1,Penny_Spring,usfs,OR,,4,S,35,E,24,45.20362,-118.37311,Site not trapped since 1981
+6,2079,Wallowa-Whitman_NF,La_Grande,5,Chicken_Hill,usfs,OR,,7,S,35,E,2,44.98378,-118.37994,
+6,2080,Wallowa-Whitman_NF,La_Grande,3,Tin_Troughs,usfs,OR,,4,S,34,E,26,45.18967,-118.51588,Site not trapped since 1981
+6,2081,Wallowa-Whitman_NF,La_Grande,6,Frog_Heaven,usfs,OR,,4,S,34,E,18,45.21856,-118.59806,Site not trapped since 1998
+6,2082,Wallowa-Whitman_NF,La_Grande,1,Flat_Lake_Spr,usfs,OR,,2,S,35,E,31,45.34978,-118.46956,
+6,2083,Okanogan&Wenatchee_NF,Wenatchee_River,2,S.Fk.Beaver,usfs,WA,,26,N,18,E,9,47.76622,-120.59735,
+6,2084,Okanogan&Wenatchee_NF,Wenatchee_River,3,Chiwawa,usfs,WA,,28,N,17,E,27,47.89704,-120.7029,Site not trapped since 1980
+6,2085,Okanogan&Wenatchee_NF,Wenatchee_River,4,Grouse,usfs,WA,,28,N,17,E,26,47.89695,-120.68143,Site not trapped since 1983
+6,2086,Okanogan&Wenatchee_NF,Wenatchee_River,5,Rainy,usfs,WA,,27,N,15,E,15,47.83894,-120.96229,Site not trapped since 1983
+6,2087,Okanogan&Wenatchee_NF,Wenatchee_River,6,Wenatchee_Lake,usfs,WA,,27,N,17,E,19,47.82475,-120.76899,Site not trapped since 1980
+6,2088,Okanogan&Wenatchee_NF,Wenatchee_River,7,Wenatchee_River,usfs,WA,,27,N,16,E,8,47.85336,-120.87723,Site not trapped since 1980
+6,2089,Okanogan&Wenatchee_NF,Wenatchee_River,1,Eagle,usfs,WA,,25,N,18,E,13,47.66398,-120.53504,Site not trapped since 1980
+6,2091,Okanogan&Wenatchee_NF,Wenatchee_River,2,Ingals,usfs,WA,,23,N,17,E,26,47.46007,-120.68188,Site not trapped since 1983
+6,2093,Okanogan&Wenatchee_NF,Wenatchee_River,7,Hatchery,usfs,WA,,25,N,17,E,8,47.67838,-120.75148,Site not trapped since 1981
+6,2094,Wallowa-Whitman_NF,Pine,2,Cold_Springs,usfs,OR,,5,S,47,E,28,45.10088,-116.97274,Site not trapped since 1980
+6,2095,Wallowa-Whitman_NF,Pine,3,Dutchman_Cr.,usfs,OR,,6,S,47,E,9,45.05727,-116.97288,Site not trapped since 1982
+6,2096,Wallowa-Whitman_NF,Pine,4,Beecher_Flat,usfs,OR,,7,S,46,E,1,44.98611,-117.03282,Site not trapped since 1980
+6,2097,Wallowa-Whitman_NF,Pine,7,Summit_Cr.,usfs,OR,,7,S,45,E,8,44.97175,-117.23583,Site not trapped since 1983
+6,2098,Umatilla_NF,Pomeroy,1,Abels_Jct.,usfs,WA,,9,N,42,E,17,46.25745,-117.57568,Site not trapped since 1983
+6,2099,Umatilla_NF,Pomeroy,2,Swietzer,usfs,WA,,8,N,44,E,32,46.12703,-117.32485,Site not trapped since 1980
+6,2100,Umatilla_NF,Pomeroy,3,Willow_Spr.Jct,usfs,WA,,9,N,42,E,32,46.21391,-117.57575,Site not trapped since 1983
+6,2101,Umatilla_NF,Pomeroy,5,Dark_Canyon,usfs,WA,,8,N,43,E,22,46.16278,-117.41667,Site not trapped since 2000
+6,2102,Umatilla_NF,Pomeroy,6,Stockade,usfs,WA,,9,N,40,E,35,46.21414,-117.77105,Site not trapped since 1983
+6,2103,Umatilla_NF,Pomeroy,7,Particle_Spr,usfs,WA,,8,N,40,E,26,46.14528,-117.76639,Site not trapped since 2000
+6,2106,Umatilla_NF,N_Fork_John_Day,2,Ellis,usfs,OR,,5,S,29,E,3,45.16337,-119.19804,Site not trapped since 1980
+6,2107,Umatilla_NF,N_Fork_John_Day,3,Pearson,usfs,OR,,6,S,33,E,27,45.0182,-118.7276,Site not trapped since 1980
+6,2108,Umatilla_NF,N_Fork_John_Day,4,Cable_Crk.,usfs,OR,,6,S,33,E,13,45.0484,-118.68648,Site not trapped since 1980
+6,2109,Umatilla_NF,N_Fork_John_Day,5,Lehman,usfs,OR,,5,S,33,E,1,45.16327,-118.66609,Site not trapped since 1980
+6,2111,Umatilla_NF,N_Fork_John_Day,7,Cold_Spr.,usfs,OR,,3,S,32,E,32,45.26431,-118.86768,Site not trapped since 1980
+6,2112,Umatilla_NF,N_Fork_John_Day,8,Kopp,usfs,OR,,3,S,31,E,29,45.27651,-118.96753,Site not trapped since 1985
+6,2113,Wallowa-Whitman_NF,La_Grande,2,Grey_Mt.,usfs,OR,,2,S,40,E,2,45.42564,-117.78472,
+6,2115,Wallowa-Whitman_NF,La_Grande,5,Flagstaff_Butte,usfs,OR,,6,S,42,E,1,45.07183,-117.51011,
+6,2116,Wallowa-Whitman_NF,La_Grande,6,Red_Knob,usfs,OR,,7,S,43,E,12,44.97019,-117.391,Site not trapped since 1983
+6,2118,Wallowa-Whitman_NF,La_Grande,8,Cathy_Summit,usfs,OR,,5,S,41,E,27,45.09772,-117.67239,
+6,2119,Wallowa-Whitman_NF,Unity,2,Elk_Creek,usfs,OR,,13,S,36,E,31,44.39535,-118.34271,Site not trapped since 1983
+6,2120,Wallowa-Whitman_NF,Unity,5,Black_Mtn_Gulch,usfs,OR,,11,S,39,E,13,44.60752,-117.88104,Site not trapped since 1983
+6,2121,Wallowa-Whitman_NF,Unity,1,Camp_Creek,usfs,OR,,10,S,36,E,6,44.72398,-118.34509,Site not trapped since 1983
+6,2122,Wallowa-Whitman_NF,Unity,8,Slab_Creek,usfs,OR,,10,S,35,E,22,44.68424,-118.48427,Site not trapped since 1982
+6,2123,Umatilla_NF,Walla_Walla,1,Tiger_Saddle,usfs,OR,,5,N,38,E,1,45.94062,-118.01044,Site not trapped since 1983
+6,2124,Umatilla_NF,Walla_Walla,2,Balloon_Tree,usfs,OR,,3,N,39,E,19,45.72529,-117.9838,Site not trapped since 1983
+6,2125,Umatilla_NF,Walla_Walla,4,Lookout_Mt.,usfs,OR,,4,N,40,E,10,45.83914,-117.79824,Site not trapped since 1983
+6,2126,Umatilla_NF,Walla_Walla,4,Middle_Ridge,usfs,OR,,2,N,38,E,26,45.62382,-118.02539,Site not trapped since 1983
+6,2127,Umatilla_NF,Walla_Walla,5,Jubilee,usfs,OR,,4,N,39,E,9,45.8386,-117.94214,Site not trapped since 1983
+6,2128,Umatilla_NF,Walla_Walla,6,Sinks,usfs,OR,,4,N,39,E,34,45.78074,-117.92108,Site not trapped since 1983
+6,2129,Umatilla_NF,Walla_Walla,7,End_Springs,usfs,OR,,1,N,37,E,13,45.56558,-118.12754,Site not trapped since 1983
+6,2130,Umatilla_NF,Walla_Walla,7,Fry_Meadows,usfs,OR,,4,N,40,E,32,45.78089,-117.83957,Site not trapped since 1983
+6,2131,Wallowa-Whitman_NF,Wallowa_Valley,1,Powatka,usfs,OR,,3,N,43,E,21,45.7271,-117.4436,Site not trapped since 1980
+6,2132,Wallowa-Whitman_NF,Wallowa_Valley,3,Teepee_Butte_Rd,usfs,OR,,4,N,46,E,1,45.8559,-117.01064,Site not trapped since 1980
+6,2133,Wallowa-Whitman_NF,Wallowa_Valley,4,Summit_Creek,usfs,OR,,4,N,47,E,28,45.79781,-116.94944,Site not trapped since 1983
+6,2134,Wallowa-Whitman_NF,Wallowa_Valley,5,Jaymes_Powerlne,usfs,OR,,3,N,47,E,6,45.77005,-116.99036,Site not trapped since 1980
+6,2135,Wallowa-Whitman_NF,Wallowa_Valley,11,Berland,usfs,OR,,3,N,47,E,4,45.76967,-116.94936,Site not trapped since 1983
+6,2136,Wallowa-Whitman_NF,Wallowa_Valley,6,Jaymes,usfs,OR,,4,N,47,E,14,45.82676,-116.90806,Site not trapped since 1980
+6,2137,Wallowa-Whitman_NF,Wallowa_Valley,16,Peavine,usfs,OR,,3,N,46,E,29,45.71378,-117.09244,Site not trapped since 1980
+6,2139,Okanogan&Wenatchee_NF,Chelan,0,Shrine_Beach,usfs,WA,,28,N,21,E,21,47.91509,-120.20461,Site not trapped since 1981
+6,2140,Mt_Hood_NF,Barlow,1,,usfs,OR,,5,S,10,E,1,45.16481,-121.49217,Site not trapped since 1983
+6,2141,Mt_Hood_NF,Barlow,2,,usfs,OR,,4,S,11,E,28,45.19388,-121.43041,Site not trapped since 1983
+6,2142,Mt_Hood_NF,Barlow,3,,usfs,OR,,4,S,10,E,23,45.20769,-121.51299,Site not trapped since 1983
+6,2144,Mt_Hood_NF,Barlow,5,,usfs,OR,,3,S,11,E,26,45.28068,-121.38919,Site not trapped since 1983
+6,2145,Mt_Hood_NF,Barlow,6,,usfs,OR,,3,S,11,E,2,45.33842,-121.38949,Site not trapped since 1983
+6,2146,Mt_Hood_NF,Barlow,7,,usfs,OR,,2,S,11,E,32,45.35235,-121.45092,Site not trapped since 1983
+6,2150,Mt_Hood_NF,Barlow,3,Three,usfs,OR,,5,S,10,E,35,45.0927,-121.51212,Site not trapped since 1983
+6,2151,Mt_Hood_NF,Barlow,4,Four,usfs,OR,,5,S,9,E,10,45.1502,-121.65491,Site not trapped since 1982
+6,2152,Mt_Hood_NF,Barlow,5,Five,usfs,OR,,6,S,9,E,11,45.06372,-121.63393,Site not trapped since 1982
+6,2153,Mt_Hood_NF,Barlow,6,Six,usfs,OR,,3,S,9,E,27,45.27946,-121.65542,Site not trapped since 1982
+6,2154,Mt_Hood_NF,Barlow,7,Seven,usfs,OR,,4,S,9,E,21,45.20759,-121.67588,Site not trapped since 1982
+6,2155,Mt_Hood_NF,Barlow,8,Eight,usfs,OR,,4,S,9,E,24,45.2074,-121.61494,Site not trapped since 1982
+6,2158,Malheur_NF,Blue_Mtn,4,,usfs,OR,,17,S,32,E,12,44.1124,-118.82699,Site not trapped since 1983
+6,2159,Malheur_NF,Blue_Mtn,5,,usfs,OR,,17,S,30,E,15,44.09766,-119.10747,Site not trapped since 1983
+6,2161,Malheur_NF,Blue_Mtn,8,,usfs,OR,,16,S,29,E,6,44.2123,-119.28679,Site not trapped since 1982
+6,2164,Malheur_NF,Emigrant_Cr,2,Calamity,usfs,OR,,19,S,32,E,12,43.93865,-118.82693,Site not trapped since 1987
+6,2165,Malheur_NF,Emigrant_Cr,3,Wade_Spr.,usfs,OR,,17,S,33,E,26,44.06928,-118.72639,Site not trapped since 1982
+6,2166,Malheur_NF,Emigrant_Cr,4,Ewing_Spr.,usfs,OR,,17,S,33,E,29,44.06934,-118.78682,Site not trapped since 1982
+6,2167,Okanogan&Wenatchee_NF,Chelan,4,Grouse_Mtn.,usfs,WA,,29,N,20,E,26,47.98243,-120.30004,Site not trapped since 1983
+6,2168,Okanogan&Wenatchee_NF,Chelan,6,Graham,usfs,WA,,30,N,19,E,20,48.08398,-120.49353,Site not trapped since 1982
+6,2169,Okanogan&Wenatchee_NF,Chelan,7,Railroad,usfs,WA,,31,N,18,E,16,48.18576,-120.60692,Site not trapped since 1982
+6,2170,Okanogan&Wenatchee_NF,Chelan,8,10_Mile,usfs,WA,,31,N,17,E,8,48.20015,-120.75899,Site not trapped since 1982
+6,2171,Okanogan&Wenatchee_NF,Entiat,14,Davis_Canyon,usfs,WA,,27,N,21,E,36,47.79988,-120.14032,Site not trapped since 1987
+6,2172,Fremont-Winema_NFs,Chemult,1,None,usfs,OR,,25,S,10,E,19,43.39204,-121.57543,Site not trapped since 1981
+6,2173,Fremont-Winema_NFs,Chemult,2,Skookum,usfs,OR,,27,S,9,E,9,43.24725,-121.65684,Site not trapped since 1983
+6,2174,Fremont-Winema_NFs,Chemult,3,Sugarpine,usfs,OR,,28,S,9,E,26,43.11671,-121.617,Site not trapped since 1981
+6,2175,Fremont-Winema_NFs,Chemult,4,Sink,usfs,OR,,27,S,6,E,14,43.21996,-122.07682,Site not trapped since 1981
+6,2176,Fremont-Winema_NFs,Chemult,5,Adell,usfs,OR,,27,S,7,E,8,43.24734,-121.91395,Site not trapped since 1983
+6,2177,Fremont-Winema_NFs,Chemult,6,Lookout,usfs,OR,,30,S,7,E,7,42.98378,-121.94019,
+6,2178,Fremont-Winema_NFs,Chemult,7,Boundary,usfs,OR,,32,S,7,E,18,42.79913,-121.92712,Site not trapped since 1985
+6,2182,Okanogan&Wenatchee_NF,Cle_Elum,4,Teanaway,usfs,WA,,22,N,15,E,14,47.39719,-120.92508,Site not trapped since 1983
+6,2184,Wallowa-Whitman_NF,HCNRA,2,Kernan_4204,usfs,OR,,4,N,46,E,1,45.8559,-117.01064,Site not trapped since 1982
+6,2185,Wallowa-Whitman_NF,HCNRA,5,4516,usfs,OR,,1,S,49,E,28,45.44651,-116.70577,Site not trapped since 1983
+6,2186,Wallowa-Whitman_NF,HCNRA,7,Grave_4808,usfs,OR,,5,S,47,E,27,45.10088,-116.9523,Site not trapped since 1983
+6,2187,Wallowa-Whitman_NF,HCNRA,8,Grave_4808,usfs,OR,,6,S,47,E,9,45.05727,-116.97288,Site not trapped since 1983
+6,2191,Fremont-Winema_NFs,Klamath,1,,usfs,OR,,36,S,6,E,32,42.39501,-122.14007,Site not trapped since 1983
+6,2192,Fremont-Winema_NFs,Klamath,2,,usfs,OR,,36,S,6,E,18,42.43824,-122.15906,Site not trapped since 1983
+6,2193,Fremont-Winema_NFs,Klamath,3,,usfs,OR,,33,S,6,E,26,42.68289,-122.08459,Site not trapped since 1983
+6,2194,Fremont-Winema_NFs,Klamath,4,,usfs,OR,,33,S,6,E,10,42.72655,-122.10419,Site not trapped since 1983
+6,2195,Fremont-Winema_NFs,Klamath,6,,usfs,OR,,35,S,5,E,13,42.52497,-122.17949,Site not trapped since 1983
+6,2196,Fremont-Winema_NFs,Klamath,7,,usfs,OR,,37,S,5,E,26,42.32263,-122.19835,Site not trapped since 1983
+6,2200,Okanogan&Wenatchee_NF,Wenatchee_River,3,Brush_Creek,usfs,WA,,28,N,17,E,34,47.88257,-120.70279,Site not trapped since 1983
+6,2202,Okanogan&Wenatchee_NF,Wenatchee_River,6,Wenatchee_Ridge,usfs,WA,,27,N,16,E,16,47.83897,-120.85578,Site not trapped since 1983
+6,2203,Okanogan&Wenatchee_NF,Wenatchee_River,7,White_Pine,usfs,WA,,26,N,15,E,12,47.76639,-120.91923,Site not trapped since 1983
+6,2204,Fremont-Winema_NFs,Lakeview,1,Strawberry_Resv,usfs,OR,,40,S,16,E,17,42.09995,-120.85138,Site not trapped since 1982
+6,2205,Fremont-Winema_NFs,Lakeview,2,Dent_Crk.,usfs,OR,,39,S,16,E,11,42.20201,-120.79325,Site not trapped since 1982
+6,2206,Fremont-Winema_NFs,Lakeview,3,Patton_Meadows,usfs,OR,,38,S,18,E,28,42.2444,-120.59998,Site not trapped since 1982
+6,2207,Fremont-Winema_NFs,Lakeview,28,Bull_Prarie,usfs,OR,,38,S,21,E,11,42.28727,-120.20846,Site not trapped since 1982
+6,2208,Fremont-Winema_NFs,Lakeview,29,Synder_Meadow,usfs,OR,,37,S,19,E,27,42.33196,-120.46415,Site not trapped since 1982
+6,2209,Fremont-Winema_NFs,Lakeview,34,Rogger,usfs,OR,,39,S,21,E,21,42.17315,-120.2451,Site not trapped since 1982
+6,2210,Okanogan&Wenatchee_NF,Wenatchee_River,1,Eagle,usfs,WA,,25,N,19,E,17,47.66399,-120.49049,Site not trapped since 1983
+6,2213,Malheur_NF,Blue_Mtn,5,Elk_Creek,usfs,OR,,10,S,33,E,4,44.72853,-118.74825,Site not trapped since 1983
+6,2214,Malheur_NF,Blue_Mtn,7,Vinegar,usfs,OR,,10,S,35,E,19,44.68424,-118.54531,Site not trapped since 1983
+6,2215,Malheur_NF,Blue_Mtn,26,Hiyu,usfs,OR,,11,S,32,E,18,44.61327,-118.90978,Site not trapped since 1983
+6,2216,Okanogan&Wenatchee_NF,Naches,1,,usfs,WA,,17,N,14,E,6,46.99105,-121.14267,Site not trapped since 1981
+6,2217,Okanogan&Wenatchee_NF,Naches,2,Sand_Creek,usfs,WA,,18,N,13,E,17,47.04891,-121.24813,Site not trapped since 1983
+6,2218,Okanogan&Wenatchee_NF,Naches,3,Fox_I,usfs,WA,,18,N,14,E,22,47.03445,-121.07943,Site not trapped since 1981
+6,2219,Okanogan&Wenatchee_NF,Naches,4,,usfs,WA,,17,N,15,E,18,46.96197,-121.01494,Site not trapped since 1981
+6,2220,Okanogan&Wenatchee_NF,Naches,5,,usfs,WA,,16,N,14,E,4,46.90522,-121.08755,Site not trapped since 1981
+6,2221,Okanogan&Wenatchee_NF,Naches,6,,usfs,WA,,16,N,14,E,21,46.86283,-121.08751,Site not trapped since 1981
+6,2222,Okanogan&Wenatchee_NF,Naches,7,,usfs,WA,,15,N,14,E,27,46.76166,-121.06622,Site not trapped since 1981
+6,2223,Okanogan&Wenatchee_NF,Naches,8,,usfs,WA,,17,N,15,E,14,46.96202,-120.9295,Site not trapped since 1981
+6,2226,Fremont-Winema_NFs,Silver_Lake,2,Winter_Rim,usfs,OR,,32,S,15,E,21,42.77997,-120.94848,Site not trapped since 1982
+6,2227,Fremont-Winema_NFs,Silver_Lake,5,Long,usfs,OR,,32,S,15,E,36,42.75122,-120.88966,Site not trapped since 1983
+6,2228,Fremont-Winema_NFs,Silver_Lake,6,Kingry_Marsh,usfs,OR,,33,S,15,E,35,42.66427,-120.91254,Site not trapped since 1983
+6,2229,Fremont-Winema_NFs,Silver_Lake,7,Watson,usfs,OR,,32,S,15,E,8,42.80901,-120.96813,Site not trapped since 1983
+6,2230,Fremont-Winema_NFs,Silver_Lake,8,Snag_Springs,usfs,OR,,36,S,18,E,32,42.40382,-120.61952,Site not trapped since 1983
+6,2232,Wallowa-Whitman_NF,Pine,5,Dry_Cr.Saddle,usfs,OR,,6,S,47,E,11,45.05727,-116.93203,Site not trapped since 1982
+6,2234,Umatilla_NF,Pomeroy,2,Sweitzer,usfs,WA,,7,N,44,E,6,46.11203,-117.34667,Site not trapped since 1983
+6,2236,Malheur_NF,Prairie_City,2,Frazier_Cr.,usfs,OR,,17,S,33,E,10,44.11292,-118.74684,Site not trapped since 1981
+6,2238,Malheur_NF,Prairie_City,4,Elk_Creek,usfs,OR,,15,S,35,E,4,44.29843,-118.51747,Site not trapped since 1981
+6,2239,Malheur_NF,Prairie_City,5,Elk_Flat,usfs,OR,,14,S,35,E,36,44.31252,-118.4573,Site not trapped since 1981
+6,2240,Malheur_NF,Prairie_City,6,Austin,usfs,OR,,12,S,35,E,4,44.55547,-118.50334,Site not trapped since 1981
+6,2241,Malheur_NF,Prairie_City,7,Pole_Spring,usfs,OR,,13,S,35,E,34,44.39577,-118.48277,Site not trapped since 1981
+6,2242,Malheur_NF,Prairie_City,8,Cresent,usfs,OR,,15,S,35,E,8,44.28443,-118.53755,Site not trapped since 1981
+6,2245,Colville_IR,Sanpoil,8,Bear_Creek,bia,WA,,33,N,32,E,17,48.3603,-118.81198,Site not trapped since 1982
+6,2246,Fremont-Winema_NFs,Silver_Lake,1,Alder_Spr.,usfs,OR,,30,S,13,E,14,42.97143,-121.14423,Site not trapped since 1981
+6,2247,Fremont-Winema_NFs,Silver_Lake,2,Buck_Creek,usfs,OR,,30,S,12,E,4,42.99999,-121.3022,Site not trapped since 1981
+6,2248,Fremont-Winema_NFs,Silver_Lake,3,Bridge_Creek,usfs,OR,,30,S,12,E,12,42.98574,-121.24296,Site not trapped since 1981
+6,2249,Fremont-Winema_NFs,Silver_Lake,4,Mowich,usfs,OR,,25,S,11,E,34,43.36415,-121.38179,Site not trapped since 1983
+6,2250,Fremont-Winema_NFs,Silver_Lake,5,Bald,usfs,OR,,26,S,11,E,35,43.27474,-121.37785,Site not trapped since 1981
+6,2251,Fremont-Winema_NFs,Silver_Lake,6,Labrie,usfs,OR,,30,S,15,E,35,42.92578,-120.90986,Site not trapped since 1981
+6,2252,Fremont-Winema_NFs,Silver_Lake,7,Point,usfs,OR,,30,S,16,E,30,42.9429,-120.867,Site not trapped since 1981
+6,2253,Fremont-Winema_NFs,Silver_Lake,8,Dead_Indian,usfs,OR,,30,S,16,E,9,42.98393,-120.82989,Site not trapped since 1981
+6,2254,Deschutes_NF,Sisters,2,,usfs,OR,,12,S,8,E,1,44.55752,-121.72616,Site not trapped since 1983
+6,2255,Deschutes_NF,Sisters,3,,usfs,OR,,13,S,8,E,16,44.44409,-121.7865,Site not trapped since 1983
+6,2256,Deschutes_NF,Sisters,4,,usfs,OR,,14,S,8,E,3,44.38591,-121.76616,Site not trapped since 1983
+6,2258,Okanogan&Wenatchee_NF,Naches,1,Lost_Lake,usfs,WA,,13,N,14,E,10,46.62944,-121.06397,Site not trapped since 1981
+6,2259,Okanogan&Wenatchee_NF,Naches,2,Pine_Creek,usfs,WA,,14,N,14,E,22,46.68738,-121.06508,Site not trapped since 1981
+6,2260,Okanogan&Wenatchee_NF,Naches,3,Wildcat,usfs,WA,,13,N,14,E,27,46.58598,-121.06414,Site not trapped since 1981
+6,2261,Okanogan&Wenatchee_NF,Naches,4,Clear_Creek,usfs,WA,,13,N,12,E,3,46.64387,-121.31601,Site not trapped since 1981
+6,2262,Okanogan&Wenatchee_NF,Naches,5,Indian,usfs,WA,,13,N,12,E,3,46.64387,-121.31601,Site not trapped since 1981
+6,2263,Okanogan&Wenatchee_NF,Naches,6,Bear_Creek,usfs,WA,,13,N,13,E,8,46.62892,-121.23158,Site not trapped since 1981
+6,2264,Okanogan&Wenatchee_NF,Naches,7,Spencer,usfs,WA,,13,N,14,E,20,46.60052,-121.10591,Site not trapped since 1981
+6,2265,Okanogan&Wenatchee_NF,Naches,8,Pinegrass,usfs,WA,,13,N,13,E,17,46.61484,-121.23195,Site not trapped since 1983
+6,2266,Okanogan&Wenatchee_NF,Methow_Valley,42,Libby_Creek_#2,usfs,WA,,26,N,21,E,23,47.73663,-120.16536,Site not trapped since 1981
+6,2270,Wallowa-Whitman_NF,Unity,4,Middle_Willow_C,usfs,OR,,15,S,37,E,12,44.27791,-118.12248,Site not trapped since 1981
+6,2274,Wallowa-Whitman_NF,Wallowa_Valley,2,Spoon,usfs,OR,,3,S,47,E,21,45.28636,-116.95014,Site not trapped since 1983
+6,2275,Wallowa-Whitman_NF,Wallowa_Valley,3,Harl,usfs,OR,,3,S,47,E,11,45.31552,-116.90881,Site not trapped since 1983
+6,2276,Wallowa-Whitman_NF,Wallowa_Valley,4,Rich,usfs,OR,,3,S,47,E,11,45.31552,-116.90881,Site not trapped since 1981
+6,2277,Wallowa-Whitman_NF,Wallowa_Valley,5,Rich,usfs,OR,,4,S,47,E,14,45.21468,-116.90913,Site not trapped since 1983
+6,2278,Wallowa-Whitman_NF,Wallowa_Valley,7,Divide,usfs,OR,,4,S,46,E,4,45.24299,-117.07442,Site not trapped since 1983
+6,2279,Wallowa-Whitman_NF,Wallowa_Valley,9,Billy,usfs,OR,,4,N,46,E,15,45.82805,-117.05223,Site not trapped since 1983
+6,2283,Wallowa-Whitman_NF,Wallowa_Valley,15,Alder_Springs,usfs,OR,,3,N,43,E,36,45.69961,-117.38514,Site not trapped since 1983
+6,2304,Fremont-Winema_NFs,Chemult,3,Sink,usfs,OR,,27,S,6,E,35,43.17677,-122.07718,Site not trapped since 1983
+6,2307,Fremont-Winema_NFs,Chemult,5,Walker,usfs,OR,,26,S,9,E,5,43.34858,-121.67688,Site not trapped since 1983
+6,2308,Fremont-Winema_NFs,Chemult,7,Sugarpine,usfs,OR,,28,S,9,E,27,43.11681,-121.63681,Site not trapped since 1983
+6,2310,Fremont-Winema_NFs,Chiloquin,1,Telephone_Flat,usfs,OR,,36,S,9,E,6,42.47986,-121.6923,Site not trapped since 1984
+6,2311,Fremont-Winema_NFs,Chiloquin,3,Anderson_Creek,usfs,OR,,36,S,8,E,21,42.43616,-121.77062,Site not trapped since 1983
+6,2312,Fremont-Winema_NFs,Chiloquin,4,Calimus,usfs,OR,,34,S,10,E,8,42.63895,-121.55505,Site not trapped since 1983
+6,2313,Fremont-Winema_NFs,Chiloquin,5,Solomon_Butte,usfs,OR,,33,S,8,E,9,42.72612,-121.77001,Site not trapped since 1983
+6,2314,Fremont-Winema_NFs,Chiloquin,6,Cherry_Creek,usfs,OR,,36,S,10,E,35,42.40695,-121.49711,Site not trapped since 1983
+6,2315,Fremont-Winema_NFs,Chiloquin,7,Sw_Shaws,usfs,OR,,36,S,9,E,27,42.42136,-121.63393,Site not trapped since 1983
+6,2316,Fremont-Winema_NFs,Chiloquin,9,Fuego_Mtn.,usfs,OR,,34,S,11,E,9,42.63861,-121.41764,Site not trapped since 1982
+6,2318,Malheur_NF,Blue_Mtn,ECO-14,Kinzua,state,OR,Eastcentral_OR,11,S,27,E,3,44.6447,-119.46029,Site not trapped since 1986
+6,2322,Colville_IR,Inchelium,11,Mayflower_Point,bia,WA,,32,N,35,E,9,48.28882,-118.40467,Site not trapped since 1982
+6,2323,Colville_IR,Inchelium,12,,bia,WA,,32,N,35,E,18,48.27437,-118.44785,Site not trapped since 1982
+6,2324,Colville_IR,Inchelium,13,,bia,WA,,32,N,35,E,8,48.2888,-118.42632,Site not trapped since 1982
+6,2327,Wallowa-Whitman_NF,La_Grande,4,Tin_Trough,usfs,OR,,5,S,34,E,10,45.14964,-118.54247,
+6,2338,Okanogan&Wenatchee_NF,Wenatchee_River,7,Hatchery_Creek,usfs,WA,,25,N,17,E,9,47.67855,-120.7299,Site not trapped since 1983
+6,2342,Okanogan&Wenatchee_NF,Naches,1,Andy,usfs,WA,,14,N,13,E,31,46.65843,-121.25301,Site not trapped since 1983
+6,2343,Okanogan&Wenatchee_NF,Naches,1,Timothy,usfs,WA,,18,N,13,E,5,47.07703,-121.24812,Site not trapped since 1983
+6,2345,Okanogan&Wenatchee_NF,Naches,3,Rd_187,usfs,WA,,18,N,14,E,28,47.01996,-121.10064,Site not trapped since 1983
+6,2346,Okanogan&Wenatchee_NF,Naches,4,1706-F,usfs,WA,,17,N,14,E,29,46.93313,-121.12167,Site not trapped since 1983
+6,2347,Okanogan&Wenatchee_NF,Naches,4,Camp_Creek,usfs,WA,,13,N,13,E,31,46.57154,-121.25293,Site not trapped since 1983
+6,2348,Okanogan&Wenatchee_NF,Naches,5,161,usfs,WA,,16,N,14,E,16,46.87735,-121.08753,Site not trapped since 1983
+6,2349,Okanogan&Wenatchee_NF,Naches,5,Fish_Lake,usfs,WA,,13,N,14,E,18,46.615,-121.12715,Site not trapped since 1983
+6,2350,Okanogan&Wenatchee_NF,Naches,7,1732_C,usfs,WA,,16,N,13,E,2,46.90519,-121.16915,Site not trapped since 1983
+6,2351,Okanogan&Wenatchee_NF,Naches,7,Weddle,usfs,WA,,14,N,15,E,26,46.67343,-120.91882,Site not trapped since 1983
+6,2352,Okanogan&Wenatchee_NF,Naches,8,Hause,usfs,WA,,14,N,14,E,30,46.67284,-121.12756,Site not trapped since 1983
+6,2362,Wallowa-Whitman_NF,Wallowa_Valley,NEO-25,Boise_Cascade,state,OR,Northeast_OR,4,N,44,E,9,45.84577,-117.32406,Site not trapped since 1986
+6,2363,Wallowa-Whitman_NF,Wallowa_Valley,NEO-26,Boise_Cascade,state,OR,Northeast_OR,4,N,44,E,22,45.81673,-117.30286,Site not trapped since 1986
+6,2364,Umatilla_NF,Walla_Walla,NEO-31,Boise_Cascade,state,OR,Northeast_OR,2,S,35,E,2,45.42165,-118.39763,Site not trapped since 1986
+6,2366,Umatilla_NF,Walla_Walla,NEO-61,Private,state,OR,Northeast_OR,1,N,38,E,6,45.59455,-118.10723,Site not trapped since 1986
+6,2368,Wallowa-Whitman_NF,Pine,NEO-67,Private,state,OR,Northeast_OR,7,S,46,E,15,44.9571,-117.07322,Site not trapped since 1986
+6,2375,Fremont-Winema_NFs,Paisley,4,Phytophagite,usfs,OR,,35,S,11,E,3,42.56564,-121.39831,Site not trapped since 1983
+6,2381,Fremont-Winema_NFs,Silver_Lake,1,,usfs,OR,,31,S,16,E,20,42.86739,-120.85003,Site not trapped since 1983
+6,2383,Fremont-Winema_NFs,Silver_Lake,4,,usfs,OR,,30,S,12,E,28,42.94229,-121.30209,Site not trapped since 1982
+6,2384,Fremont-Winema_NFs,Silver_Lake,5,,usfs,OR,,29,S,12,E,3,43.08602,-121.28029,Site not trapped since 1983
+6,2385,Fremont-Winema_NFs,Silver_Lake,6,,usfs,OR,,31,S,14,E,13,42.88413,-121.00591,Site not trapped since 1983
+6,2386,Fremont-Winema_NFs,Silver_Lake,7,,usfs,OR,,30,S,16,E,10,42.98396,-120.81031,Site not trapped since 1983
+6,2395,Umatilla_NF,Walla_Walla,1,Tiger,usfs,OR,,5,N,39,E,6,45.94147,-117.98901,Site not trapped since 1982
+6,2397,Wallowa-Whitman_NF,Wallowa_Valley,4,Rich,usfs,OR,,3,S,47,E,36,45.25771,-116.88846,Site not trapped since 1983
+6,2436,Fremont-Winema_NFs,Silver_Lake,4,,usfs,OR,,30,S,13,E,28,42.94275,-121.18398,Site not trapped since 1983
+6,2437,Fremont-Winema_NFs,Silver_Lake,6,Hager_Mtn.,usfs,OR,,30,S,14,E,2,42.99907,-121.02683,Site not trapped since 1983
+6,2438,Fremont-Winema_NFs,Silver_Lake,7,Antelope_Mtn.,usfs,OR,,28,S,12,E,33,43.10057,-121.29995,Site not trapped since 1983
+6,2439,Siskiyou_NF,Illinois_Valley,SWO-1,,state,OR,Southwest_OR,38,S,6,W,13,42.26527,-123.35766,Site not trapped since 1986
+6,2440,Siskiyou_NF,Galice,SWO-2,,state,OR,Southwest_OR,37,S,7,W,5,42.38175,-123.5531,Site not trapped since 1986
+6,2441,Siskiyou_NF,Illinois_Valley,SWO-3,,state,OR,Southwest_OR,40,S,7,W,11,42.10411,-123.49453,Site not trapped since 1986
+6,2442,Siskiyou_NF,Galice,SWO-4,,state,OR,Southwest_OR,34,S,5,W,27,42.58586,-123.27913,Site not trapped since 1986
+6,2443,Siskiyou_NF,Galice,SWO-5,,state,OR,Southwest_OR,34,S,8,W,24,42.60094,-123.59283,Site not trapped since 1986
+6,2444,Siskiyou_NF,Galice,SWO-6,,state,OR,Southwest_OR,34,S,7,W,23,42.60036,-123.49465,Site not trapped since 1986
+6,2456,Malheur_NF,Emigrant_Cr,7,Badge,usfs,OR,,19,S,29,E,23,43.90986,-119.20698,Site not trapped since 1984
+6,2457,Malheur_NF,Emigrant_Cr,7,Yellow_Jacket,usfs,OR,,19,S,29,E,32,43.88089,-119.26673,Site not trapped since 1984
+6,2485,Okanogan&Wenatchee_NF,Methow_Valley,7,Mcfarland_Ctoff,usfs,WA,,30,N,21,E,1,48.1272,-120.15098,Site not trapped since 1987
+6,2486,Umatilla NF,N_Fork_John_Day,,Powerhouse,usfs,OR,,9,S,35,E,9,44.79494,-118.5003,"Replaced Freemont (plot 76/17, private land) in 2016, not sure if needs new plot number"
+6,2487,Malheur_NF,Prairie_City,ECO-31,Private,state,OR,,14,S,33,E,24,44.34666,-117.30305,"New site, Old site lost due to fire in 2015"
+6,2488,Malheur_NF,Blue_Mtn,ECO-19,Prairie_City_Timber,state,OR,,16,S,36,E,4,44.21861,-117.34305,"New site, Old site lost due to fire in 2015"
+6,2495,Okanogan&Wenatchee_NF,,224,Nealy Creek Road,state,WA,,39,N,30,E,5,48.91104,-119.07209,New plot in 2016
+6,2496,Okanogan&Wenatchee_NF,Tonasket,225,Old Wauconda/Hwy 20,state,WA,,37,N,31,E,7,48.7143,-118.95435,"New plot in 2016, dropped in 2017"
+6,2497,Okanogan&Wenatchee_NF,Tonasket,226,Cottonwood Campground,state,WA,,36,N,24,E,25,48.59004,-119.76521,New plot in 2016
+6,2498,Okanogan&Wenatchee_NF,Tonasket,227,Nine Mile Ranch,state,WA,,40,N,28,E,28,48.93346,-119.30824,"New plot in 2016, replaces plot 915/204"
+6,2499,Colville_NF,Republic,41,Scatter,usfs,WA,,35,N,32,E,22,48.55158,-118.79769,Same plot number as Sunsetlake
+6,2500,Colville_NF,Republic,44,Bear Pot,usfs,WA,,35,N,33,E,12,48.54393,-118.64387,Same plot number as Iron_Mtn
+6,2501,Malheur_NF,,,Indian Creek,blm,OR,,16,S,27,E,35,,,Plot Location established in 2017
+6,2502,Malheur_NF,,,Franks Creek,blm,OR,,12,S,27,E,5,,,Plot Location established in 2017
+6,2503,Umatilla_NF,,,Holmes Creek,blm,OR,,10,S,26,E,27,,,Plot Location established in 2017
+6,2504,Warm_Springs_IR,Warm_Springs_IR,,S-500,bia,OR,,6,S,10,E,"1, 12, 13, 24",,,"Plot Location established in 2016, Multiple Sections"
+6,2505,Warm_Springs_IR,Warm_Springs_IR,,W-325,bia,OR,,6,S,10,E,"15, 22, 23",,,"Plot Location established in 2016, Multiple Sections"
+6,2506,Colville_IR,Sanpoil,1,Lower San Poil,bia,WA,,29,N,33,E,31,47.9743,-118.7087,Plot Location established in 2017
+6,2507,Colville_IR,Sanpoil,2,Copper Creek#2,bia,WA,,30,N,33,E,23,48.0883,-118.6292,Plot Location established in 2017
+6,2508,Colville_IR,Sanpoil,3,Jack_Creek 2,bia,WA,,30,N,32,E,24,48.0818,-118.7226,Plot Location established in 2017
+6,2509,Colville_IR,Sanpoil,4,Copper Creek#1,bia,WA,,30,N,33,E,22,48.0798,-118.65,Plot Location established in 2017
+6,2510,Colville_IR,Sanpoil,5,21 Mile,bia,WA,,34,N,32,E,36,48.4106,-118.7324,Plot Location established in 2017
+6,2511,Colville_IR,Sanpoil,6,30 Mile,bia,WA,,32,N,33,E,17,48.2704,-118.694,Plot Location established in 2017
+6,2512,Colville_IR,Sanpoil,7,13 Mile,bia,WA,,34,N,32,E,25,48.4189,-118.7304,Plot Location established in 2017
+6,2513,Colville_IR,Sanpoil,8,Anderson Creek,bia,WA,,33,N,32,E,11,48.3799,-118.7506,Plot Location established in 2017
+ID,1,Coeur_d'Alene,Fernan,001,Elk_Mountain,state,ID,Kootenai,49,N,2,W,7,,,
+ID,2,Coeur_d'Alene,Fernan,002,Coeur_D'Alene_Mtn,state,ID,Kootenai,49,N,3,W,14,,,
+ID,3,St._Joe,St_Maries,003,Lolo_Pass,state,ID,Benewah,45,N,4,W,33,47.217677,-116.8365,
+ID,4,St._Joe,St_Maries,004,Charles_Butte,state,ID,Benewah,44,N,3,W,32,47.116287,-116.726377,
+ID,5,St._Joe,St_Maries,005,Peterson_Point,state,ID,Benewah,44,N,2,W,2,47.173763,-116.56596,
+ID,6,St._Joe,Palouse,006,East_Dennis,state,ID,Benewah,43,N,3,W,23,47.066294,-116.692383,
+ID,7,St._Joe,Palouse,007,East_Gold_Hill,state,ID,Latah,42,N,4,W,13,46.959511,-116.788155,
+ID,8,St._Joe,Palouse,008,Flat_Creek,state,ID,Latah,41,N,3,W,33,46.852131,-116.735861,
+ID,9,St._Joe,Palouse,009,Long_Creek,state,ID,Latah,40,N,4,W,4,46.838593,-116.838845,
+ID,10,St._Joe,Palouse,010,Paradise_Point,state,ID,Latah,40,N,5,W,10,46.818924,-116.947056,
+ID,11,St._Joe,Palouse,011,Mineral_Mountain,state,ID,Latah,43,N,4,W,20,47.061195,-116.876099,
+ID,12,St._Joe,Palouse,012,Mission_Mountain,state,ID,Latah,43,N,5,W,15,47.061159,-116.954019,
+ID,13,St._Joe,Palouse,013,Spring_Valley_Cr,state,ID,Latah,40,N,3,W,20,46.798503,-116.749528,
+ID,14,St._Joe,Palouse,014,Vassar_Meadows,state,ID,Latah,41,N,2,W,35,46.847098,-116.569757,
+ID,15,St._Joe,Palouse,015,Fairview_Knob,state,ID,Benewah,43,N,3,W,17,47.087084,-116.722583,
+ID,16,Kaniksu,Sandpoint,016,Rapid_Lightning_Cr,state,ID,Bonner,59,N,1,E,36,,,
+ID,17,Kaniksu,Sandpoint,017,Caribou_Creek,state,ID,Bonner,59,N,2,W,16,,,
+ID,18,Coeur_d'Alene,Fernan,018,Coeur_D'Alene_(Area),state,ID,Kootenai,50,N,4,W,14,,,
+ID,19,St._Joe,Palouse,019,Moscow_(Area),state,ID,Latah,39,N,5,W,18,,,
+ID,20,St._Joe,Palouse,020,Troy_(Vicinity),state,ID,Latah,39,N,3,W,7,,,
+ID,21,St._Joe,Palouse,021,West_Twin_10-115,state,ID,Latah,40,N,5,W,11,46.813144,-116.927155,
+ID,22,St._Joe,Palouse,022,Moscow_Mtn_115-114,state,ID,Latah,40,N,4,W,17,46.808794,-116.856238,
+ID,101,St._Joe,St_Maries,101,S_Fk_Little_Plummer_Ck,state,ID,Benewah,45,N,4,W,10,47.236992,-116.801659,
+ID,102,St._Joe,St_Maries,102,Windfall_Pass,state,ID,Benewah,45,N,4,W,16,47.244066,-116.836561,
+ID,103,St._Joe,St_Maries,103,Squaw_Creek,state,ID,Benewah,44,N,4,W,12,47.161315,-116.804857,
+ID,104,St._Joe,St_Maries,104,Moses_Mountain,state,ID,Benewah,44,N,3,W,18,47.128029,-116.769153,
+ID,105,St._Joe,St_Maries,105,Little_John_Creek,state,ID,Benewah,44,N,2,W,20,47.147487,-116.617975,
+ID,106,St._Joe,St_Maries,106,Emida_Peak,state,ID,Benewah,43,N,2,W,2,47.104003,-116.591436,
+ID,107,St._Joe,St_Maries,107,North-South_Ski_Area,state,ID,Benewah,43,N,2,W,19,47.06481,-116.64429,
+ID,108,St._Joe,Palouse,108,Bald_Mountain,state,ID,Benewah,43,N,7,W,26,,,
+ID,109,St._Joe,Palouse,109,Laird_Park,state,ID,Latah,42,N,2,W,31,46.944199,-116.64386,
+ID,110,St._Joe,Palouse,110,N_Fork_Palouse_Rv,state,ID,Latah,42,N,2,W,28,46.958266,-116.602009,
+ID,111,St._Joe,Palouse,111,Mica_Mountain,state,ID,Latah,41,N,2,W,22,46.879682,-116.577841,
+ID,112,St._Joe,Palouse,112,Schwartz_Creek,state,ID,Latah,41,N,2,W,27,46.870115,-116.585624,
+ID,113,St._Joe,Palouse,113,Big_Bear_Creek,state,ID,Latah,40,N,2,W,18,46.807336,-116.647516,
+ID,114,St._Joe,Palouse,114,Big_Meadow_Cr,state,ID,Latah,40,N,4,W,22,46.797825,-116.818336,
+ID,115,St._Joe,Palouse,115,East_Twin_Mountain,state,ID,Latah,40,N,4,W,18,46.813026,-116.899506,
+ID,116,St._Joe,Palouse,116,Crane_Point,state,ID,Benewah,43,N,4,W,26,47.043351,-116.809222,
+ID,117,St._Joe,Palouse,117,Sheep_Creek,state,ID,Benewah,43,N,5,W,11,47.07268,-116.939584,
+ID,118,St._Joe,Palouse,118,W_Fork_Mission_Cr,state,ID,Latah,43,N,5,W,4,47.102924,-116.97369,
+ID,119,St._Joe,St_Maries,119,1_Mi_N_Monerial_Mtn_11-216,state,ID,Benewah,43,N,4,W,18,47.075023,-116.879328,
+ID,200,St._Joe,St_Maries,200,2_Mi_W_Of_Plummer,state,ID,Benewah,46,N,5,W,10,47.344666,-116.941901,
+ID,201,St._Joe,St_Maries,201,Coon_Creek,state,ID,Benewah,46,N,3,W,30,47.309909,-116.764727,
+ID,202,St._Joe,St_Maries,202,3_Mi_E_Of_Benewah,state,ID,Benewah,45,N,3,W,16,,,
+ID,203,St._Joe,St_Maries,203,Benewah_Point,state,ID,Benewah,45,N,3,W,11,47.298077,-116.647251,
+ID,204,St._Joe,St_Maries,204,John's_Point,state,ID,Benewah,44,N,3,W,13,,,
+ID,205,St._Joe,St_Maries,205,3_Mi_E_Charles_Butte,state,ID,Benewah,44,N,3,W,26,47.134489,-116.682979,
+ID,206,St._Joe,St_Maries,206,Sunset_Mountain,state,ID,Benewah,43,N,1,W,32,,,
+ID,207,St._Joe,St_Maries,207,Emerald_Butte,state,ID,Latah,42,N,1,E,6,47.028516,-116.377508,
+ID,208,St._Joe,St_Maries,208,Cedar_Butte,state,ID,Shoshone,42,N,1,E,11,47.00771,-116.304542,
+ID,209,St._Joe,Palouse,209,Abes_Knob,state,ID,Latah,42,N,1,W,35,46.840591,-116.397275,
+ID,210,St._Joe,Palouse,210,W_Fork_Deep_Cr,state,ID,Latah,43,N,5,W,26,47.03755,-116.926812,
+ID,211,St._Joe,Palouse,211,Cherry_Butte,state,ID,Latah,40,N,2,W,13,46.809126,-116.539699,
+ID,212,St._Joe,Palouse,212,Jackson_Mountain,state,ID,Clearwater,40,N,1,E,15,46.814735,-116.315886,
+ID,213,Coeur_d'Alene,Fernan,213,Red_Horse_Mountain,state,ID,Kootenai,49,N,2,W,31,,,
+ID,214,Coeur_d'Alene,Fernan,214,Fortier_Creek,state,ID,Kootenai,49,N,2,W,22,,,
+ID,215,Coeur_d'Alene,Fernan,215,Killarney_Mountain,state,ID,Kootenai,49,N,2,W,14,,,
+ID,216,St._Joe,Palouse,216,1_Mi_Nw_Mineral_Mt,state,ID,Benewah,43,N,4,W,18,47.07349,-116.89027,
+ID,217,St._Joe,Palouse,217,Head_Sheep_Cr_216-117-2,state,ID,Latah,43,N,5,W,13,47.079327,-116.916968,
+ID,300,St._Joe,Palouse,300,Mission_Mountain_(#2),state,ID,Benewah,43,N,5,W,15,47.068045,-116.944461,
+ID,301,St._Joe,Palouse,301,1.5_Mi_S_Mineral_Mt,state,ID,Latah,43,N,4,W,19,47.050744,-116.889999,
+ID,302,St._Joe,Palouse,302,Mid_Fork_Deep_Cr_1_301-216-1,state,ID,Latah,43,N,4,W,19,47.059572,-116.894963,
+ID,303,St._Joe,Palouse,303,Mid_Fork_Deep_Cr_2_301-216-3,state,ID,Latah,43,N,4,W,18,47.062927,-116.897653,
+ID,400,St._Joe,Palouse,400,3_Mi_S_Mineral_Mt,state,ID,Latah,40,N,3,W,9,47.030064,-116.838108,
+ID,401,St._Joe,Palouse,401,Flynn_Butte,state,ID,Latah,42,N,2,W,19,46.991708,-116.640117,
+ID,402,St._Joe,Palouse,402,2_Mi_Se_Browns_Mdw,state,ID,Latah,43,N,4,W,31,46.826415,-116.737122,
+ID,500,St._Joe,Palouse,500,3_Mi_Sw_Harvard,state,ID,Latah,41,N,3,W,20,46.884657,-116.761779,
+ID,501,St._Joe,Palouse,501,2_Mi_S._Moon_Hill,state,ID,Latah,41,N,3,W,21,46.864795,-116.729559,
+ID,502,St._Joe,Palouse,502,3_Mi_W_Crane_Pt,state,ID,Latah,43,N,2,W,29,47.043372,-116.86964,
+ID,503,St._Joe,Palouse,503,3_Mi_N._Stanford_Pt.,state,ID,Latah,41,N,3,W,35,46.860129,-116.693292,
+ID,504,St._Joe,Palouse,504,2_Mi_N._Stanford_Pt.,state,ID,Latah,41,N,3,W,35,46.845964,-116.669962,
+ID,505,St._Joe,Palouse,505,1_Mi_Sw_Stanford_Pt.,state,ID,Latah,40,N,3,W,15,46.809682,-116.702615,
+ID,506,St._Joe,Palouse,506,1_Mi_S._Stanford_Pt.,state,ID,Latah,40,N,3,W,14,46.808626,-116.68062,
+ID,507,St._Joe,Palouse,507,1_Mi_Ne_Stanford_Pt.,state,ID,Latah,40,N,3,W,12,46.823666,-116.669874,
+ID,508,St._Joe,Palouse,508,1_Mi_W._Stanford_Pt.,state,ID,Latah,40,N,3,W,10,46.827056,-116.69341,
+ID,509,St._Joe,Palouse,509,2_Mi_Nw_Stanford_Pt.,state,ID,Latah,40,N,3,W,3,46.82955,-116.681179,
+ID,510,St._Joe,Palouse,510,Moon_Hill,state,ID,Latah,41,N,3,W,16,46.901379,-116.730243,
+ID,511,St._Joe,Palouse,511,2_Mi_Se_Moon_Hill,state,ID,Latah,41,N,3,W,20,46.883662,-116.741743,
+ID,512,St._Joe,Palouse,512,3_Mi_S._Mineral_Mtn.,state,ID,Latah,43,N,4,W,31,47.027141,-116.889188,
+ID,513,St._Joe,Palouse,513,2_Mi_Sw_Moon_Hill,state,ID,Latah,41,N,3,W,27,46.874529,-116.708943,
+ID,514,St._Joe,Palouse,514,1.5_Mi_Nw_Avon,state,ID,Latah,40,N,2,W,6,46.83704,-116.654985,
+ID,600,Don't Know NF,,600,,,,,0,,0,,0,46.96535,-116.846617,
+ID,601,Coeur_d'Alene,Fernan,601,1Mi._Nw_Elk_Mtn.,state,ID,Kootenai,49,N,2,W,8,46.994232,-116.705583,
+ID,602,Coeur_d'Alene,Fernan,602,Pleasant_Creek,state,ID,Kootenai,49,N,3,W,25,47.333974,-116.773949,
+ID,603,Coeur_d'Alene,Fernan,603,West_Fork_Fortier_Creek,state,ID,Kootenai,49,N,2,W,20,47.318069,-116.667071,
+ID,604,Coeur_d'Alene,Fernan,604,Elk_Mountain,state,ID,Kootenai,49,N,2,W,16,,,
+ID,605,Coeur_d'Alene,Fernan,605,Rose_Creek,state,ID,Kootenai,49,N,2,W,23,,,
+ID,701,St._Joe,Palouse,701,Fourmile_Creek,state,ID,Latah,40,N,5,W,9,46.825674,-116.97932,
+ID,702,St._Joe,Palouse,702,North_of_Granite_Point,state,ID,Latah,40,N,4,W,7,46.822881,-116.886035,
+ID,703,St._Joe,Palouse,703,Spring_Valley_Creek,state,ID,Latah,40,N,4,W,24,46.80931,-116.754694,
+ID,704,St._Joe,Palouse,704,West_Fork_Big_Bear_Creek,state,ID,Latah,40,N,3,W,24,46.794019,-116.66406,
+ID,705,St._Joe,Palouse,705,2_Mi_NW_of_Stanford_Pt,state,ID,Latah,40,N,3,W,3,46.839101,-116.688926,
+ID,706,St._Joe,St_Maries,706,1_Mi_S._of_Iron_Mtn,state,ID,Benewah,44,N,5,W,28,47.115284,-116.969199,
+ID,707,St._Joe,St_Maries,707,Iron_Mtn,state,ID,Benewah,44,N,5,W,28,,,
+ID,708,St._Joe,Palouse,708,Little_Bear_Creek,state,ID,Latah,41,N,2,W,30,46.879117,-116.620175,
+ID,709,St._Joe,Palouse,709,Quartz_Creek,state,ID,Latah,41,N,2,W,1,46.90723,-116.677126,
+ID,710,St._Joe,Palouse,710,Turnbow_Creek,state,ID,Latah,41,N,4,W,13,46.891595,-116.793294,
+ID,711,St._Joe,Palouse,711,East_Fork_Flat_Creek,state,ID,Latah,41,N,3,W,13,46.889346,-116.690876,
+ID,712,St._Joe,Palouse,712,Turnbow_Point,state,ID,Latah,41,N,4,W,26,46.873329,-116.801885,
+ID,713,St._Joe,Palouse,713,3_Mi_S_of_Potlatch,state,ID,Latah,41,N,4,W,24,46.876481,-116.908147,
+ID,714,St._Joe,Palouse,714,Rocky_Point,state,ID,Latah,40,N,4,W,5,46.848616,-116.890626,
+ID,715,St._Joe,Palouse,715,Hatter_Creek,state,ID,Latah,41,N,4,W,27,46.874117,-116.842616,
+ID,716,St._Joe,Palouse,716,Heah_of_Big_Meadow_Creek,state,ID,Latah,40,N,4,W,
